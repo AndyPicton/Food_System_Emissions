@@ -1,4 +1,3 @@
 # Food_System_Emissons
 
-Test
-
+![Background Image] (/Katelyn/pexels-tom-fisk-1595104.jpg)
