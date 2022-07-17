@@ -36,3 +36,8 @@ Questions we hope to answer with the data include the following:
 - “How is the world’s food system contributing to Greenhouse Gas emissions?”
 - "Over time, how has the world’s food system greenhouse gas emissions changed?”
 - “Is our food system becoming more GHG emission intensive?”
+
+## Communication Protocols
+
+We created a Google Doc to track our resources and other project related links. This also contains our contact information and information on next steps. We will place all project related items that are not ready for GitHub on this doc if we need to keep track of it. We are communicating through Slack and have shared phone numbers for immediate concerns. We are using Discord to to video meetings outside of class time. A majority of our work together will take place during class time meetings. 
+
