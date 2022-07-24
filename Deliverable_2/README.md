@@ -4,6 +4,8 @@
 
 * [Overview](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Overview)
 * [Data](https://github.com/AndyPicton/Food_System_Emissions/tree/main/Deliverable_2/Data)
+* [Presentation](https://docs.google.com/presentation/d/1UWW6PTv3gYfUZt2sINpBFY7_NyeHyOu3HGkMoWSyKko/edit#slide=id.gf48cb76871_0_33)
+* [Dashboard](https://docs.google.com/presentation/d/13E7F-yIHB91cka32D1X9BRDlvEzHa5vGhuE8NXBjyjw/edit#slide=id.p)
 
 ## Overview
 ### Project Description
