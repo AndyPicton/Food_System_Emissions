@@ -3,7 +3,9 @@
 ## Table of Contents
 
 * [Overview](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Overview)
-* [Data](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Data)
+* [Data](https://github.com/AndyPicton/Food_System_Emissions/tree/main/Deliverable_2/Data)
+* [Presentation](https://docs.google.com/presentation/d/1UWW6PTv3gYfUZt2sINpBFY7_NyeHyOu3HGkMoWSyKko/edit#slide=id.gf48cb76871_0_33)
+* [Dashboard](https://docs.google.com/presentation/d/13E7F-yIHB91cka32D1X9BRDlvEzHa5vGhuE8NXBjyjw/edit#slide=id.p)
 
 ## Overview
 ### Project Description
@@ -33,6 +35,18 @@ Questions we hope to answer with the data include the following:
 - “How is the world’s food system contributing to Greenhouse Gas emissions?”
 - "Over time, how has the world’s food system greenhouse gas emissions changed?”
 - “Is our food system becoming more GHG emission intensive?”
+
+#### Question for Random Forest:
+
+Predicting classification of Industrial or Developing countries based on:
+- Substance ( types of GHG - 4 types )
+- Food system stage ( production, packaging, … )
+- Country name ( found it helped accuracy )
+
+## Machine Learning Model
+Initially we tried a linear regression model, it worked but had errors when showing accuracy with dividing by zero.
+
+We then moved to Random Forest 2018 model and has no errors predicting developing countries for the RF model and is more accurate than industrial countries. The code is updated to run on any specified year from the data set and a new notebook can run a RF model for all years of the data set.
 
 ## Communication Protocols
 
