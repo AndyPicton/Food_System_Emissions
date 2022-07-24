@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Overview](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Overview)
-* [Data] (https://github.com/AndyPicton/Food_System_Emissions/tree/main/Deliverable_2/Data)
+* [Data](https://github.com/AndyPicton/Food_System_Emissions/tree/main/Deliverable_2/Data)
 
 ## Overview
 ### Project Description
