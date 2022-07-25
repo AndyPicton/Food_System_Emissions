@@ -47,7 +47,6 @@ Predicting classification of Industrial or Developing countries based on:
 
 Initially we tried a linear regression model, it worked but had errors when showing accuracy with dividing by zero.
 
-Description of the Analysis Phase
 We then moved to Random Forest 2018 model and has no errors predicting developing countries for the RF model and is more accurate than industrial countries. The code is updated to run on any specified year from the data set and a new notebook can run a RF model for all years of the data set.
 
 ## Communication Protocols
