@@ -4,7 +4,6 @@
 
 * [Overview](https://github.com/AndyPicton/Food_System_Emissions/Deliverable_2/blob/main/README.md#Overview)
 * [Data](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Data)
-* [Machine Learning Model](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Machine Learning Model)
 
 
 ## Overview
