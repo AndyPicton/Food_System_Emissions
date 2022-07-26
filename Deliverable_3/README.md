@@ -25,6 +25,8 @@ The data for this project comes from EDGAR-FOOD. EDGAR is a multipurpose, indepe
 
 Our data source contains information on Countries and Regions of the world in regards to their GHG emissions. It contains data on whether a country is developing or industrialized, the type of GHG emission, the year corresponding to the GHG emission amount, and the food stage that corresponds with the amount and type of GHG emitted per year. 
 
+![image](https://user-images.githubusercontent.com/99369565/181123155-23d0b4c3-c8f3-443f-a9b3-fe04e81a2b5f.png)
+
 Link to Source Data: https://edgar.jrc.ec.europa.eu/edgar_food 
 
 Description Information Source: https://edgar.jrc.ec.europa.eu/
@@ -49,6 +51,15 @@ Predicting classification of Industrial or Developing countries based on:
 Initially we tried a linear regression model, it worked but had errors when showing accuracy with dividing by zero.
 
 We then moved to Random Forest 2018 model and has no errors predicting developing countries for the RF model and is more accurate than industrial countries. The code is updated to run on any specified year from the data set and a new notebook can run a RF model for all years of the data set.
+
+# Description of Database
+
+We used Postgres SQL on Amazon AWS due to its useability and convenience.
+
+![image](https://user-images.githubusercontent.com/99369565/181124075-2684d956-9351-42f5-8a72-37e5288ac120.png)
+
+
+
 
 ## Communication Protocols
 
