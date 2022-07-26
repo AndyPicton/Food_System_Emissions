@@ -27,9 +27,7 @@ Our data source contains information on Countries and Regions of the world in re
 
 ![image](https://user-images.githubusercontent.com/99369565/181123155-23d0b4c3-c8f3-443f-a9b3-fe04e81a2b5f.png)
 
-Link to Source Data: https://edgar.jrc.ec.europa.eu/edgar_food 
 
-Description Information Source: https://edgar.jrc.ec.europa.eu/
 
 ### Research Questions
 
@@ -68,3 +66,5 @@ We created a Google Doc to track our resources and other project related links. 
 ## Links
 * [Presentation](https://docs.google.com/presentation/d/1UWW6PTv3gYfUZt2sINpBFY7_NyeHyOu3HGkMoWSyKko/edit#slide=id.gf48cb76871_0_33)
 * [Dashboard Planning](https://docs.google.com/presentation/d/13E7F-yIHB91cka32D1X9BRDlvEzHa5vGhuE8NXBjyjw/edit#slide=id.p)
+* [Source Data](https://edgar.jrc.ec.europa.eu/edgar_food)
+* [Description Information Source](https://edgar.jrc.ec.europa.eu/)
