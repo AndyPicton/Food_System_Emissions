@@ -6,7 +6,7 @@
 
 * [Overview](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Overview)
 * [Data](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Data)
-* [Machine Learning Model](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#MachineLearningModel)
+* [Machine Learning Model](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Machine-Learning-Model)
 * [Process](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Process)
 
 ## Overview
@@ -108,4 +108,5 @@ We created a Google Doc to track our resources and other project related links. 
 * [Presentation](https://docs.google.com/presentation/d/1UWW6PTv3gYfUZt2sINpBFY7_NyeHyOu3HGkMoWSyKko/edit#slide=id.gf48cb76871_0_33)
 * [Dashboard Planning](https://docs.google.com/presentation/d/13E7F-yIHB91cka32D1X9BRDlvEzHa5vGhuE8NXBjyjw/edit#slide=id.p)
 * [Source Data](https://edgar.jrc.ec.europa.eu/edgar_food)
-* [Description Information Source](https://edgar.jrc.ec.europa.eu/)
+
+[Jump to top](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Overview)
