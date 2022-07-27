@@ -1,9 +1,9 @@
 # Food System Emissons
-======================
+
 ![Background Image](/Katelyn/pexels-tom-fisk-1595104.jpg)
 
 ## Table of Contents
-====================
+
 * [Overview](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Overview)
 * [Data](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Data)
 * [Machine Learning Model](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#MachineLearningModel)
