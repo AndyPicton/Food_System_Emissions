@@ -7,6 +7,7 @@
 * [Overview](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Overview)
 * [Data](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Data)
 * [Machine Learning Model](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#MachineLearningModel)
+* [Process](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Process)
 
 ## Overview
 ### Project Topic Description
@@ -14,7 +15,7 @@
 The focus of our project is on food system greenhouse gas (GHGs) emissions throughout the world. We will be analyzing the data for trends utilizing various data analysis techniques and visualizations to portray our research results. 
 
 
-### Background: Reason for Selecting Topic
+### Background
 
 Our team selected the topic of food system emissions due to our mutual interests in the environment and agriculture. The global food system  at every stage of food production throughout the world is energy intensive and contributes to GHG production. We would like to discover the impacts of food production on the production of GHG emissions by looking at our food system's emissions over time, across different countries and regions and other elements. We would also like to predict future emissions using a machine learning model. 
 
@@ -26,8 +27,6 @@ The data for this project comes from EDGAR-FOOD. EDGAR is a multipurpose, indepe
 Our data source contains information on Countries and Regions of the world in regards to their GHG emissions. It contains data on whether a country is developing or industrialized, the type of GHG emission, the year corresponding to the GHG emission amount, and the food stage that corresponds with the amount and type of GHG emitted per year. 
 
 ![image](https://user-images.githubusercontent.com/99369565/181123155-23d0b4c3-c8f3-443f-a9b3-fe04e81a2b5f.png)
-
-
 
 ### Research Questions
 
@@ -44,7 +43,7 @@ Predicting classification of Industrial or Developing countries based on:
 - Food system stage ( production, packaging, … )
 - Country name ( found it helped accuracy )
 
-### Machine Learning Model
+## Machine Learning Model
 
 Initially we tried a linear regression model, it worked but had errors when showing accuracy with dividing by zero.
 
