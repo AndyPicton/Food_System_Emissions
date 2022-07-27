@@ -50,11 +50,15 @@ Initially we tried a linear regression model, it worked but had errors when show
 
 We then moved to Random Forest 2018 model and has no errors predicting developing countries for the RF model and is more accurate than industrial countries. The code is updated to run on any specified year from the data set and a new notebook can run a RF model for all years of the data set.
 
-# Description of Database
+## Database
 
 We used Postgres SQL on Amazon AWS due to its useability and convenience.
 
 ![image](https://user-images.githubusercontent.com/99369565/181124075-2684d956-9351-42f5-8a72-37e5288ac120.png)
+
+We joined country from edgar_food_switched database with country_name from country_def database.
+
+![image](https://user-images.githubusercontent.com/99369565/181133898-da7dc05c-a0e9-4598-916b-5346ab89d9c5.png)
 
 
 
