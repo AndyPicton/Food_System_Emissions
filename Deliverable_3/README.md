@@ -28,12 +28,6 @@ Our data source contains information on Countries and Regions of the world in re
 
 ![image](https://user-images.githubusercontent.com/99369565/181123155-23d0b4c3-c8f3-443f-a9b3-fe04e81a2b5f.png)
 
-### Dashboard
-
-This is a blueprint of the bashboard we want to create, it will have an interactive heat map that users can hover over to see different data about each country.
-
-![image](https://user-images.githubusercontent.com/99369565/181387817-8f67472d-5e7d-4fb7-8fc2-658b991234dd.png)
-
 ### Research Questions
 
 Questions we hope to answer with the data include the following:
@@ -100,6 +94,11 @@ We joined country from edgar_food_switched database with country_name from count
 
 ![image](https://user-images.githubusercontent.com/99369565/181133898-da7dc05c-a0e9-4598-916b-5346ab89d9c5.png)
 
+### Dashboard
+
+This is a blueprint of the bashboard we want to create, it will have an interactive heat map that users can hover over to see different data about each country.
+
+![image](https://user-images.githubusercontent.com/99369565/181387817-8f67472d-5e7d-4fb7-8fc2-658b991234dd.png)
 
 ## Communication Protocols
 
