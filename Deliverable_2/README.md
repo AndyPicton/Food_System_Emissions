@@ -2,10 +2,9 @@
 
 ## Table of Contents
 
-* [Overview](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Overview)
-* [Data](https://github.com/AndyPicton/Food_System_Emissions/tree/main/Deliverable_2/Data)
-* [Presentation](https://docs.google.com/presentation/d/1UWW6PTv3gYfUZt2sINpBFY7_NyeHyOu3HGkMoWSyKko/edit#slide=id.gf48cb76871_0_33)
-* [Dashboard Planning](https://docs.google.com/presentation/d/13E7F-yIHB91cka32D1X9BRDlvEzHa5vGhuE8NXBjyjw/edit#slide=id.p)
+* [Overview](https://github.com/AndyPicton/Food_System_Emissions/Deliverable_2/blob/main/README.md#Overview)
+* [Data](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Data)
+
 
 ## Overview
 ### Project Topic Description
@@ -53,3 +52,6 @@ We then moved to Random Forest 2018 model and has no errors predicting developin
 
 We created a Google Doc to track our resources and other project related links. This also contains our contact information and information on next steps. We will place all project related items that are not ready for GitHub on this doc if we need to keep track of it. We are communicating through Slack and have shared phone numbers for immediate concerns. We are using Discord to to video meetings outside of class time. A majority of our work together will take place during class time meetings. 
 
+## Links
+* [Presentation](https://docs.google.com/presentation/d/1UWW6PTv3gYfUZt2sINpBFY7_NyeHyOu3HGkMoWSyKko/edit#slide=id.gf48cb76871_0_33)
+* [Dashboard Planning](https://docs.google.com/presentation/d/13E7F-yIHB91cka32D1X9BRDlvEzHa5vGhuE8NXBjyjw/edit#slide=id.p)
