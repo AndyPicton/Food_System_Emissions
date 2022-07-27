@@ -106,4 +106,4 @@ We created a Google Doc to track our resources and other project related links. 
 * [Source Data](https://edgar.jrc.ec.europa.eu/edgar_food)
 
 
-[Jump to top](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Food-System-Emissions)
+[Jump to top](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Table-of-Contents)
