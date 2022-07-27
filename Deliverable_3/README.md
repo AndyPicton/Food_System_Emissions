@@ -7,7 +7,8 @@
 * [Overview](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Overview)
 * [Data](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Data)
 * [Machine Learning Model](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Machine-Learning-Model)
-* [Process](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Process)
+* [Database](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Database)
+* [Links](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Links)
 
 ## Overview
 ### Project Topic Description
@@ -94,11 +95,6 @@ We joined country from edgar_food_switched database with country_name from count
 
 ![image](https://user-images.githubusercontent.com/99369565/181133898-da7dc05c-a0e9-4598-916b-5346ab89d9c5.png)
 
-### Dashboard
-
-This is a blueprint of the bashboard we want to create, it will have an interactive heat map that users can hover over to see different data about each country.
-
-![image](https://user-images.githubusercontent.com/99369565/181387817-8f67472d-5e7d-4fb7-8fc2-658b991234dd.png)
 
 ## Communication Protocols
 
@@ -109,4 +105,5 @@ We created a Google Doc to track our resources and other project related links. 
 * [Dashboard Planning](https://docs.google.com/presentation/d/13E7F-yIHB91cka32D1X9BRDlvEzHa5vGhuE8NXBjyjw/edit#slide=id.p)
 * [Source Data](https://edgar.jrc.ec.europa.eu/edgar_food)
 
-[Jump to top](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Overview)
+
+[Jump to top](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Table-of-Contents)
