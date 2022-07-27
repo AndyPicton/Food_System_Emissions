@@ -43,23 +43,6 @@ Predicting classification of Industrial or Developing countries based on:
 - Food system stage ( production, packaging, … )
 - Country name ( found it helped accuracy )
 
-## Machine Learning Model
-
-Initially we tried a linear regression model, it worked but had errors when showing accuracy with dividing by zero.
-
-We then moved to Random Forest 2018 model and has no errors predicting developing countries for the RF model and is more accurate than industrial countries. The code is updated to run on any specified year from the data set and a new notebook can run a RF model for all years of the data set.
-
-### Database
-
-We used Postgres SQL on Amazon AWS due to its useability and convenience.
-
-![image](https://user-images.githubusercontent.com/99369565/181124075-2684d956-9351-42f5-8a72-37e5288ac120.png)
-
-We joined country from edgar_food_switched database with country_name from country_def database.
-
-![image](https://user-images.githubusercontent.com/99369565/181133898-da7dc05c-a0e9-4598-916b-5346ab89d9c5.png)
-
-## Process
 ### Data Exploration
 
 We wanted our data to meet the following criteria:
@@ -75,18 +58,37 @@ One of the first things we noticed we needed to change was switch year from a ro
 
 
 ### Data Analysis
-
-Once the data exploration phase was complete we setup two different machine learning models to test on one year at a time and also all years then compared the two.
-
-Accuracy score and classification report for data on one year (1995): 
-![image](https://user-images.githubusercontent.com/99369565/181136542-17540f60-2f63-4b7c-bfab-89e7b05c6d4d.png)
-
-Accuracy score and classification report for data on all years: 
-![image](https://user-images.githubusercontent.com/99369565/181136432-5f9c37eb-1aed-4524-8ba7-72eb94fb6410.png)
+Once the data exploration phase was complete we setout to clean the data and narrow our questions down.
 
 We converted all data to be an integer so each country, substance, and food system stage has its own number as well as updating dev_country to be 1 for developing and 0 for industrialized.  We first tested the models on a few variables (substance, food system stage, year, country, and country class) then found that adding the country region drastically increased the accuracy score.
 
 ![image](https://user-images.githubusercontent.com/99369565/181137223-9ce728ff-0e4b-4de8-b73c-67912c20017e.png)
+
+### Machine Learning Model
+
+Initially we tried a linear regression model, it worked but had errors when showing accuracy with dividing by zero.
+
+We then moved to Random Forest 2018 model and has no errors predicting developing countries for the RF model and is more accurate than industrial countries. The code is updated to run on any specified year from the data set and a new notebook can run a RF model for all years of the data set.
+
+We first setup two different machine learning models to test on one year at a time and also all years then compared the two.
+
+Accuracy score and classification report for data on one year (1995): 
+
+![image](https://user-images.githubusercontent.com/99369565/181136542-17540f60-2f63-4b7c-bfab-89e7b05c6d4d.png)
+
+Accuracy score and classification report for data on all years: 
+
+![image](https://user-images.githubusercontent.com/99369565/181136432-5f9c37eb-1aed-4524-8ba7-72eb94fb6410.png)
+
+### Database
+
+We used Postgres SQL on Amazon AWS due to its useability and convenience.
+
+![image](https://user-images.githubusercontent.com/99369565/181124075-2684d956-9351-42f5-8a72-37e5288ac120.png)
+
+We joined country from edgar_food_switched database with country_name from country_def database.
+
+![image](https://user-images.githubusercontent.com/99369565/181133898-da7dc05c-a0e9-4598-916b-5346ab89d9c5.png)
 
 
 ## Communication Protocols
