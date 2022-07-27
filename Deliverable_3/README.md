@@ -52,9 +52,13 @@ We wanted our data to meet the following criteria:
 
 After finding the right data set to use, we had discussions on what questions we wanted and could be answered. Next we found what data needed to be cleaned and dropped and what data was missing.
 
-One of the first things we noticed we needed to change was switch year from a row to a column. We also dropped all rows that contained a 0 in a year, and the countries listed "Int. Aviation" and "Int. Shipping", which helped our accuracy score go up.
+One of the first things we noticed we needed to change was switch year from a row to a column.
 
 ![image](https://user-images.githubusercontent.com/99369565/181135147-ada52a89-f5da-4782-9f82-decfac928719.png)
+
+We also dropped all rows that contained a 0 in a year, and the countries listed "Int. Aviation" and "Int. Shipping", which helped our accuracy score go up.
+
+![image](https://user-images.githubusercontent.com/99369565/181382880-24b93013-d605-44d6-b4df-8c34101bc73a.png)
 
 
 ### Data Analysis
