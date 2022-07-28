@@ -97,6 +97,8 @@ We joined country from edgar_food_switched database with country_name from count
 
 ### Dashboard
 
+We built our dashboard on Tableau and included a heat map, graphs, and images to represent the data we analyzed. The heatmap is interactive by hovering over each country and updates on command by changing the filters. 
+
 ## Communication Protocols
 
 We created a Google Doc to track our resources and other project related links. This also contains our contact information and information on next steps. We will place all project related items that are not ready for GitHub on this doc if we need to keep track of it. We are communicating through Slack and have shared phone numbers for immediate concerns. We are using Discord to to video meetings outside of class time. A majority of our work together will take place during class time meetings. 
