@@ -95,6 +95,7 @@ We joined country from edgar_food_switched database with country_name from count
 
 ![image](https://user-images.githubusercontent.com/99369565/181133898-da7dc05c-a0e9-4598-916b-5346ab89d9c5.png)
 
+### Dashboard
 
 ## Communication Protocols
 
