@@ -106,7 +106,7 @@ We created a Google Doc to track our resources and other project related links. 
 
 ## Links
 * [Presentation](https://docs.google.com/presentation/d/1UWW6PTv3gYfUZt2sINpBFY7_NyeHyOu3HGkMoWSyKko/edit#slide=id.gf48cb76871_0_33)
-* [Dashboard Planning](https://docs.google.com/presentation/d/13E7F-yIHB91cka32D1X9BRDlvEzHa5vGhuE8NXBjyjw/edit#slide=id.p)
+* [Dashboard](https://public.tableau.com/app/profile/katelyn.underbrink/viz/FoodSystemEmissions/FoodSystemGreenhouseGasEmissions?publish=yes)
 * [Source Data](https://edgar.jrc.ec.europa.eu/edgar_food)
 
 
