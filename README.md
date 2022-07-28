@@ -8,6 +8,7 @@
 * [Data](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Data)
 * [Machine Learning Model](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Machine-Learning-Model)
 * [Database](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Database)
+* [Dashboard](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Dashboard)
 * [Links](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Links)
 
 ## Overview
