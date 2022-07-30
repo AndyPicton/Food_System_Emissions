@@ -115,7 +115,7 @@ The rest of the data was split using the standard 75% training 25% testing ratio
 - A random_state=1.
   -	random_state= set to check and validate the data when running the code multiple times, a fixed value will assure that the same sequence of random numbers is generated each time the code is run.
 
-Splitting the preprocessed data:
+**Splitting the preprocessed data:**
 
 ![image](https://user-images.githubusercontent.com/99369565/181919741-43b49d85-106b-4607-98b0-bbd2f4db4420.png)
 
