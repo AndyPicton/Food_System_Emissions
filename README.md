@@ -32,20 +32,12 @@ Our data source contains information on Countries and Regions of the world in re
 
 ### Research Questions
 
-Questions we hope to answer with the data include the following:
-
-- How is the world’s food system contributing to Greenhouse Gas emissions?
-- Over time, how has the world’s food system greenhouse gas emissions changed?
-- Is our food system becoming more GHG emission intensive?
-
-#### Questions for Machine Learning Model:
-
-Predicting classification of Industrial or Developing countries based on:
+Questions we hope to answer with the data to predict classification of Industrial or Developing countries:
 
 - Is there a clear distinction between industrial and developing countries based on GHG emissions per year?
 - Is one group contributing distinctly more GHG emissions?
 - Are developing countries at a disadvantage for GHG emissions production or is there no distinction between the types of countries?
-- From our dataset using specific features to train the RFC can it accurately select industrial or developing countries?  
+- Can the RFC accurately select industrial or developing countries using the specific features we set it to train on?  
 
 ### Data Exploration
 
@@ -54,7 +46,7 @@ We wanted our data to meet the following criteria:
 - medium - large size
 - show history over time and use
 
-After finding the right data set to use, we had discussions on what questions we wanted and could be answered. Next we found what data needed to be cleaned and dropped and what data was missing.
+After finding the right data set to use, we had discussions on what questions we wanted and could be answered. Next we found what data needed to be cleaned, dropped and what was missing.
 
 One of the first things we noticed we needed to change was switch year from a row to a column.
 
@@ -122,6 +114,10 @@ The rest of the data was split using the standard 75% training 25% testing ratio
   -	N_estimators = the number of trees to be built before taking the maximum voting or averages of predictions.  The higher generally better accuracy but more CPU resources required.
 - A random_state=1.
   -	random_state= set to check and validate the data when running the code multiple times, a fixed value will assure that the same sequence of random numbers is generated each time the code is run.
+
+Splitting the preprocessed data:
+
+![image](https://user-images.githubusercontent.com/99369565/181919741-43b49d85-106b-4607-98b0-bbd2f4db4420.png)
 
 With the RFC built, the model was fit with the trained and scaled data allowing for predictions. After making predictions on the scaled testing data analysis was made on the Accuracy, Precision, Recall, and F1-Scores.
 
