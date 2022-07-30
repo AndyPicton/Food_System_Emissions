@@ -125,7 +125,7 @@ When our initial model analyzed specifically 2018, we had an overall accuracy sc
 
 Further analysis could include additional futures such as population to help the model. A keynote to consider, when the model was tweaked to account for country grouping the RFC accuracy jumped to suspicious 98%. When the datasets country grouping was visualized, we see clear geographic boundaries and good reason why the accuracy jumps. Coupling the country grouping with the other features clearly boost the model’s accuracy. For example, if a country is within the Central Europe group it is 100% industrial. For our model without country grouping, country name was much more important than the model with country grouping. Finding those correlations was helpful to understand importance of different features and help model future work.
 
-**1995 Classification Report:**
+**<u>1995 Classification Report:</u>**
 
 ![image](https://user-images.githubusercontent.com/99369565/181919355-f0e4eb9d-052d-4eae-b9e7-b5beb42170c0.png)
 
