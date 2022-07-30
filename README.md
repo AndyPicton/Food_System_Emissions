@@ -142,14 +142,6 @@ Further analysis could include additional futures such as population to help the
 ![image](https://user-images.githubusercontent.com/99369565/181919363-fab74990-4b30-4970-ac65-404928b199fb.png)
 
 
-#### Random Forest Classification Report with Region for All Years
-
-![image](https://user-images.githubusercontent.com/99369565/181916832-b0468894-98dd-4f1c-9159-0e5aadba656e.png)
-
-#### Random Forest Classification Report with Country for All Years
-
-![image](https://user-images.githubusercontent.com/99369565/181917196-463a3b4e-6743-4fc0-9482-4c4f1baa763c.png)
-
 ### Database
 
 We used Postgres SQL on Amazon AWS due to its useability and convenience.
