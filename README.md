@@ -74,17 +74,17 @@ We converted all data to be an integer so each country, substance, and food syst
 
 Initially we tried a linear regression model, it worked but had errors when showing accuracy with dividing by zero.
 
-We then moved to Random Forest 2018 model and has no errors predicting developing countries for the RF model and is more accurate than industrial countries. The code is updated to run on any specified year from the data set and a new notebook can run a RF model for all years of the data set.
+We then moved to Random Forest 2018 model and had no errors predicting developing countries for the RF model and is more accurate than industrial countries. The code is updated to run on any specified year from the data set and a new notebook can run a RF model for all years of the data set.
 
-We first setup two different machine learning models to test on one year at a time and also all years then compared the two.
+We first setup two different machine learning models to test on one year at a time and also all years with and then without grouping. We decided to move forward with the model that does not include region.
 
 Accuracy score and classification report for data on one year (1995): 
 
-![image](https://user-images.githubusercontent.com/99369565/181136542-17540f60-2f63-4b7c-bfab-89e7b05c6d4d.png)
+![image](https://user-images.githubusercontent.com/99369565/181862511-bf51cf62-f2f8-435c-9412-8a5a974e9215.png)
 
-Accuracy score and classification report for data on all years: 
+Accuracy score and classification report for data on all years without grouping: 
 
-![image](https://user-images.githubusercontent.com/99369565/181136432-5f9c37eb-1aed-4524-8ba7-72eb94fb6410.png)
+![image](https://user-images.githubusercontent.com/99369565/181862520-3ec63cee-3358-435a-973e-1785333af2a6.png)
 
 ### Database
 
@@ -95,6 +95,8 @@ We used Postgres SQL on Amazon AWS due to its useability and convenience.
 We joined country from edgar_food_switched database with country_name from country_def database.
 
 ![image](https://user-images.githubusercontent.com/99369565/181133898-da7dc05c-a0e9-4598-916b-5346ab89d9c5.png)
+
+
 
 ### Dashboard
 
