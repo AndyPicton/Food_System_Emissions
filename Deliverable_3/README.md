@@ -8,6 +8,7 @@
 * [Data](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Data)
 * [Machine Learning Model](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Machine-Learning-Model)
 * [Database](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Database)
+* [Dashboard](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Dashboard)
 * [Links](https://github.com/AndyPicton/Food_System_Emissions/blob/main/README.md#Links)
 
 ## Overview
@@ -73,17 +74,17 @@ We converted all data to be an integer so each country, substance, and food syst
 
 Initially we tried a linear regression model, it worked but had errors when showing accuracy with dividing by zero.
 
-We then moved to Random Forest 2018 model and has no errors predicting developing countries for the RF model and is more accurate than industrial countries. The code is updated to run on any specified year from the data set and a new notebook can run a RF model for all years of the data set.
+We then moved to Random Forest 2018 model and had no errors predicting developing countries for the RF model and is more accurate than industrial countries. The code is updated to run on any specified year from the data set and a new notebook can run a RF model for all years of the data set.
 
-We first setup two different machine learning models to test on one year at a time and also all years then compared the two.
+We first setup two different machine learning models to test on one year at a time and also all years with and then without grouping. We decided to move forward with the model that does not include region.
 
 Accuracy score and classification report for data on one year (1995): 
 
-![image](https://user-images.githubusercontent.com/99369565/181136542-17540f60-2f63-4b7c-bfab-89e7b05c6d4d.png)
+![image](https://user-images.githubusercontent.com/99369565/181862511-bf51cf62-f2f8-435c-9412-8a5a974e9215.png)
 
-Accuracy score and classification report for data on all years: 
+Accuracy score and classification report for data on all years without grouping: 
 
-![image](https://user-images.githubusercontent.com/99369565/181136432-5f9c37eb-1aed-4524-8ba7-72eb94fb6410.png)
+![image](https://user-images.githubusercontent.com/99369565/181862520-3ec63cee-3358-435a-973e-1785333af2a6.png)
 
 ### Database
 
@@ -96,13 +97,18 @@ We joined country from edgar_food_switched database with country_name from count
 ![image](https://user-images.githubusercontent.com/99369565/181133898-da7dc05c-a0e9-4598-916b-5346ab89d9c5.png)
 
 
+
+### Dashboard
+
+We built our dashboard on Tableau and included a heat map, graphs, and images to represent the data we analyzed. The heatmap is interactive by hovering over each country and updates on command by changing the filters. 
+
 ## Communication Protocols
 
 We created a Google Doc to track our resources and other project related links. This also contains our contact information and information on next steps. We will place all project related items that are not ready for GitHub on this doc if we need to keep track of it. We are communicating through Slack and have shared phone numbers for immediate concerns. We are using Discord to to video meetings outside of class time. A majority of our work together will take place during class time meetings. 
 
 ## Links
 * [Presentation](https://docs.google.com/presentation/d/1UWW6PTv3gYfUZt2sINpBFY7_NyeHyOu3HGkMoWSyKko/edit#slide=id.gf48cb76871_0_33)
-* [Dashboard Planning](https://docs.google.com/presentation/d/13E7F-yIHB91cka32D1X9BRDlvEzHa5vGhuE8NXBjyjw/edit#slide=id.p)
+* [Dashboard](https://public.tableau.com/app/profile/katelyn.underbrink/viz/FoodSystemEmissions/FoodSystemGreenhouseGasEmissions?publish=yes)
 * [Source Data](https://edgar.jrc.ec.europa.eu/edgar_food)
 
 
