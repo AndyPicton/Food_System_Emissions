@@ -66,7 +66,14 @@ We also dropped all rows that contained a 0 in a year, and the countries listed 
 ### Data Analysis
 Once the data exploration phase was complete we setout to clean the data and narrow our questions down.
 
-We converted all data to be an integer so each country, substance, and food system stage has its own number as well as updating dev_country to be 1 for developing and 0 for industrialized.  We first tested the models on a few variables (substance, food system stage, year, country, and country class) then found that adding the country region drastically increased the accuracy score.
+We cleaned the data using Jupyter Notebook and the following libaries:
+- pandas as pd to process data in a tabular format
+- numpy as np for linear algebra
+
+We converted all data to be an integer so each country, substance, and food system stage has its own number as well as updating dev_country to be 1 for developing and 0 for industrialized.  We tested the models with different variables (substance, food system stage, year, country, country class, and region) and found that region had a huge impact on raising our accuracy score. With Tableau, we were able to visualize why region had such a big impact and found that if a group of countries close to eachother were all developed then they would be grouped together and the same goes with industrialized countries. Our model learned that when we tested to predict if a coutry is D or I, the accuracy score was 98% as seen in picture below.
+
+![image](https://user-images.githubusercontent.com/99369565/181916832-b0468894-98dd-4f1c-9159-0e5aadba656e.png)
+
 
 ![image](https://user-images.githubusercontent.com/99369565/181137223-9ce728ff-0e4b-4de8-b73c-67912c20017e.png)
 
