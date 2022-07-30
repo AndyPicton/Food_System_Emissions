@@ -72,7 +72,7 @@ We cleaned the data using Jupyter Notebook and the following libaries:
 
 We converted all data to be an integer so each country, substance, and food system stage has its own number as well as updating dev_country to be 1 for developing and 0 for industrialized.  We tested the models with different variables (substance, food system stage, year, country, country class, and region) and found that region had a huge impact on raising our accuracy score. With Tableau, we were able to visualize why region had such a big impact and found that if a group of countries close to eachother were all developed then they would be grouped together and the same goes with industrialized countries. Our model learned that when we tested to predict if a coutry is D or I, the accuracy score was 98% as seen in picture below.
 
-#### Cleaned Machine Learning with All Years DF
+#### Cleaned Data with Region Grouping and All Years DF
 
 ![image](https://user-images.githubusercontent.com/99369565/181916972-32ff820d-7d46-4455-b879-93ac3b94f9dc.png)
 
