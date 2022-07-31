@@ -146,11 +146,13 @@ Further analysis could include additional futures such as population to help the
 
 We used Postgres SQL on Amazon AWS due to its useability and convenience.
 
-![image](https://user-images.githubusercontent.com/99369565/181124075-2684d956-9351-42f5-8a72-37e5288ac120.png)
+<img width="668" alt="Updated_erd" src="https://user-images.githubusercontent.com/99369565/182042866-e3a6c60d-0e34-4988-8463-4367d0d2a27e.png">
 
 We joined country from edgar_food_switched database with country_name from country_def database.
 
-![image](https://user-images.githubusercontent.com/99369565/181133898-da7dc05c-a0e9-4598-916b-5346ab89d9c5.png)
+<img width="591" alt="Join" src="https://user-images.githubusercontent.com/99369565/182042933-5529ab0d-efb3-4455-992b-f5ae48621b1b.png">
+
+<img width="837" alt="Table_join" src="https://user-images.githubusercontent.com/99369565/182042887-ab3efbf1-efe8-4bf6-bf6d-c4e799dc6dae.png">
 
 ### Dashboard
 
