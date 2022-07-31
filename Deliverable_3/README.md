@@ -78,6 +78,10 @@ To prepare for the Machine Learning Model we split, scaled, and fit the data acc
 - Split the working data frame into a training and testing dataset.
 - Scale and fit the data for consistency along the distribution of data points for the RandomForestClassifier.
 
+We used .replace to clean and update country names.
+
+![image](https://user-images.githubusercontent.com/99369565/182044586-b35258a9-b95b-4127-89fa-88f24ca40949.png)
+
 #### Cleaned Data with Region Grouping and All Years DF
 
 ![image](https://user-images.githubusercontent.com/99369565/181916972-32ff820d-7d46-4455-b879-93ac3b94f9dc.png)
