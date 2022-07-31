@@ -152,10 +152,6 @@ We used Postgres SQL on Amazon AWS due to its useability and convenience.
 
 <img width="668" alt="Updated_erd" src="https://user-images.githubusercontent.com/99369565/182042866-e3a6c60d-0e34-4988-8463-4367d0d2a27e.png">
 
-We created a melt_df to move Years to a single column.
-
-![image](https://user-images.githubusercontent.com/99369565/182044519-5f716f00-c1cd-4759-b8c1-b00fe606d9b2.png)
-
 We joined country from edgar_food_switched database with country_name from country_def database.
 
 <img width="591" alt="Join" src="https://user-images.githubusercontent.com/99369565/182042933-5529ab0d-efb3-4455-992b-f5ae48621b1b.png">
