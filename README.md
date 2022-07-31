@@ -90,7 +90,7 @@ The initial step required connecting the Jupyter Notebook to the SQL server that
 
 ### Machine Learning Model 
 
-Understading what questions we wanted to answer lead us to creating a machine learning model using Random Forest Classification to predict weather a country was industrial or developing based on equal features. Narrowing down on this classification would improve understanding of the production of GHG emissions. The target for the ML RFC is to distinguish countries from each other.
+Understading what questions we wanted to answer lead us to creating a machine learning model using Random Forest Classification to predict whether a country was industrial or developing based on equal features. Narrowing down on this classification would improve understanding of the production of GHG emissions. The target for the ML RFC is to distinguish countries from each other.
 
 Initially we tried a linear regression model, it worked but had errors when showing accuracy with dividing by zero. We then moved to Random Forest 2018 model and had no errors predicting developing countries for the RF model and is more accurate than industrial countries.
 
