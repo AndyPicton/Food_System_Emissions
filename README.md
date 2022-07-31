@@ -78,6 +78,10 @@ To prepare for the Machine Learning Model we split, scaled, and fit the data acc
 - Split the working data frame into a training and testing dataset.
 - Scale and fit the data for consistency along the distribution of data points for the RandomForestClassifier.
 
+We used .replace to clean and update country names.
+
+![image](https://user-images.githubusercontent.com/99369565/182044586-b35258a9-b95b-4127-89fa-88f24ca40949.png)
+
 #### Cleaned Data with Region Grouping and All Years DF
 
 ![image](https://user-images.githubusercontent.com/99369565/181916972-32ff820d-7d46-4455-b879-93ac3b94f9dc.png)
@@ -147,6 +151,10 @@ Further analysis could include additional futures such as population to help the
 We used Postgres SQL on Amazon AWS due to its useability and convenience.
 
 <img width="668" alt="Updated_erd" src="https://user-images.githubusercontent.com/99369565/182042866-e3a6c60d-0e34-4988-8463-4367d0d2a27e.png">
+
+We created a melt_df to move Years to a single column.
+
+![image](https://user-images.githubusercontent.com/99369565/182044519-5f716f00-c1cd-4759-b8c1-b00fe606d9b2.png)
 
 We joined country from edgar_food_switched database with country_name from country_def database.
 
