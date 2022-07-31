@@ -90,7 +90,7 @@ The initial step required connecting the Jupyter Notebook to the SQL server that
 
 ### Machine Learning Model 
 
-Understading what questions we wanted to answer lead us to creating a machine learning model using Random Forest Classification to predict weather a country was industrial or developing based on equal features. Narrowing down on this classification would improve understanding of the production of GHG emissions. The target for the ML RFC is to distinguish countries from each other.
+Understading what questions we wanted to answer lead us to creating a machine learning model using Random Forest Classification to predict whether a country was industrial or developing based on equal features. Narrowing down on this classification would improve understanding of the production of GHG emissions. The target for the ML RFC is to distinguish countries from each other.
 
 Initially we tried a linear regression model, it worked but had errors when showing accuracy with dividing by zero. We then moved to Random Forest 2018 model and had no errors predicting developing countries for the RF model and is more accurate than industrial countries.
 
@@ -125,19 +125,19 @@ When our initial model analyzed specifically 2018, we had an overall accuracy sc
 
 Further analysis could include additional futures such as population to help the model. A keynote to consider, when the model was tweaked to account for country grouping the RFC accuracy jumped to suspicious 98%. When the datasets country grouping was visualized, we see clear geographic boundaries and good reason why the accuracy jumps. Coupling the country grouping with the other features clearly boost the model’s accuracy. For example, if a country is within the Central Europe group it is 100% industrial. For our model without country grouping, country name was much more important than the model with country grouping. Finding those correlations was helpful to understand importance of different features and help model future work.
 
-**1995 Classification Report:**
+#### 1995 Classification Report:</u>
 
 ![image](https://user-images.githubusercontent.com/99369565/181919355-f0e4eb9d-052d-4eae-b9e7-b5beb42170c0.png)
 
-**2018 Classification Report:**
+#### 2018 Classification Report:
 
 ![image](https://user-images.githubusercontent.com/99369565/181919350-4ea403da-93ab-4674-ba8f-5cf357426cf7.png)
 
-**All Years with Country Grouping Classification Report:**
+#### All Years with Country Grouping Classification Report:
 
 ![image](https://user-images.githubusercontent.com/99369565/181919361-934314d5-0225-4655-b9a0-a3f931379b06.png)
 
-**All Years without Country Grouping Classification Report:**
+#### All Years without Country Grouping Classification Report:
 
 ![image](https://user-images.githubusercontent.com/99369565/181919363-fab74990-4b30-4970-ac65-404928b199fb.png)
 
@@ -155,6 +155,11 @@ We joined country from edgar_food_switched database with country_name from count
 ### Dashboard
 
 We built our dashboard on Tableau and included a heat map, graphs, and images to represent the data we analyzed. The heatmap is interactive by hovering over each country and updates on command by changing the filters. 
+
+![image](https://user-images.githubusercontent.com/99369565/181934543-c60789fc-4046-4530-a73c-7b313b6f0c7b.png)
+
+![image](https://user-images.githubusercontent.com/99369565/181934551-375c2fd7-fef5-4bc3-a310-5702fb041b7f.png)
+
 
 ## Links
 * [Presentation](https://docs.google.com/presentation/d/1UWW6PTv3gYfUZt2sINpBFY7_NyeHyOu3HGkMoWSyKko/edit#slide=id.gf48cb76871_0_33)
