@@ -162,9 +162,7 @@ We joined country from edgar_food_switched database with country_name from count
 
 We built our dashboard on Tableau and included a heat map, graphs, and images to represent the data we analyzed. The heatmap is interactive by hovering over each country and updates on command by changing the filters. 
 
-![image](https://user-images.githubusercontent.com/99369565/181934543-c60789fc-4046-4530-a73c-7b313b6f0c7b.png)
-
-![image](https://user-images.githubusercontent.com/99369565/181934551-375c2fd7-fef5-4bc3-a310-5702fb041b7f.png)
+![Food System Greenhouse Gas Emissions (1)](https://user-images.githubusercontent.com/99369565/182269417-07b6f411-583f-4409-ab14-49ab2f1c77b7.png)
 
 
 ## Links
