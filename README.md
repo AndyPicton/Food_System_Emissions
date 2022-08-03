@@ -58,9 +58,9 @@ We also dropped all rows that contained a 0 in a year, and the countries listed 
 
 
 ### Data Analysis
-Once the data exploration phase was complete we setout to clean the data and narrow our questions down.
+Once the data exploration phase was complete we set out to clean the data and narrow our questions down.
 
-We cleaned the data using Jupyter Notebook and the following libaries:
+We cleaned the data using Jupyter Notebook and the following libraries:
 - pandas as pd to process data in a tabular format
 - numpy as np for linear algebra
 
@@ -94,7 +94,7 @@ The initial step required connecting the Jupyter Notebook to the SQL server that
 
 ### Machine Learning Model 
 
-Understading what questions we wanted to answer lead us to creating a machine learning model using Random Forest Classification to predict whether a country was industrial or developing based on equal features. Narrowing down on this classification would improve understanding of the production of GHG emissions. The target for the ML RFC is to distinguish countries from each other.
+Understanding what questions we wanted to answer lead us to creating a machine learning model using Random Forest Classification to predict whether a country was industrial or developing based on equal features. Narrowing down on this classification would improve understanding of the production of GHG emissions. The target for the ML RFC is to distinguish countries from each other.
 
 Initially we tried a linear regression model, it worked but had errors when showing accuracy with dividing by zero. We then moved to Random Forest 2018 model and had no errors predicting developing countries for the RF model and is more accurate than industrial countries.
 
@@ -111,7 +111,7 @@ The limitations we found for the RFC model are:
 
 Our target for the ML model was set early on. Our first RFC model was specifically designed to look at one year of data (2018), the latest data available. Then the code was modified to look at any year in the data set 1990 – 2018. Our latest RFC model considers all the years available.
 
-The target was defined as 0 for Developing and 1 for Industrial.  The data frame for training the RFC model included the 4 types of GHG tracked in our data set along with stage of food system that corresponds to that specific GHG.  To further help identify the target, the name of the country was also provided with the twentyeight years of tracked data.
+The target was defined as 0 for Developing and 1 for Industrial.  The data frame for training the RFC model included the 4 types of GHG tracked in our data set along with stage of food system that corresponds to that specific GHG.  To further help identify the target, the name of the country was also provided with the twenty-eight years of tracked data.
 
 The rest of the data was split using the standard 75% training 25% testing ratio, this benchmark is common and allows for training without overfitting, while leaving a robust data set for training. The next step applied the StandardScaler to the training data set and fit the data, then the RFC was created via RandomForestClassifier() using two parameters:
 - The number of trees created by the algorithm (n_estimators=500).
@@ -148,7 +148,7 @@ Further analysis could include additional futures such as population to help the
 
 ### Database
 
-We used Postgres SQL on Amazon AWS due to its useability and convenience.
+We used Postgres SQL on Amazon AWS due to its usability and convenience.
 
 <img width="668" alt="Updated_erd" src="https://user-images.githubusercontent.com/99369565/182042866-e3a6c60d-0e34-4988-8463-4367d0d2a27e.png">
 
@@ -160,7 +160,7 @@ We joined country from edgar_food_switched database with country_name from count
 
 ### Dashboard
 
-We built our dashboard on Tableau and included a heat map, graphs, and images to represent the data we analyzed. The heatmap is interactive by hovering over each country and updates on command by changing the filters. 
+We built our dashboard on Tableau and included a heat map, graphs, and images to represent the data we analyzed. The heat-map is interactive by hovering over each country and updates on command by changing the filters. 
 
 ![Food System Greenhouse Gas Emissions (1)](https://user-images.githubusercontent.com/99369565/182269417-07b6f411-583f-4409-ab14-49ab2f1c77b7.png)
 
