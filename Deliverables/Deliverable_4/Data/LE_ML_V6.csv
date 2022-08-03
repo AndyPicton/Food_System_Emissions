@@ -1,0 +1,4783 @@
+Name,dev_country,Substance,FOOD_system_stage,Y_1995,Country_Num,Country_Class_NUM
+Angola,D,1,2,10271.716,4,0
+Angola,D,0,2,7662.4856,4,0
+Angola,D,3,2,5009.6395,4,0
+Albania,I,1,2,116.8068,1,1
+Albania,I,3,2,12.4815,1,1
+Argentina,D,1,2,84423.2052,7,0
+Argentina,D,3,2,1113.5565,7,0
+Argentina,D,0,2,364.0924,7,0
+Armenia,I,1,2,54.2254,8,1
+American Samoa,D,1,2,7.9612,3,0
+Australia,I,1,2,61082.3972,10,1
+Australia,I,3,2,445.094,10,1
+Australia,I,0,2,77.9996,10,1
+Austria,I,1,2,1922.8781,11,1
+Austria,I,3,2,38.213,11,1
+Azerbaijan,I,1,2,0.0,12,1
+Burundi,D,1,2,5505.5596,31,0
+Burundi,D,3,2,434.653,31,0
+Burundi,D,0,2,1.8256,31,0
+Belgium,I,1,2,0.0,18,1
+Belgium,I,3,2,0.0,18,1
+Benin,D,1,2,15058.7287,20,0
+Benin,D,0,2,98.994,20,0
+Benin,D,3,2,39.856,20,0
+Burkina Faso,D,1,2,7724.64,30,0
+Burkina Faso,D,0,2,132.6668,30,0
+Burkina Faso,D,3,2,36.941,30,0
+Bangladesh,D,1,2,22645.5626,15,0
+Bangladesh,D,3,2,2344.2695,15,0
+Bangladesh,D,0,2,55.4232,15,0
+Bulgaria,I,1,2,3536.797,29,1
+Bulgaria,I,3,2,133.56,29,1
+Bahamas,D,0,2,17.6092,13,0
+Bahamas,D,3,2,10.441,13,0
+Bosnia and Herzegovina,I,1,2,53.8627,25,1
+Bosnia and Herzegovina,I,3,2,15.476,25,1
+Belarus,I,1,2,25470.2314,17,1
+Belarus,I,3,2,4989.314,17,1
+Belize,D,1,2,6560.2481,19,0
+Belize,D,3,2,63.8385,19,0
+Belize,D,0,2,44.8644,19,0
+Bolivia (Plurinational State of),D,1,2,76739.2436,24,0
+Bolivia (Plurinational State of),D,0,2,3153.9424,24,0
+Bolivia (Plurinational State of),D,3,2,2026.826,24,0
+Brazil,D,1,2,1385422.664,27,0
+Brazil,D,0,2,6063.6576,27,0
+Brazil,D,3,2,3809.375,27,0
+Brunei Darussalam,D,1,2,1559.9927,28,0
+Brunei Darussalam,D,0,2,110.4404,28,0
+Brunei Darussalam,D,3,2,44.785,28,0
+Bhutan,D,0,2,4.228,22,0
+Bhutan,D,3,2,2.385,22,0
+Botswana,D,1,2,41217.7673,26,0
+Botswana,D,3,2,65.137,26,0
+Central African Republic,D,1,2,13962.7059,37,0
+Central African Republic,D,0,2,8173.6648,37,0
+Central African Republic,D,3,2,6627.5175,37,0
+Canada,I,1,2,133032.0433,34,1
+Canada,I,3,2,4200.0645,34,1
+Switzerland,I,1,2,838.7545,197,1
+Switzerland,I,3,2,125.981,197,1
+Chile,D,1,2,3399.2147,39,0
+Chile,D,3,2,150.4405,39,0
+China,D,1,2,1601.2825,40,0
+China,D,3,2,486.9905,40,0
+China,D,0,2,1.1788,40,0
+Côte d'Ivoire,D,1,2,60663.589,53,0
+Côte d'Ivoire,D,3,2,287.6045,53,0
+Côte d'Ivoire,D,0,2,97.2328,53,0
+Cameroon,D,1,2,53027.1963,33,0
+Cameroon,D,0,2,707.5964,33,0
+Cameroon,D,3,2,575.5005,33,0
+Democratic Republic of the Congo,D,1,2,367778.4001,55,0
+Democratic Republic of the Congo,D,0,2,14905.0524,55,0
+Democratic Republic of the Congo,D,3,2,10114.8645,55,0
+Congo,D,1,2,9400.1481,43,0
+Congo,D,3,2,490.2765,43,0
+Congo,D,0,2,202.202,43,0
+Colombia,D,1,2,95377.6466,41,0
+Colombia,D,3,2,187.885,41,0
+Colombia,D,0,2,176.5932,41,0
+Comoros,D,1,2,59.8556,42,0
+Comoros,D,0,2,1.5904,42,0
+Comoros,D,3,2,1.1395,42,0
+Costa Rica,D,1,2,3373.5476,46,0
+Costa Rica,D,3,2,32.489,46,0
+Costa Rica,D,0,2,11.0292,46,0
+Cuba,D,1,2,120.835,49,0
+Cuba,D,0,2,27.482,49,0
+Cuba,D,3,2,15.6615,49,0
+Cayman Islands,D,1,2,4.5012,36,0
+Cyprus,I,1,2,0.0,50,1
+Czechia,I,1,2,359.1551,52,1
+Czechia,I,3,2,37.3385,52,1
+Germany,I,1,2,10284.9979,79,1
+Fiji,D,1,2,109.2469,70,0
+Germany,I,3,2,3733.3465,79,1
+Dominica,D,1,2,54.9141,58,0
+Denmark,I,1,2,1166.8434,56,1
+Denmark,I,3,2,283.8945,56,1
+Dominican Republic,D,1,2,0.0,59,0
+Dominican Republic,D,0,2,2.8756,59,0
+Dominican Republic,D,3,2,1.1395,59,0
+Algeria,D,1,2,684.9333,2,0
+Ecuador,D,1,2,37610.8195,60,0
+Ecuador,D,3,2,4.2135,60,0
+Ecuador,D,0,2,0.658,60,0
+Egypt,D,1,2,0.0,61,0
+Eritrea,D,1,2,676.9839,64,0
+Eritrea,D,3,2,0.53,64,0
+Western Sahara,D,1,2,0.0,230,0
+Spain,I,1,2,372.3907,191,1
+Spain,I,3,2,48.4155,191,1
+Estonia,I,1,2,2075.7675,65,1
+Estonia,I,3,2,500.3465,65,1
+Ethiopia,D,1,2,26184.5821,67,0
+Ethiopia,D,3,2,929.2755,67,0
+Ethiopia,D,0,2,194.1996,67,0
+Finland,I,1,2,7368.7138,71,1
+Finland,I,3,2,1380.703,71,1
+Fiji,D,3,2,15.211,70,0
+Fiji,D,0,2,4.2,70,0
+Falkland Islands (Malvinas),D,3,2,905.558,68,0
+Falkland Islands (Malvinas),D,1,2,254.7739,68,0
+France,I,1,2,5545.5713,72,1
+France,I,3,2,725.305,72,1
+Faroe Islands,I,3,2,37.5505,69,1
+Faroe Islands,I,1,2,16.6059,69,1
+"Micronesia, Federated States of",D,1,2,351.988,135,0
+Gabon,D,1,2,3607.0813,76,0
+Gabon,D,3,2,77.327,76,0
+Gabon,D,0,2,22.918,76,0
+United Kingdom of Great Britain and Northern Ireland,I,3,2,4301.5065,217,1
+United Kingdom of Great Britain and Northern Ireland,I,1,2,2662.7221,217,1
+Ghana,D,1,2,23703.0044,80,0
+Ghana,D,0,2,133.8904,80,0
+Ghana,D,3,2,55.3585,80,0
+Guinea,D,1,2,10861.9694,88,0
+Guinea,D,3,2,198.697,88,0
+Guinea,D,0,2,142.506,88,0
+Guadeloupe,D,1,2,66.66,85,0
+Gambia,D,1,2,527.6271,77,0
+Gambia,D,0,2,58.3184,77,0
+Gambia,D,3,2,16.2445,77,0
+Guinea-Bissau,D,1,2,1490.1884,89,0
+Guinea-Bissau,D,0,2,167.5604,89,0
+Guinea-Bissau,D,3,2,121.635,89,0
+Equatorial Guinea,D,1,2,9561.5399,63,0
+Equatorial Guinea,D,3,2,0.1325,63,0
+Equatorial Guinea,D,0,2,0.1568,63,0
+Greece,I,1,2,1420.5877,82,1
+Greece,I,3,2,151.0765,82,1
+Grenada,D,0,2,0.0168,84,0
+Guatemala,D,1,2,16490.76,87,0
+Guatemala,D,0,2,315.8512,87,0
+Guatemala,D,3,2,144.2925,87,0
+French Guiana,D,1,2,3570.894,73,0
+French Guiana,D,3,2,2.8885,73,0
+French Guiana,D,0,2,1.4448,73,0
+French Guyana,D,1,2,7357.1016,74,0
+French Guyana,D,3,2,392.2,74,0
+French Guyana,D,0,2,21.3836,74,0
+Honduras,D,1,2,5534.1368,92,0
+Honduras,D,0,2,189.3248,92,0
+Honduras,D,3,2,111.0085,92,0
+Croatia,I,1,2,402.9282,48,1
+Croatia,I,3,2,1.2455,48,1
+Haiti,D,1,2,207.8648,91,0
+Haiti,D,0,2,0.1596,91,0
+Haiti,D,3,2,0.053,91,0
+Hungary,I,1,2,5829.1653,94,1
+Hungary,I,3,2,654.0995,94,1
+Indonesia,D,1,2,1174162.466,97,0
+Indonesia,D,0,2,72482.62,97,0
+Indonesia,D,3,2,26924.5565,97,0
+India,D,1,2,6274.2819,96,0
+India,D,3,2,1104.997,96,0
+India,D,0,2,600.096,96,0
+Ireland,I,3,2,1862.579,100,1
+Ireland,I,1,2,1113.4631,100,1
+Iraq,D,1,2,0.0,99,0
+Iceland,I,3,2,134.62,95,1
+Iceland,I,1,2,37.0415,95,1
+Israel,D,1,2,1.6353,101,0
+Italy,I,1,2,794.8821,102,1
+Italy,I,3,2,77.4065,102,1
+Jamaica,D,1,2,212.3374,103,0
+Jamaica,D,3,2,28.196,103,0
+Jamaica,D,0,2,1.7416,103,0
+Japan,I,1,2,7143.7372,104,1
+Japan,I,3,2,610.9575,104,1
+Kazakhstan,I,1,2,294.7675,106,1
+Kenya,D,1,2,107.0229,107,0
+Kenya,D,3,2,31.4555,107,0
+Kenya,D,0,2,0.6104,107,0
+Cambodia,D,1,2,4777.0038,32,0
+Cambodia,D,0,2,1229.8496,32,0
+Cambodia,D,3,2,942.2075,32,0
+Republic of Korea,I,1,2,1794.3095,167,1
+Lao People's Democratic Republic,D,1,2,10503.3647,113,0
+Lao People's Democratic Republic,D,0,2,664.2384,113,0
+Lao People's Democratic Republic,D,3,2,434.4675,113,0
+Lebanon,D,1,2,19.5178,115,0
+Liberia,D,1,2,13778.888,117,0
+Liberia,D,3,2,67.893,117,0
+Liberia,D,0,2,69.5324,117,0
+Saint Lucia,D,1,2,10.909,175,0
+Sri Lanka,D,1,2,4640.4022,192,0
+Sri Lanka,D,3,2,212.2385,192,0
+Sri Lanka,D,0,2,8.9516,192,0
+Lithuania,I,1,2,4939.5055,119,1
+Lithuania,I,3,2,1201.722,119,1
+Luxembourg,I,1,2,0.0,120,1
+Luxembourg,I,3,2,0.0,120,1
+Latvia,I,1,2,2091.7274,114,1
+Latvia,I,3,2,570.81,114,1
+Morocco,D,1,2,37.1349,139,0
+Republic of Moldova,I,1,2,121.561,168,1
+Republic of Moldova,I,3,2,21.518,168,1
+Madagascar,D,1,2,30264.9196,123,0
+Madagascar,D,3,2,786.4405,123,0
+Madagascar,D,0,2,146.5212,123,0
+Mexico,I,1,2,22314.8361,134,1
+Mexico,I,0,2,681.0104,134,1
+Mexico,I,3,2,323.5385,134,1
+Mali,D,1,2,499.5833,127,0
+Mali,D,0,2,212.8196,127,0
+Mali,D,3,2,59.413,127,0
+Myanmar,D,1,2,142130.7891,141,0
+Myanmar,D,0,2,5106.2732,141,0
+Myanmar,D,3,2,4796.182,141,0
+Mongolia,D,1,2,4237.8513,137,0
+Mongolia,D,3,2,3522.1945,137,0
+Northern Mariana Islands,D,1,2,146.9274,153,0
+Mozambique,D,1,2,48356.66,140,0
+Mozambique,D,0,2,2142.5292,140,0
+Mozambique,D,3,2,1798.0515,140,0
+Mauritania,D,1,2,614.1348,131,0
+Montserrat,D,1,2,22.5058,138,0
+Montserrat,D,0,2,0.028,138,0
+Montserrat,D,3,2,0.0265,138,0
+Mauritius,D,1,2,0.0,132,0
+Malawi,D,1,2,8142.0757,124,0
+Malawi,D,3,2,211.9205,124,0
+Malawi,D,0,2,139.524,124,0
+Malaysia,D,1,2,77611.369,125,0
+Malaysia,D,3,2,2909.4615,125,0
+Malaysia,D,0,2,2718.5004,125,0
+Mayotte,D,1,2,66.3848,133,0
+Mayotte,D,0,2,0.084,133,0
+Mayotte,D,3,2,0.0265,133,0
+Namibia,D,1,2,10560.4039,142,0
+Namibia,D,3,2,0.848,142,0
+New Caledonia,D,1,2,0.0,147,0
+New Caledonia,D,0,2,2.3828,147,0
+New Caledonia,D,3,2,1.219,147,0
+Niger,D,1,2,5702.8536,150,0
+Nigeria,D,1,2,45992.6758,151,0
+Nigeria,D,0,2,1450.2012,151,0
+Nigeria,D,3,2,469.315,151,0
+Nicaragua,D,1,2,19575.269,149,0
+Nicaragua,D,0,2,74.1244,149,0
+Nicaragua,D,3,2,46.9315,149,0
+Niue,D,1,2,2.3173,152,0
+Netherlands,I,1,2,2066.6502,145,1
+Netherlands,I,3,2,1031.9895,145,1
+Norway,I,1,2,1148.1677,154,1
+Norway,I,3,2,820.0955,154,1
+Nepal,D,1,2,2701.2534,144,0
+Nepal,D,3,2,613.104,144,0
+Nepal,D,0,2,327.9752,144,0
+New Zealand,I,1,2,2183.1423,148,1
+New Zealand,I,3,2,402.6675,148,1
+Oman,D,1,2,0.0,155,0
+Pakistan,D,1,2,8046.7602,156,0
+Panama,D,1,2,6667.9608,158,0
+Panama,D,3,2,97.361,158,0
+Panama,D,0,2,6.9692,158,0
+Peru,D,1,2,83195.3183,161,0
+Peru,D,0,2,57.2152,161,0
+Peru,D,3,2,46.2955,161,0
+Philippines,D,1,2,22116.248,162,0
+Philippines,D,0,2,22.4644,162,0
+Philippines,D,3,2,12.879,162,0
+Papua New Guinea,D,1,2,31364.2118,159,0
+Papua New Guinea,D,3,2,2713.5205,159,0
+Papua New Guinea,D,0,2,570.8164,159,0
+Poland,I,1,2,13481.7585,163,1
+Poland,I,3,2,3591.704,163,1
+Puerto Rico,D,1,2,142.8437,165,0
+Puerto Rico,D,3,2,16.112,165,0
+Puerto Rico,D,0,2,0.8932,165,0
+Democratic People's Republic of Korea,D,1,2,6665.5129,54,0
+Democratic People's Republic of Korea,D,3,2,13.0645,54,0
+Portugal,I,1,2,3349.3828,164,1
+Portugal,I,3,2,40.969,164,1
+Paraguay,D,1,2,42365.8074,160,0
+Paraguay,D,0,2,276.5812,160,0
+Paraguay,D,3,2,142.782,160,0
+French Polynesia,D,0,2,0.0308,75,0
+Romania,I,1,2,699.6822,170,1
+Romania,I,3,2,63.494,170,1
+Russian Federation,I,1,2,66937.2886,171,1
+Russian Federation,I,3,2,6062.617,171,1
+Rwanda,D,1,2,3483.9888,172,0
+Rwanda,D,3,2,226.8665,172,0
+Serbia and Montenegro,I,1,2,31.0435,182,1
+Serbia and Montenegro,I,3,2,2.8355,182,1
+Sudan,D,1,2,0.0,193,0
+Sudan,D,3,2,0.0,193,0
+Sudan,D,0,2,0.0,193,0
+Senegal,D,1,2,4626.6,181,0
+Senegal,D,0,2,148.0052,181,0
+Senegal,D,3,2,57.134,181,0
+Singapore,D,1,2,0.0,185,0
+Singapore,D,0,2,0.0392,185,0
+Singapore,D,3,2,0.0,185,0
+Solomon Islands,D,1,2,229.863,188,0
+Solomon Islands,D,3,2,0.0795,188,0
+Solomon Islands,D,0,2,0.0084,188,0
+Sierra Leone,D,1,2,3365.2117,184,0
+Sierra Leone,D,0,2,55.3224,184,0
+Sierra Leone,D,3,2,32.3565,184,0
+El Salvador,D,1,2,1142.5814,62,0
+El Salvador,D,0,2,1.638,62,0
+El Salvador,D,3,2,1.272,62,0
+Somalia,D,1,2,17352.1517,189,0
+Saint Pierre and Miquelon,I,1,2,1.4311,176,1
+Sao Tome and Principe,D,1,2,9.029,179,0
+Suriname,D,1,2,3391.1379,194,0
+Suriname,D,3,2,51.7545,194,0
+Suriname,D,0,2,7.9296,194,0
+Slovakia,I,1,2,482.242,186,1
+Slovakia,I,3,2,8.3475,186,1
+Slovenia,I,1,2,105.699,187,1
+Slovenia,I,3,2,14.946,187,1
+Sweden,I,1,2,38100.399,196,1
+Sweden,I,3,2,977.214,196,1
+Eswatini,D,1,2,356.3342,66,0
+Syrian Arab Republic,D,1,2,0.0,198,0
+Turks and Caicos Islands,D,0,2,0.1288,211,0
+Turks and Caicos Islands,D,3,2,0.0265,211,0
+Chad,D,1,2,7663.3333,38,0
+Chad,D,0,2,599.8468,38,0
+Chad,D,3,2,446.1805,38,0
+Togo,D,1,2,2859.939,204,0
+Togo,D,0,2,33.8492,204,0
+Togo,D,3,2,12.402,204,0
+Thailand,D,1,2,20718.5812,202,0
+Thailand,D,0,2,1092.462,202,0
+Thailand,D,3,2,841.9315,202,0
+Timor-Leste,D,1,2,463.232,203,0
+Timor-Leste,D,0,2,1.6968,203,0
+Timor-Leste,D,3,2,1.2455,203,0
+Trinidad and Tobago,D,1,2,107.0783,207,0
+Trinidad and Tobago,D,0,2,1.708,207,0
+Trinidad and Tobago,D,3,2,0.7685,207,0
+Tunisia,D,1,2,4.6311,208,0
+Turkey,I,1,2,0.5159,209,1
+Turkey,I,3,2,0.053,209,1
+United Republic of Tanzania,D,1,2,52121.4738,218,0
+United Republic of Tanzania,D,3,2,2407.0745,218,0
+United Republic of Tanzania,D,0,2,2063.138,218,0
+Uganda,D,1,2,17885.1022,213,0
+Uganda,D,3,2,811.059,213,0
+Uganda,D,0,2,137.3204,213,0
+Ukraine,I,1,2,11259.8603,214,1
+Ukraine,I,3,2,2349.8875,214,1
+Uruguay,D,1,2,140.8184,221,0
+Uruguay,D,3,2,29.4945,221,0
+United States of America,I,1,2,101988.1399,220,1
+United States of America,I,3,2,7138.252,220,1
+United States of America,I,0,2,9.5256,220,1
+Uzbekistan,I,1,2,0.0,222,1
+Saint Vincent and the Grenadines,D,1,2,0.0,177,0
+Venezuela (Bolivarian Republic of),D,1,2,143890.6165,225,0
+Venezuela (Bolivarian Republic of),D,3,2,328.918,225,0
+Venezuela (Bolivarian Republic of),D,0,2,319.8244,225,0
+Virgin Islands_British,D,3,2,0.0265,227,0
+Virgin Islands_British,D,0,2,0.0196,227,0
+Virgin Islands_USA,D,1,2,24.4295,228,0
+Viet Nam,D,1,2,5496.0997,226,0
+Viet Nam,D,3,2,541.766,226,0
+Viet Nam,D,0,2,280.6076,226,0
+Vanuatu,D,0,2,0.8204,223,0
+Vanuatu,D,3,2,0.6625,223,0
+Wallis and Futuna,D,1,2,5.7558,229,0
+Samoa,D,1,2,104.8736,178,0
+Samoa,D,0,2,2.0048,178,0
+Samoa,D,3,2,0.795,178,0
+South Africa,D,1,2,6933.7303,190,0
+South Africa,D,3,2,69.536,190,0
+South Africa,D,0,2,4.7488,190,0
+Zambia,D,1,2,17292.7886,232,0
+Zambia,D,3,2,8208.6135,232,0
+Zambia,D,0,2,7446.7568,232,0
+Zimbabwe,D,1,2,10670.887,233,0
+Afghanistan,D,2,6,9.1043745,0,0
+Angola,D,2,6,6.1855623,4,0
+Albania,I,2,6,2.3002575,1,1
+United Arab Emirates,D,2,6,215.3542309,215,0
+Argentina,D,2,6,154.8903573,7,0
+Armenia,I,2,6,2.6868555,8,1
+Australia,I,2,6,61.33061253,10,1
+Austria,I,2,6,24.47597113,11,1
+Austria,I,2,3,1.857129265,11,1
+Azerbaijan,I,2,6,65.0,12,1
+Burundi,D,2,6,2.7641744,31,0
+Belgium,I,2,6,62.3199734,18,1
+Benin,D,2,6,9.2010252,20,0
+Burkina Faso,D,2,6,11.1533435,30,0
+Bangladesh,D,2,6,28.0669925,15,0
+Bulgaria,I,2,6,0.06391918,29,1
+Bahrain,D,2,6,20.0644166,14,0
+Bolivia,D,2,6,12.7050001,23,0
+Brunei Darussalam,D,2,6,2.3582446,28,0
+Botswana,D,2,6,4.2525758,26,0
+Central African Republic,D,2,6,4.6391738,37,0
+Canada,I,2,6,142.2561675,34,1
+Canada,I,2,3,16.18638966,34,1
+Switzerland,I,2,6,99.59735214,197,1
+Switzerland,I,2,3,0.0,197,1
+Chile,D,2,6,48.6549984,39,0
+China,D,2,6,0.0,40,0
+Cote d'Ivoire,D,2,6,24.6649316,47,0
+Cameroon,D,2,6,34.3298737,33,0
+Congo_the Democratic Republic of the,D,2,6,25.5966308,44,0
+Congo,D,2,6,3.9200995,43,0
+Colombia,D,2,6,87.2164343,41,0
+Costa Rica,D,2,6,5.4510251,46,0
+Cuba,D,2,6,6.5335015,49,0
+Cyprus,I,2,6,1.479548336,50,1
+Czech Republic,I,2,6,0.249598148,51,1
+Germany,I,2,6,256.320631,79,1
+Denmark,I,2,6,40.35054698,56,1
+Dominican Republic,D,2,6,19.7938011,59,0
+Algeria,D,2,6,24.0135162,2,0
+Ecuador,D,2,6,9.0811773,60,0
+Egypt,D,2,6,149.3233484,61,0
+Spain,I,2,6,0.0,191,1
+Estonia,I,2,6,6.93421384,65,1
+Finland,I,2,6,140.9312588,71,1
+Fiji,D,2,6,2.215203,70,0
+France,I,2,6,327.3361856,72,1
+Gabon,D,2,6,11.6559205,76,0
+United Kingdom,I,2,6,67.5981394,216,1
+Georgia,I,2,6,0.0,78,1
+Ghana,D,2,6,22.1327174,80,0
+Guinea,D,2,6,8.7371083,88,0
+Equatorial Guinea,D,2,6,2.4394324,63,0
+Greece,I,2,6,36.39896844,82,1
+Guatemala,D,2,6,3.2087595,87,0
+Honduras,D,2,6,7.693292,92,0
+Croatia,I,2,6,24.54713358,48,1
+Hungary,I,2,6,0.07657286,94,1
+Indonesia,D,2,6,156.1467972,97,0
+India,D,2,6,0.0,96,0
+Ireland,I,2,6,0.6586541,100,1
+"Iran, Islamic Republic of",D,2,6,147.0810828,98,0
+Iraq,D,2,6,41.9071867,99,0
+Iceland,I,2,6,2.439009633,95,1
+Israel,D,2,6,41.9486769,101,0
+Italy,I,2,6,43.6336095,102,1
+Jamaica,D,2,6,6.0458216,103,0
+Jordan,D,2,6,32.068275,105,0
+Japan,I,2,6,11.3397219,104,1
+Kazakhstan,I,2,6,0.0273,106,1
+Kenya,D,2,6,4.94,107,0
+Cambodia,D,2,6,5.7796373,32,0
+"Korea, Republic of",I,2,6,1235.0,110,1
+Kuwait,D,2,6,161.8297838,111,0
+Lebanon,D,2,6,28.4149269,115,0
+Libyan Arab Jamahiriya,D,2,6,45.7654337,118,0
+Saint Lucia,D,2,6,6.5559481,175,0
+Sri Lanka,D,2,6,5.3543792,192,0
+Lithuania,I,2,6,5.000329291,119,1
+Luxembourg,I,2,6,0.566952475,120,1
+Latvia,I,2,6,5.693464418,114,1
+Afghanistan,D,3,5,1961.717937,0,0
+Morocco,D,2,6,19.8498555,139,0
+"Moldova, Republic of",I,2,6,1.89606,136,1
+Madagascar,D,2,6,9.6262833,123,0
+Mexico,I,2,6,3.3407738,134,1
+"Macedonia, the former Yugoslav Republic of",I,2,6,0.0,122,1
+Mali,D,2,6,5.7796373,127,0
+Malta,I,2,6,0.001713426,128,1
+Myanmar,D,2,6,22.8658677,141,0
+Mozambique,D,2,6,3.3595354,140,0
+Mauritania,D,2,6,7.9059204,131,0
+Mauritius,D,2,6,12.2773716,132,0
+Malawi,D,2,6,4.1752521,124,0
+Malaysia,D,2,6,0.0,125,0
+Namibia,D,2,6,3.2280913,142,0
+Niger,D,2,6,6.1758988,150,0
+Nigeria,D,2,6,133.3298024,151,0
+Nicaragua,D,2,6,2.6095318,149,0
+Netherlands,I,2,6,35.8053866,145,1
+Norway,I,2,6,39.5884912,154,1
+Norway,I,2,3,11.14277559,154,1
+New Zealand,I,2,6,16.16307443,148,1
+Oman,D,2,6,12.1584962,155,0
+Pakistan,D,2,6,95.9168165,156,0
+Panama,D,2,6,9.5876232,158,0
+Peru,D,2,6,10.389811,161,0
+Philippines,D,2,6,62.6210908,162,0
+Poland,I,2,6,145.6993767,163,1
+"Korea, Democratic People's Republic of",D,2,6,30.1352885,109,0
+Portugal,I,2,6,9.2965554,164,1
+Paraguay,D,2,6,6.9587596,160,0
+Qatar,D,2,6,33.5953365,166,0
+Romania,I,2,6,1.092274619,170,1
+Russian Federation,I,2,6,0.44473728,171,1
+Saudi Arabia,D,2,6,567.7959964,180,0
+Serbia and Montenegro,I,2,6,3.2474183,182,1
+Sudan,D,2,6,20.3543687,193,0
+Senegal,D,2,6,13.975505,181,0
+Singapore,D,2,6,83.5437544,185,0
+El Salvador,D,2,6,4.5231913,62,0
+Somalia,D,2,6,17.4355565,189,0
+Slovakia,I,2,6,1.155337988,186,1
+Slovenia,I,2,6,1.92000277,187,1
+Sweden,I,2,6,94.44735141,196,1
+Syrian Arab Republic,D,2,6,52.1906835,198,0
+Chad,D,2,6,6.2242224,38,0
+Togo,D,2,6,7.7126238,204,0
+Thailand,D,2,6,358.5886677,202,0
+Turkmenistan,I,2,6,2.6288649,210,1
+Trinidad and Tobago,D,2,6,17.7641639,207,0
+Tunisia,D,2,6,15.7151949,208,0
+Taiwan_Province of China,D,2,6,0.0,199,0
+Ukraine,I,2,6,0.0,214,1
+Uruguay,D,2,6,0.0,221,0
+United States,I,2,6,1340.253645,219,1
+Uzbekistan,I,2,6,0.0,222,1
+Venezuela,D,2,6,80.0063875,224,0
+Viet Nam,D,2,6,85.5154045,226,0
+Yemen,D,2,6,61.1578193,231,0
+South Africa,D,2,6,142.9058294,190,0
+Zimbabwe,D,2,6,6.8814407,233,0
+Aruba,D,0,0,0.019224976,9,0
+Aruba,D,0,1,20.19051188,9,0
+Aruba,D,0,3,0.001918083,9,0
+Aruba,D,0,4,0.001948423,9,0
+Aruba,D,0,5,1.456505276,9,0
+Aruba,D,0,6,0.00185339,9,0
+Aruba,D,0,7,0.114177391,9,0
+Aruba,D,1,0,10.07089012,9,0
+Aruba,D,1,3,4.082593639,9,0
+Aruba,D,1,4,4.14444977,9,0
+Aruba,D,1,5,12.79048663,9,0
+Aruba,D,1,6,3.942306773,9,0
+Aruba,D,1,7,15.88483368,9,0
+Aruba,D,3,0,0.829146226,9,0
+Aruba,D,3,1,0.62846075,9,0
+Aruba,D,3,3,0.005484633,9,0
+Aruba,D,3,4,0.005571389,9,0
+Aruba,D,3,5,1.533193326,9,0
+Aruba,D,3,6,0.005299648,9,0
+Aruba,D,3,7,0.120408549,9,0
+Afghanistan,D,0,0,11.67739767,0,0
+Afghanistan,D,0,1,2132.691772,0,0
+Afghanistan,D,0,3,2.354656251,0,0
+Afghanistan,D,0,4,25.31530872,0,0
+Afghanistan,D,0,5,7460.139013,0,0
+Afghanistan,D,0,6,1.043701493,0,0
+Afghanistan,D,0,7,0.136401224,0,0
+Afghanistan,D,1,0,9.820978634,0,0
+Afghanistan,D,1,3,5.173125595,0,0
+Afghanistan,D,1,4,4.337764265,0,0
+Afghanistan,D,1,5,44.61282367,0,0
+Afghanistan,D,1,6,4.349617592,0,0
+Afghanistan,D,1,7,15.85821759,0,0
+Afghanistan,D,3,0,3.330358499,0,0
+Afghanistan,D,3,1,123.434085,0,0
+Afghanistan,D,3,3,0.006826055,0,0
+Afghanistan,D,3,4,0.041236404,0,0
+Afghanistan,D,3,6,0.005577365,0,0
+Afghanistan,D,3,7,0.116429597,0,0
+Angola,D,0,0,630.5978124,4,0
+Angola,D,0,1,2173.596844,4,0
+Angola,D,0,3,340.1320238,4,0
+Angola,D,0,4,379.9934683,4,0
+Angola,D,0,5,4006.182075,4,0
+Angola,D,0,6,528.0595993,4,0
+Angola,D,0,7,910.3717182,4,0
+Angola,D,1,0,202.3628209,4,0
+Angola,D,1,3,110.3570888,4,0
+Angola,D,1,4,115.8732402,4,0
+Angola,D,1,5,32.36296489,4,0
+Angola,D,1,6,215.3334604,4,0
+Angola,D,1,7,368.1217959,4,0
+Angola,D,3,0,34.56557334,4,0
+Angola,D,3,1,64.571755,4,0
+Angola,D,3,3,0.389123917,4,0
+Angola,D,3,4,16.55562141,4,0
+Angola,D,3,5,1720.195848,4,0
+Angola,D,3,6,0.704337511,4,0
+Angola,D,3,7,1.611389457,4,0
+Anguilla,D,0,0,3.92966e-06,5,0
+Anguilla,D,0,1,2.327138492,5,0
+Anguilla,D,0,3,1.70664e-06,5,0
+Anguilla,D,0,4,1.73363e-06,5,0
+Anguilla,D,0,5,3.54054e-06,5,0
+Anguilla,D,0,6,1.64907e-06,5,0
+Anguilla,D,0,7,0.013630121,5,0
+Anguilla,D,1,0,0.00732056,5,0
+Anguilla,D,1,3,0.005664584,5,0
+Anguilla,D,1,4,0.005530038,5,0
+Anguilla,D,1,5,0.005527979,5,0
+Anguilla,D,1,6,0.005260314,5,0
+Anguilla,D,1,7,2.036983063,5,0
+Anguilla,D,3,0,0.066048504,5,0
+Anguilla,D,3,3,6.33822e-06,5,0
+Anguilla,D,3,4,6.43848e-06,5,0
+Anguilla,D,3,5,9.40014e-05,5,0
+Anguilla,D,3,6,6.12445e-06,5,0
+Anguilla,D,3,7,0.014989425,5,0
+Albania,I,0,0,0.639532663,1,1
+Albania,I,0,1,206.2013908,1,1
+Albania,I,0,3,3.925474006,1,1
+Albania,I,0,4,60.44436638,1,1
+Albania,I,0,5,2812.365081,1,1
+Albania,I,0,6,10.9740553,1,1
+Albania,I,0,7,4.831588281,1,1
+Albania,I,1,0,12.00996554,1,1
+Albania,I,1,1,0.440803304,1,1
+Albania,I,1,3,7.787275787,1,1
+Albania,I,1,4,108.8225921,1,1
+Albania,I,1,5,49.58407492,1,1
+Albania,I,1,6,24.99692931,1,1
+Albania,I,1,7,50.91122379,1,1
+Albania,I,3,0,2.561381169,1,1
+Albania,I,3,1,37.86183476,1,1
+Albania,I,3,3,0.004938079,1,1
+Albania,I,3,4,9.561932323,1,1
+Albania,I,3,5,882.0272488,1,1
+Albania,I,3,6,0.011576938,1,1
+Albania,I,3,7,0.431617989,1,1
+Netherlands Antilles,D,0,0,0.74563948,146,0
+Netherlands Antilles,D,0,1,41.78974744,146,0
+Netherlands Antilles,D,0,3,1.125497805,146,0
+Netherlands Antilles,D,0,4,1.294882059,146,0
+Netherlands Antilles,D,0,5,4.794637182,146,0
+Netherlands Antilles,D,0,6,0.03733131,146,0
+Netherlands Antilles,D,0,7,1.725002841,146,0
+Netherlands Antilles,D,1,0,49.24279851,146,0
+Netherlands Antilles,D,1,3,9.51820348,146,0
+Netherlands Antilles,D,1,4,9.588433646,146,0
+Netherlands Antilles,D,1,5,7.926516125,146,0
+Netherlands Antilles,D,1,6,8.262085183,146,0
+Netherlands Antilles,D,1,7,101.4929653,146,0
+Netherlands Antilles,D,3,0,3.988607172,146,0
+Netherlands Antilles,D,3,1,0.84544275,146,0
+Netherlands Antilles,D,3,3,0.013025952,146,0
+Netherlands Antilles,D,3,4,0.058794696,146,0
+Netherlands Antilles,D,3,5,2.186548498,146,0
+Netherlands Antilles,D,3,6,0.010903509,146,0
+Netherlands Antilles,D,3,7,0.499146672,146,0
+United Arab Emirates,D,0,0,131.7107415,215,0
+United Arab Emirates,D,0,1,1221.179817,215,0
+United Arab Emirates,D,0,3,435.4277487,215,0
+United Arab Emirates,D,0,4,447.1644929,215,0
+United Arab Emirates,D,0,5,1272.933869,215,0
+United Arab Emirates,D,0,6,128.2452908,215,0
+United Arab Emirates,D,0,7,1286.457987,215,0
+United Arab Emirates,D,1,0,500.3044144,215,0
+United Arab Emirates,D,1,3,242.8791131,215,0
+United Arab Emirates,D,1,4,272.3964853,215,0
+United Arab Emirates,D,1,5,1040.418504,215,0
+United Arab Emirates,D,1,6,361.5135315,215,0
+United Arab Emirates,D,1,7,1725.03555,215,0
+United Arab Emirates,D,3,0,71.99186332,215,0
+United Arab Emirates,D,3,1,33.64811,215,0
+United Arab Emirates,D,3,3,0.248805694,215,0
+United Arab Emirates,D,3,4,10.06457813,215,0
+United Arab Emirates,D,3,5,192.5885096,215,0
+United Arab Emirates,D,3,6,0.20417927,215,0
+United Arab Emirates,D,3,7,10.12032914,215,0
+Argentina,D,0,0,437.7871167,7,0
+Argentina,D,0,1,11525.30813,7,0
+Argentina,D,0,3,406.573796,7,0
+Argentina,D,0,4,1540.322886,7,0
+Argentina,D,0,5,100369.3758,7,0
+Argentina,D,0,6,71.18496576,7,0
+Argentina,D,0,7,734.7728953,7,0
+Argentina,D,1,0,2698.590972,7,0
+Argentina,D,1,1,2.636353792,7,0
+Argentina,D,1,3,2007.572721,7,0
+Argentina,D,1,4,2867.336368,7,0
+Argentina,D,1,5,11252.64384,7,0
+Argentina,D,1,6,613.5494908,7,0
+Argentina,D,1,7,5202.999473,7,0
+Argentina,D,3,0,320.1675535,7,0
+Argentina,D,3,1,468.7008262,7,0
+Argentina,D,3,3,1.234268286,7,0
+Argentina,D,3,4,141.9850002,7,0
+Argentina,D,3,5,29114.83125,7,0
+Argentina,D,3,6,0.545021368,7,0
+Argentina,D,3,7,31.49722983,7,0
+Armenia,I,0,0,3.034447761,8,1
+Armenia,I,0,1,374.8432548,8,1
+Armenia,I,0,3,6.622842903,8,1
+Armenia,I,0,4,14.80757041,8,1
+Armenia,I,0,5,1300.227735,8,1
+Armenia,I,0,6,1.138762702,8,1
+Armenia,I,0,7,0.359139877,8,1
+Armenia,I,1,0,38.66764712,8,1
+Armenia,I,1,3,6.176246306,8,1
+Armenia,I,1,4,13.87480761,8,1
+Armenia,I,1,5,17.60379579,8,1
+Armenia,I,1,6,24.04786162,8,1
+Armenia,I,1,7,14.25164812,8,1
+Armenia,I,3,0,0.946057104,8,1
+Armenia,I,3,1,27.60187,8,1
+Armenia,I,3,3,0.00325179,8,1
+Armenia,I,3,4,6.90786021,8,1
+Armenia,I,3,5,269.4154269,8,1
+Armenia,I,3,6,0.012209861,8,1
+Armenia,I,3,7,0.054472126,8,1
+American Samoa,D,0,1,7.84377856,3,0
+American Samoa,D,0,5,3.983415701,3,0
+American Samoa,D,3,5,0.919751826,3,0
+Antigua and Barbuda,D,0,0,0.011115522,6,0
+Antigua and Barbuda,D,0,1,35.39792046,6,0
+Antigua and Barbuda,D,0,3,0.001519517,6,0
+Antigua and Barbuda,D,0,4,0.102008056,6,0
+Antigua and Barbuda,D,0,5,33.54910461,6,0
+Antigua and Barbuda,D,0,6,0.001468267,6,0
+Antigua and Barbuda,D,0,7,0.065584709,6,0
+Antigua and Barbuda,D,1,0,5.782193388,6,0
+Antigua and Barbuda,D,1,3,2.344109972,6,0
+Antigua and Barbuda,D,1,4,2.379536005,6,0
+Antigua and Barbuda,D,1,5,7.343672573,6,0
+Antigua and Barbuda,D,1,6,2.263475594,6,0
+Antigua and Barbuda,D,1,7,9.12026487,6,0
+Antigua and Barbuda,D,3,0,0.864899938,6,0
+Antigua and Barbuda,D,3,1,0.6859101,6,0
+Antigua and Barbuda,D,3,3,0.003639655,6,0
+Antigua and Barbuda,D,3,4,0.175173956,6,0
+Antigua and Barbuda,D,3,5,10.33073527,6,0
+Antigua and Barbuda,D,3,6,0.003516896,6,0
+Antigua and Barbuda,D,3,7,0.069167621,6,0
+Australia,I,0,0,16.74614488,10,1
+Australia,I,0,1,12620.26199,10,1
+Australia,I,0,3,693.9873131,10,1
+Australia,I,0,4,1006.879209,10,1
+Australia,I,0,5,83767.64681,10,1
+Australia,I,0,6,39.52069495,10,1
+Australia,I,0,7,531.2081323,10,1
+Australia,I,1,0,2763.923788,10,1
+Australia,I,1,1,2.813180838,10,1
+Australia,I,1,3,12038.43957,10,1
+Australia,I,1,4,5643.398578,10,1
+Australia,I,1,5,6784.911227,10,1
+Australia,I,1,6,2513.235619,10,1
+Australia,I,1,7,9568.292117,10,1
+Australia,I,3,0,866.8732438,10,1
+Australia,I,3,1,359.8224926,10,1
+Australia,I,3,3,37.45563285,10,1
+Australia,I,3,4,187.7790009,10,1
+Australia,I,3,5,34033.19928,10,1
+Australia,I,3,6,7.879034521,10,1
+Australia,I,3,7,112.0134388,10,1
+Austria,I,0,0,5.393348898,11,1
+Austria,I,0,1,2400.194357,11,1
+Austria,I,0,3,55.85401734,11,1
+Austria,I,0,4,290.4323952,11,1
+Austria,I,0,5,6116.347113,11,1
+Austria,I,0,6,15.56786163,11,1
+Austria,I,0,7,12.27055965,11,1
+Austria,I,1,0,258.4695557,11,1
+Austria,I,1,1,0.290176218,11,1
+Austria,I,1,3,2055.642516,11,1
+Austria,I,1,4,1200.043004,11,1
+Austria,I,1,5,1937.993145,11,1
+Austria,I,1,6,519.4402344,11,1
+Austria,I,1,7,1676.047019,11,1
+Austria,I,3,0,89.86761028,11,1
+Austria,I,3,1,159.0885813,11,1
+Austria,I,3,3,9.724311954,11,1
+Austria,I,3,4,32.53793345,11,1
+Austria,I,3,5,2819.289117,11,1
+Austria,I,3,6,0.863903679,11,1
+Austria,I,3,7,25.06513922,11,1
+Azerbaijan,I,0,0,17.0289057,12,1
+Azerbaijan,I,0,1,1977.3827,12,1
+Azerbaijan,I,0,3,5.184372608,12,1
+Azerbaijan,I,0,4,14.98902743,12,1
+Azerbaijan,I,0,5,4577.638953,12,1
+Azerbaijan,I,0,6,1.067632308,12,1
+Azerbaijan,I,0,7,20.2834179,12,1
+Azerbaijan,I,1,0,354.0727985,12,1
+Azerbaijan,I,1,3,30.86631705,12,1
+Azerbaijan,I,1,4,54.77705607,12,1
+Azerbaijan,I,1,5,2362.872839,12,1
+Azerbaijan,I,1,6,194.4535753,12,1
+Azerbaijan,I,1,7,425.908371,12,1
+Azerbaijan,I,3,0,37.39998472,12,1
+Azerbaijan,I,3,1,64.466285,12,1
+Azerbaijan,I,3,3,0.026706938,12,1
+Azerbaijan,I,3,4,16.17602394,12,1
+Azerbaijan,I,3,5,896.1069347,12,1
+Azerbaijan,I,3,6,0.182941506,12,1
+Azerbaijan,I,3,7,3.014956009,12,1
+Burundi,D,0,0,93.00193589,31,0
+Burundi,D,0,1,812.936322,31,0
+Burundi,D,0,3,0.000159098,31,0
+Burundi,D,0,4,2.23474302,31,0
+Burundi,D,0,5,623.4931804,31,0
+Burundi,D,0,6,0.086382942,31,0
+Burundi,D,0,7,0.021132467,31,0
+Burundi,D,1,0,3.649147773,31,0
+Burundi,D,1,3,0.555078206,31,0
+Burundi,D,1,4,0.10504972,31,0
+Burundi,D,1,5,7.955356447,31,0
+Burundi,D,1,6,0.212845839,31,0
+Burundi,D,1,7,4.064252714,31,0
+Burundi,D,3,0,19.41069724,31,0
+Burundi,D,3,1,30.25399,31,0
+Burundi,D,3,3,0.000353369,31,0
+Burundi,D,3,4,0.143956281,31,0
+Burundi,D,3,5,404.9819058,31,0
+Burundi,D,3,6,0.004461517,31,0
+Burundi,D,3,7,0.03041566,31,0
+Belgium,I,0,0,16.98139201,18,1
+Belgium,I,0,1,2772.423095,18,1
+Belgium,I,0,3,131.10497,18,1
+Belgium,I,0,4,239.3946906,18,1
+Belgium,I,0,5,8937.217028,18,1
+Belgium,I,0,6,70.99671264,18,1
+Belgium,I,0,7,16.16459969,18,1
+Belgium,I,1,0,564.9635127,18,1
+Belgium,I,1,1,12.66489456,18,1
+Belgium,I,1,3,3652.029873,18,1
+Belgium,I,1,4,1781.572849,18,1
+Belgium,I,1,5,5207.696967,18,1
+Belgium,I,1,6,751.4388157,18,1
+Belgium,I,1,7,2527.535331,18,1
+Belgium,I,3,0,141.452025,18,1
+Belgium,I,3,1,145.5842445,18,1
+Belgium,I,3,3,11.58438648,18,1
+Belgium,I,3,4,39.04769901,18,1
+Belgium,I,3,5,5505.254432,18,1
+Belgium,I,3,6,1.546969985,18,1
+Belgium,I,3,7,27.14991859,18,1
+Benin,D,0,0,23.16317017,20,0
+Benin,D,0,1,909.6443503,20,0
+Benin,D,0,3,0.664891682,20,0
+Benin,D,0,4,3.946291535,20,0
+Benin,D,0,5,1338.01596,20,0
+Benin,D,0,6,7.592025086,20,0
+Benin,D,0,7,0.405397907,20,0
+Benin,D,1,0,6.484305736,20,0
+Benin,D,1,1,0.300406805,20,0
+Benin,D,1,3,1.083145704,20,0
+Benin,D,1,4,0.354937802,20,0
+Benin,D,1,5,4.808003463,20,0
+Benin,D,1,6,0.042742842,20,0
+Benin,D,1,7,4.042925047,20,0
+Benin,D,3,0,5.828752227,20,0
+Benin,D,3,1,41.76658723,20,0
+Benin,D,3,3,0.002008729,20,0
+Benin,D,3,4,10.48233606,20,0
+Benin,D,3,5,678.2201682,20,0
+Benin,D,3,6,0.844976704,20,0
+Benin,D,3,7,0.022694472,20,0
+Burkina Faso,D,0,0,144.1106493,30,0
+Burkina Faso,D,0,1,1471.255582,30,0
+Burkina Faso,D,0,3,0.000290751,30,0
+Burkina Faso,D,0,4,12.91908628,30,0
+Burkina Faso,D,0,5,6322.602127,30,0
+Burkina Faso,D,0,6,0.161057877,30,0
+Burkina Faso,D,0,7,0.05903255,30,0
+Burkina Faso,D,1,0,6.668786034,30,0
+Burkina Faso,D,1,3,0.587396894,30,0
+Burkina Faso,D,1,4,0.191977607,30,0
+Burkina Faso,D,1,5,17.38315605,30,0
+Burkina Faso,D,1,6,0.388974236,30,0
+Burkina Faso,D,1,7,11.35209647,30,0
+Burkina Faso,D,3,0,31.18956999,30,0
+Burkina Faso,D,3,1,93.155715,30,0
+Burkina Faso,D,3,3,0.00064578,30,0
+Burkina Faso,D,3,4,23.73798975,30,0
+Burkina Faso,D,3,5,2583.818531,30,0
+Burkina Faso,D,3,6,0.008304521,30,0
+Burkina Faso,D,3,7,0.082645688,30,0
+Bangladesh,D,0,0,403.1522686,15,0
+Bangladesh,D,0,1,14683.70042,15,0
+Bangladesh,D,0,3,2.12837938,15,0
+Bangladesh,D,0,4,143.5474164,15,0
+Bangladesh,D,0,5,86516.41737,15,0
+Bangladesh,D,0,6,5.418443322,15,0
+Bangladesh,D,0,7,1.52733714,15,0
+Bangladesh,D,1,0,377.1910406,15,0
+Bangladesh,D,1,3,601.0959929,15,0
+Bangladesh,D,1,4,174.1256714,15,0
+Bangladesh,D,1,5,4897.169581,15,0
+Bangladesh,D,1,6,43.09845907,15,0
+Bangladesh,D,1,7,211.0463658,15,0
+Bangladesh,D,3,0,231.5290419,15,0
+Bangladesh,D,3,1,697.2362,15,0
+Bangladesh,D,3,3,2.417427881,15,0
+Bangladesh,D,3,4,193.4648263,15,0
+Bangladesh,D,3,5,13650.1114,15,0
+Bangladesh,D,3,6,0.025167093,15,0
+Bangladesh,D,3,7,5.961599128,15,0
+Bulgaria,I,0,0,1.2431952,29,1
+Bulgaria,I,0,1,3287.336602,29,1
+Bulgaria,I,0,3,24.01829543,29,1
+Bulgaria,I,0,4,94.38355483,29,1
+Bulgaria,I,0,5,3256.095871,29,1
+Bulgaria,I,0,6,0.168997157,29,1
+Bulgaria,I,0,7,6.201146487,29,1
+Bulgaria,I,1,0,849.7106892,29,1
+Bulgaria,I,1,1,5.44471244,29,1
+Bulgaria,I,1,3,1855.541675,29,1
+Bulgaria,I,1,4,659.8493637,29,1
+Bulgaria,I,1,5,3338.185837,29,1
+Bulgaria,I,1,6,104.2576795,29,1
+Bulgaria,I,1,7,446.0147474,29,1
+Bulgaria,I,3,0,55.28243701,29,1
+Bulgaria,I,3,1,96.77070709,29,1
+Bulgaria,I,3,3,2.986346564,29,1
+Bulgaria,I,3,4,30.60162503,29,1
+Bulgaria,I,3,5,2643.308142,29,1
+Bulgaria,I,3,6,0.2897741,29,1
+Bulgaria,I,3,7,7.19353185,29,1
+Bahrain,D,0,0,277.3291036,14,0
+Bahrain,D,0,1,225.0001958,14,0
+Bahrain,D,0,3,192.949659,14,0
+Bahrain,D,0,4,248.2707745,14,0
+Bahrain,D,0,5,666.3841202,14,0
+Bahrain,D,0,6,40.05236557,14,0
+Bahrain,D,0,7,1864.940906,14,0
+Bahrain,D,1,0,158.3470143,14,0
+Bahrain,D,1,3,420.4981399,14,0
+Bahrain,D,1,4,150.8863952,14,0
+Bahrain,D,1,5,542.4620668,14,0
+Bahrain,D,1,6,79.06942928,14,0
+Bahrain,D,1,7,170.1359258,14,0
+Bahrain,D,3,0,12.76887773,14,0
+Bahrain,D,3,1,5.498591,14,0
+Bahrain,D,3,3,0.16512215,14,0
+Bahrain,D,3,4,1.484902121,14,0
+Bahrain,D,3,5,9.510604006,14,0
+Bahrain,D,3,6,0.037460486,14,0
+Bahrain,D,3,7,1.315158375,14,0
+Bahamas,D,0,0,0.095337364,13,0
+Bahamas,D,0,1,165.8716417,13,0
+Bahamas,D,0,3,0.013716144,13,0
+Bahamas,D,0,4,0.865169505,13,0
+Bahamas,D,0,5,5.784391557,13,0
+Bahamas,D,0,6,0.013253526,13,0
+Bahamas,D,0,7,0.416879326,13,0
+Bahamas,D,1,0,36.72804321,13,0
+Bahamas,D,1,1,0.293858489,13,0
+Bahamas,D,1,3,14.88556511,13,0
+Bahamas,D,1,4,15.11462087,13,0
+Bahamas,D,1,5,46.64637102,13,0
+Bahamas,D,1,6,14.3774145,13,0
+Bahamas,D,1,7,57.93106406,13,0
+Bahamas,D,3,0,5.907247755,13,0
+Bahamas,D,3,1,2.874234228,13,0
+Bahamas,D,3,3,0.028044033,13,0
+Bahamas,D,3,4,0.731344481,13,0
+Bahamas,D,3,5,11.01137486,13,0
+Bahamas,D,3,6,0.027098165,13,0
+Bahamas,D,3,7,0.439698767,13,0
+Bosnia and Herzegovina,I,0,0,0.239294958,25,1
+Bosnia and Herzegovina,I,0,1,321.1407936,25,1
+Bosnia and Herzegovina,I,0,3,0.72053654,25,1
+Bosnia and Herzegovina,I,0,4,14.47072224,25,1
+Bosnia and Herzegovina,I,0,5,1135.886535,25,1
+Bosnia and Herzegovina,I,0,6,0.199376413,25,1
+Bosnia and Herzegovina,I,0,7,0.96248945,25,1
+Bosnia and Herzegovina,I,1,0,31.68929703,25,1
+Bosnia and Herzegovina,I,1,1,0.643808867,25,1
+Bosnia and Herzegovina,I,1,3,10.63257438,25,1
+Bosnia and Herzegovina,I,1,4,36.06399227,25,1
+Bosnia and Herzegovina,I,1,5,3.441541389,25,1
+Bosnia and Herzegovina,I,1,6,5.851591045,25,1
+Bosnia and Herzegovina,I,1,7,92.97036445,25,1
+Bosnia and Herzegovina,I,3,0,4.150307799,25,1
+Bosnia and Herzegovina,I,3,1,44.16961824,25,1
+Bosnia and Herzegovina,I,3,3,0.022113924,25,1
+Bosnia and Herzegovina,I,3,4,11.12406277,25,1
+Bosnia and Herzegovina,I,3,5,399.3648915,25,1
+Bosnia and Herzegovina,I,3,6,0.020198641,25,1
+Bosnia and Herzegovina,I,3,7,0.835587193,25,1
+Belarus,I,0,0,1.505310594,17,1
+Belarus,I,0,1,1426.882153,17,1
+Belarus,I,0,3,6.292596956,17,1
+Belarus,I,0,4,85.60250469,17,1
+Belarus,I,0,5,13775.58417,17,1
+Belarus,I,0,6,1.833903034,17,1
+Belarus,I,0,7,9.183639977,17,1
+Belarus,I,1,0,387.1924946,17,1
+Belarus,I,1,3,943.3166747,17,1
+Belarus,I,1,4,838.4323943,17,1
+Belarus,I,1,5,5582.445198,17,1
+Belarus,I,1,6,397.9913616,17,1
+Belarus,I,1,7,838.0696544,17,1
+Belarus,I,3,0,71.15851049,17,1
+Belarus,I,3,1,130.50508,17,1
+Belarus,I,3,3,1.46063735,17,1
+Belarus,I,3,4,36.22992588,17,1
+Belarus,I,3,5,6549.337969,17,1
+Belarus,I,3,6,0.289546217,17,1
+Belarus,I,3,7,20.5916512,17,1
+Belize,D,0,0,0.091210645,19,0
+Belize,D,0,1,103.5734652,19,0
+Belize,D,0,3,0.00200257,19,0
+Belize,D,0,4,8.505389527,19,0
+Belize,D,0,5,94.27083165,19,0
+Belize,D,0,6,0.001935027,19,0
+Belize,D,0,7,0.044906866,19,0
+Belize,D,1,0,3.953075414,19,0
+Belize,D,1,3,1.606127817,19,0
+Belize,D,1,4,1.626803132,19,0
+Belize,D,1,5,5.330744505,19,0
+Belize,D,1,6,1.547456806,19,0
+Belize,D,1,7,6.235198811,19,0
+Belize,D,3,0,3.656512666,19,0
+Belize,D,3,1,1.8277156,19,0
+Belize,D,3,3,0.003640222,19,0
+Belize,D,3,4,1.131543103,19,0
+Belize,D,3,5,60.15161937,19,0
+Belize,D,3,6,0.003517445,19,0
+Belize,D,3,7,0.047369799,19,0
+Bermuda,D,0,0,3.83880591,21,0
+Bermuda,D,0,1,19.15765068,21,0
+Bermuda,D,0,3,0.01370995,21,0
+Bermuda,D,0,4,0.038705576,21,0
+Bermuda,D,0,5,2.232073105,21,0
+Bermuda,D,0,6,0.013247541,21,0
+Bermuda,D,0,7,0.071578392,21,0
+Bermuda,D,1,0,6.234430179,21,0
+Bermuda,D,1,3,2.527106039,21,0
+Bermuda,D,1,4,2.565646699,21,0
+Bermuda,D,1,5,7.918032553,21,0
+Bermuda,D,1,6,2.440508853,21,0
+Bermuda,D,1,7,9.833592525,21,0
+Bermuda,D,3,0,1.972114571,21,0
+Bermuda,D,3,3,0.019090259,21,0
+Bermuda,D,3,4,0.214433022,21,0
+Bermuda,D,3,5,1.352424118,21,0
+Bermuda,D,3,6,0.018446383,21,0
+Bermuda,D,3,7,0.075662815,21,0
+Bolivia,D,0,0,137.1582846,23,0
+Bolivia,D,0,1,1158.710635,23,0
+Bolivia,D,0,3,58.1429572,23,0
+Bolivia,D,0,4,145.7622284,23,0
+Bolivia,D,0,5,11101.36123,23,0
+Bolivia,D,0,6,1.501568584,23,0
+Bolivia,D,0,7,401.3084344,23,0
+Bolivia,D,1,0,161.0325496,23,0
+Bolivia,D,1,1,0.250380744,23,0
+Bolivia,D,1,3,35.02154946,23,0
+Bolivia,D,1,4,45.71509421,23,0
+Bolivia,D,1,5,122.605837,23,0
+Bolivia,D,1,6,12.94742088,23,0
+Bolivia,D,1,7,502.6961792,23,0
+Bolivia,D,3,0,47.42811036,23,0
+Bolivia,D,3,1,54.71605447,23,0
+Bolivia,D,3,3,0.132621412,23,0
+Bolivia,D,3,4,20.26557699,23,0
+Bolivia,D,3,5,3258.577035,23,0
+Bolivia,D,3,6,0.019828794,23,0
+Bolivia,D,3,7,3.731161895,23,0
+Brazil,D,0,0,385.0988024,27,0
+Brazil,D,0,1,64615.17314,27,0
+Brazil,D,0,3,433.8606291,27,0
+Brazil,D,0,4,12559.16964,27,0
+Brazil,D,0,5,327418.4206,27,0
+Brazil,D,0,6,27.06502511,27,0
+Brazil,D,0,7,350.7494232,27,0
+Brazil,D,1,0,2584.354667,27,0
+Brazil,D,1,1,92.56820874,27,0
+Brazil,D,1,3,8849.89115,27,0
+Brazil,D,1,4,4821.06192,27,0
+Brazil,D,1,5,29846.23037,27,0
+Brazil,D,1,6,684.6935212,27,0
+Brazil,D,1,7,10452.06425,27,0
+Brazil,D,3,0,1805.085899,27,0
+Brazil,D,3,1,1692.709633,27,0
+Brazil,D,3,3,101.184909,27,0
+Brazil,D,3,4,975.1286504,27,0
+Brazil,D,3,5,100057.3393,27,0
+Brazil,D,3,6,2.423013261,27,0
+Brazil,D,3,7,84.7997598,27,0
+Barbados,D,0,0,0.498644321,16,0
+Barbados,D,0,1,113.964693,16,0
+Barbados,D,0,3,0.399119063,16,0
+Barbados,D,0,4,4.83373988,16,0
+Barbados,D,0,5,61.70209155,16,0
+Barbados,D,0,6,0.022696181,16,0
+Barbados,D,0,7,0.542219367,16,0
+Barbados,D,1,0,15.09272711,16,0
+Barbados,D,1,3,6.09654203,16,0
+Barbados,D,1,4,6.184502073,16,0
+Barbados,D,1,5,19.57249305,16,0
+Barbados,D,1,6,5.846826065,16,0
+Barbados,D,1,7,23.50986304,16,0
+Barbados,D,3,0,5.669622823,16,0
+Barbados,D,3,1,2.9426395,16,0
+Barbados,D,3,3,0.011338705,16,0
+Barbados,D,3,4,1.5270076,16,0
+Barbados,D,3,5,26.71248399,16,0
+Barbados,D,3,6,0.01092557,16,0
+Barbados,D,3,7,0.178428419,16,0
+Brunei Darussalam,D,0,0,10.71014455,28,0
+Brunei Darussalam,D,0,1,74.84866952,28,0
+Brunei Darussalam,D,0,3,88.81317893,28,0
+Brunei Darussalam,D,0,4,86.70951604,28,0
+Brunei Darussalam,D,0,5,44.48274037,28,0
+Brunei Darussalam,D,0,6,38.73769492,28,0
+Brunei Darussalam,D,0,7,58.13153013,28,0
+Brunei Darussalam,D,1,0,33.62735367,28,0
+Brunei Darussalam,D,1,1,0.413754172,28,0
+Brunei Darussalam,D,1,3,43.27813461,28,0
+Brunei Darussalam,D,1,4,44.57545971,28,0
+Brunei Darussalam,D,1,5,103.1198315,28,0
+Brunei Darussalam,D,1,6,66.55980012,28,0
+Brunei Darussalam,D,1,7,76.18104463,28,0
+Brunei Darussalam,D,3,0,4.767722258,28,0
+Brunei Darussalam,D,3,1,3.667776146,28,0
+Brunei Darussalam,D,3,3,0.026633608,28,0
+Brunei Darussalam,D,3,4,0.925700276,28,0
+Brunei Darussalam,D,3,5,61.10684071,28,0
+Brunei Darussalam,D,3,6,0.03262942,28,0
+Brunei Darussalam,D,3,7,0.463696215,28,0
+Bhutan,D,0,0,33.87754027,22,0
+Bhutan,D,0,1,65.24952809,22,0
+Bhutan,D,0,3,2.20303019,22,0
+Bhutan,D,0,4,0.918610154,22,0
+Bhutan,D,0,5,630.9336062,22,0
+Bhutan,D,0,6,0.01719978,22,0
+Bhutan,D,0,7,0.057024774,22,0
+Bhutan,D,1,0,0.927750312,22,0
+Bhutan,D,1,3,0.401388428,22,0
+Bhutan,D,1,4,0.309529469,22,0
+Bhutan,D,1,5,3.412331614,22,0
+Bhutan,D,1,6,0.327260085,22,0
+Bhutan,D,1,7,0.992767613,22,0
+Bhutan,D,3,0,6.918061198,22,0
+Bhutan,D,3,3,0.001574485,22,0
+Bhutan,D,3,4,0.001409101,22,0
+Bhutan,D,3,5,99.53930194,22,0
+Bhutan,D,3,6,0.001521381,22,0
+Bhutan,D,3,7,0.0084281,22,0
+Botswana,D,0,0,24.3322188,26,0
+Botswana,D,0,1,306.1023762,26,0
+Botswana,D,0,3,2.842664479,26,0
+Botswana,D,0,4,22.92666924,26,0
+Botswana,D,0,5,3620.577194,26,0
+Botswana,D,0,6,0.940204058,26,0
+Botswana,D,0,7,1.81126147,26,0
+Botswana,D,1,0,22.26028634,26,0
+Botswana,D,1,3,23.6633834,26,0
+Botswana,D,1,4,8.574944075,26,0
+Botswana,D,1,5,65.69378125,26,0
+Botswana,D,1,6,32.78973424,26,0
+Botswana,D,1,7,102.7724726,26,0
+Botswana,D,3,0,10.44663279,26,0
+Botswana,D,3,1,14.3423035,26,0
+Botswana,D,3,3,0.018303402,26,0
+Botswana,D,3,4,3.617346563,26,0
+Botswana,D,3,5,1380.704779,26,0
+Botswana,D,3,6,0.194823877,26,0
+Botswana,D,3,7,1.464243269,26,0
+Central African Republic,D,0,0,41.74665951,37,0
+Central African Republic,D,0,1,570.8694757,37,0
+Central African Republic,D,0,3,0.000126727,37,0
+Central African Republic,D,0,4,7.685093334,37,0
+Central African Republic,D,0,5,3321.720982,37,0
+Central African Republic,D,0,6,0.01340611,37,0
+Central African Republic,D,0,7,0.007401398,37,0
+Central African Republic,D,1,0,2.90665164,37,0
+Central African Republic,D,1,3,0.23330492,37,0
+Central African Republic,D,1,4,0.083675645,37,0
+Central African Republic,D,1,5,6.089662052,37,0
+Central African Republic,D,1,6,0.169538888,37,0
+Central African Republic,D,1,7,1.577474855,37,0
+Central African Republic,D,3,0,8.484373145,37,0
+Central African Republic,D,3,1,19.193208,37,0
+Central African Republic,D,3,3,0.00028147,37,0
+Central African Republic,D,3,4,4.798452132,37,0
+Central African Republic,D,3,5,1464.401886,37,0
+Central African Republic,D,3,6,0.000932104,37,0
+Central African Republic,D,3,7,0.011935884,37,0
+Canada,I,0,0,118.7417096,34,1
+Canada,I,0,1,10243.26676,34,1
+Canada,I,0,3,625.748263,34,1
+Canada,I,0,4,1272.345101,34,1
+Canada,I,0,5,30115.99547,34,1
+Canada,I,0,6,488.87842,34,1
+Canada,I,0,7,2882.796765,34,1
+Canada,I,1,0,2868.013588,34,1
+Canada,I,1,1,44.68567901,34,1
+Canada,I,1,3,9136.741179,34,1
+Canada,I,1,4,1378.020427,34,1
+Canada,I,1,5,17630.57208,34,1
+Canada,I,1,6,6288.934479,34,1
+Canada,I,1,7,16728.41642,34,1
+Canada,I,3,0,648.3704944,34,1
+Canada,I,3,1,431.999193,34,1
+Canada,I,3,3,96.57525655,34,1
+Canada,I,3,4,117.0388307,34,1
+Canada,I,3,5,18886.30153,34,1
+Canada,I,3,6,10.54421863,34,1
+Canada,I,3,7,592.2775321,34,1
+Switzerland,I,0,0,2.219492592,197,1
+Switzerland,I,0,1,591.2571937,197,1
+Switzerland,I,0,3,8.155159066,197,1
+Switzerland,I,0,4,71.17605409,197,1
+Switzerland,I,0,5,4578.970988,197,1
+Switzerland,I,0,6,7.796711348,197,1
+Switzerland,I,0,7,11.42626776,197,1
+Switzerland,I,1,0,136.0765803,197,1
+Switzerland,I,1,1,3.13158611,197,1
+Switzerland,I,1,3,1084.306563,197,1
+Switzerland,I,1,4,278.1013392,197,1
+Switzerland,I,1,5,285.4736112,197,1
+Switzerland,I,1,6,230.4774448,197,1
+Switzerland,I,1,7,1445.360694,197,1
+Switzerland,I,3,0,52.41921102,197,1
+Switzerland,I,3,1,130.9164303,197,1
+Switzerland,I,3,3,4.121828974,197,1
+Switzerland,I,3,4,22.9791533,197,1
+Switzerland,I,3,5,1637.913475,197,1
+Switzerland,I,3,6,0.531421393,197,1
+Switzerland,I,3,7,25.86860402,197,1
+Chile,D,0,0,196.9299153,39,0
+Chile,D,0,1,4411.768888,39,0
+Chile,D,0,3,50.01206363,39,0
+Chile,D,0,4,1160.548153,39,0
+Chile,D,0,5,8750.408995,39,0
+Chile,D,0,6,31.85599499,39,0
+Chile,D,0,7,215.9593951,39,0
+Chile,D,1,0,713.9430192,39,0
+Chile,D,1,1,0.007962043,39,0
+Chile,D,1,3,767.4774303,39,0
+Chile,D,1,4,24.2595683,39,0
+Chile,D,1,5,799.3872392,39,0
+Chile,D,1,6,114.9848273,39,0
+Chile,D,1,7,1783.885449,39,0
+Chile,D,3,0,105.5016674,39,0
+Chile,D,3,1,148.1416624,39,0
+Chile,D,3,3,8.057608037,39,0
+Chile,D,3,4,37.13816502,39,0
+Chile,D,3,5,4365.754097,39,0
+Chile,D,3,6,2.286883421,39,0
+Chile,D,3,7,10.95533648,39,0
+China,D,0,0,49576.77501,40,0
+China,D,0,1,192606.9146,40,0
+China,D,0,3,16150.60205,40,0
+China,D,0,4,15900.89523,40,0
+China,D,0,5,682146.4196,40,0
+China,D,0,6,1224.703196,40,0
+China,D,0,7,1103.9064,40,0
+China,D,1,0,89602.29249,40,0
+China,D,1,1,102.17112,40,0
+China,D,1,3,185212.3367,40,0
+China,D,1,4,103773.5788,40,0
+China,D,1,5,198391.2952,40,0
+China,D,1,6,20273.07278,40,0
+China,D,1,7,13866.7583,40,0
+China,D,3,0,9239.76375,40,0
+China,D,3,1,12826.84531,40,0
+China,D,3,3,704.0188028,40,0
+China,D,3,4,3750.699002,40,0
+China,D,3,5,277952.2349,40,0
+China,D,3,6,66.08014008,40,0
+China,D,3,7,78.9859611,40,0
+Cote d'Ivoire,D,0,0,88.4810268,47,0
+Cote d'Ivoire,D,0,1,2488.958702,47,0
+Cote d'Ivoire,D,0,3,5.497824256,47,0
+Cote d'Ivoire,D,0,4,41.47013236,47,0
+Cote d'Ivoire,D,0,5,2408.131389,47,0
+Cote d'Ivoire,D,0,6,15.5558715,47,0
+Cote d'Ivoire,D,0,7,20.4232606,47,0
+Cote d'Ivoire,D,1,0,58.81760491,47,0
+Cote d'Ivoire,D,1,3,8.641152501,47,0
+Cote d'Ivoire,D,1,4,44.27364406,47,0
+Cote d'Ivoire,D,1,5,219.7548145,47,0
+Cote d'Ivoire,D,1,6,25.40149883,47,0
+Cote d'Ivoire,D,1,7,143.7715054,47,0
+Cote d'Ivoire,D,3,0,24.62901022,47,0
+Cote d'Ivoire,D,3,1,102.15114,47,0
+Cote d'Ivoire,D,3,3,0.012562856,47,0
+Cote d'Ivoire,D,3,4,25.59130426,47,0
+Cote d'Ivoire,D,3,5,1173.84036,47,0
+Cote d'Ivoire,D,3,6,1.524450637,47,0
+Cote d'Ivoire,D,3,7,1.746251608,47,0
+Cameroon,D,0,0,440.2848691,33,0
+Cameroon,D,0,1,2445.435658,33,0
+Cameroon,D,0,3,26.14008098,33,0
+Cameroon,D,0,4,121.7099382,33,0
+Cameroon,D,0,5,6247.179102,33,0
+Cameroon,D,0,6,39.40445764,33,0
+Cameroon,D,0,7,473.8317012,33,0
+Cameroon,D,1,0,153.7533758,33,0
+Cameroon,D,1,3,21.84312707,33,0
+Cameroon,D,1,4,28.88522142,33,0
+Cameroon,D,1,5,109.9250794,33,0
+Cameroon,D,1,6,1.783580696,33,0
+Cameroon,D,1,7,268.8529115,33,0
+Cameroon,D,3,0,46.11971786,33,0
+Cameroon,D,3,1,93.192815,33,0
+Cameroon,D,3,3,0.027121824,33,0
+Cameroon,D,3,4,24.39037733,33,0
+Cameroon,D,3,5,2705.830161,33,0
+Cameroon,D,3,6,4.220136282,33,0
+Cameroon,D,3,7,1.161936565,33,0
+Congo_the Democratic Republic of the,D,0,0,440.3162854,44,0
+Congo_the Democratic Republic of the,D,0,1,7140.253624,44,0
+Congo_the Democratic Republic of the,D,0,3,55.62871623,44,0
+Congo_the Democratic Republic of the,D,0,4,80.81944763,44,0
+Congo_the Democratic Republic of the,D,0,5,4288.01947,44,0
+Congo_the Democratic Republic of the,D,0,6,5.346070297,44,0
+Congo_the Democratic Republic of the,D,0,7,253.3111338,44,0
+Congo_the Democratic Republic of the,D,1,0,6.220936785,44,0
+Congo_the Democratic Republic of the,D,1,3,14.34413591,44,0
+Congo_the Democratic Republic of the,D,1,4,12.97293345,44,0
+Congo_the Democratic Republic of the,D,1,5,40.83263889,44,0
+Congo_the Democratic Republic of the,D,1,6,1.485651894,44,0
+Congo_the Democratic Republic of the,D,1,7,115.204297,44,0
+Congo_the Democratic Republic of the,D,3,0,92.79534966,44,0
+Congo_the Democratic Republic of the,D,3,1,140.67737,44,0
+Congo_the Democratic Republic of the,D,3,3,0.044232842,44,0
+Congo_the Democratic Republic of the,D,3,4,39.28383648,44,0
+Congo_the Democratic Republic of the,D,3,5,1471.82268,44,0
+Congo_the Democratic Republic of the,D,3,6,0.004884513,44,0
+Congo_the Democratic Republic of the,D,3,7,0.882302734,44,0
+Congo,D,0,0,179.8568079,43,0
+Congo,D,0,1,515.5034735,43,0
+Congo,D,0,3,94.19310634,43,0
+Congo,D,0,4,314.7201827,43,0
+Congo,D,0,5,457.5528203,43,0
+Congo,D,0,6,7.993383807,43,0
+Congo,D,0,7,418.2147814,43,0
+Congo,D,1,0,55.48294352,43,0
+Congo,D,1,1,0.000749767,43,0
+Congo,D,1,3,25.56664742,43,0
+Congo,D,1,4,83.88847319,43,0
+Congo,D,1,5,83.43140648,43,0
+Congo,D,1,6,2.126206688,43,0
+Congo,D,1,7,140.6779399,43,0
+Congo,D,3,0,4.915640256,43,0
+Congo,D,3,1,14.56517381,43,0
+Congo,D,3,3,0.093397879,43,0
+Congo,D,3,4,3.950439978,43,0
+Congo,D,3,5,143.022334,43,0
+Congo,D,3,6,0.007816026,43,0
+Congo,D,3,7,0.61787618,43,0
+Cook Islands,D,0,0,0.000840182,45,0
+Cook Islands,D,0,1,2.899967124,45,0
+Cook Islands,D,0,3,0.000103601,45,0
+Cook Islands,D,0,4,0.041748732,45,0
+Cook Islands,D,0,5,4.830668583,45,0
+Cook Islands,D,0,6,0.000100107,45,0
+Cook Islands,D,0,7,0.013787423,45,0
+Cook Islands,D,1,0,0.382172594,45,0
+Cook Islands,D,1,3,0.130729957,45,0
+Cook Islands,D,1,4,0.167444451,45,0
+Cook Islands,D,1,5,1.203237327,45,0
+Cook Islands,D,1,6,0.12592273,45,0
+Cook Islands,D,1,7,1.605435643,45,0
+Cook Islands,D,3,0,0.091633201,45,0
+Cook Islands,D,3,3,0.000228087,45,0
+Cook Islands,D,3,4,0.000293066,45,0
+Cook Islands,D,3,5,3.972789042,45,0
+Cook Islands,D,3,6,0.000220394,45,0
+Cook Islands,D,3,7,0.013995624,45,0
+Colombia,D,0,0,224.556879,41,0
+Colombia,D,0,1,11378.14604,41,0
+Colombia,D,0,3,394.5373002,41,0
+Colombia,D,0,4,710.2948336,41,0
+Colombia,D,0,5,49922.17417,41,0
+Colombia,D,0,6,25.18328985,41,0
+Colombia,D,0,7,419.9279267,41,0
+Colombia,D,1,0,610.5666805,41,0
+Colombia,D,1,1,5.301943343,41,0
+Colombia,D,1,3,3049.098873,41,0
+Colombia,D,1,4,2113.274661,41,0
+Colombia,D,1,5,2072.257519,41,0
+Colombia,D,1,6,239.4111404,41,0
+Colombia,D,1,7,2940.677539,41,0
+Colombia,D,3,0,423.5551953,41,0
+Colombia,D,3,1,321.5413581,41,0
+Colombia,D,3,3,11.93690703,41,0
+Colombia,D,3,4,155.9070683,41,0
+Colombia,D,3,5,14497.0589,41,0
+Colombia,D,3,6,0.517641244,41,0
+Colombia,D,3,7,20.56740306,41,0
+Comoros,D,0,0,2.379540672,42,0
+Comoros,D,0,1,111.0159479,42,0
+Comoros,D,0,3,1.06627e-05,42,0
+Comoros,D,0,4,0.156289927,42,0
+Comoros,D,0,5,122.7562052,42,0
+Comoros,D,0,6,0.010218003,42,0
+Comoros,D,0,7,0.008352302,42,0
+Comoros,D,1,0,0.612262652,42,0
+Comoros,D,1,3,0.043946639,42,0
+Comoros,D,1,4,0.017625511,42,0
+Comoros,D,1,5,1.282732638,42,0
+Comoros,D,1,6,0.03571182,42,0
+Comoros,D,1,7,1.11717415,42,0
+Comoros,D,3,0,0.531455956,42,0
+Comoros,D,3,1,2.1902515,42,0
+Comoros,D,3,3,4.26922e-05,42,0
+Comoros,D,3,4,2.27713e-05,42,0
+Comoros,D,3,5,32.7840584,42,0
+Comoros,D,3,6,0.000529123,42,0
+Comoros,D,3,7,0.011588088,42,0
+Cape Verde,D,0,0,1.841226579,35,0
+Cape Verde,D,0,1,59.90134324,35,0
+Cape Verde,D,0,3,4.91487e-05,35,0
+Cape Verde,D,0,4,0.792853775,35,0
+Cape Verde,D,0,5,67.61721891,35,0
+Cape Verde,D,0,6,0.00661371,35,0
+Cape Verde,D,0,7,0.018139277,35,0
+Cape Verde,D,1,0,1.127298732,35,0
+Cape Verde,D,1,3,0.078590693,35,0
+Cape Verde,D,1,4,0.032452071,35,0
+Cape Verde,D,1,5,2.361776267,35,0
+Cape Verde,D,1,6,0.065752562,35,0
+Cape Verde,D,1,7,2.141796359,35,0
+Cape Verde,D,3,0,0.499068441,35,0
+Cape Verde,D,3,1,3.0201255,35,0
+Cape Verde,D,3,3,0.000109163,35,0
+Cape Verde,D,3,4,0.755090926,35,0
+Cape Verde,D,3,5,57.53283209,35,0
+Cape Verde,D,3,6,0.000428431,35,0
+Cape Verde,D,3,7,0.024910536,35,0
+Costa Rica,D,0,0,9.203135542,46,0
+Costa Rica,D,0,1,1108.369696,46,0
+Costa Rica,D,0,3,0.028417025,46,0
+Costa Rica,D,0,4,49.18543009,46,0
+Costa Rica,D,0,5,3261.782466,46,0
+Costa Rica,D,0,6,0.053851629,46,0
+Costa Rica,D,0,7,2.196538416,46,0
+Costa Rica,D,1,0,27.92612903,46,0
+Costa Rica,D,1,3,16.01897631,46,0
+Costa Rica,D,1,4,292.6867662,46,0
+Costa Rica,D,1,5,283.4798213,46,0
+Costa Rica,D,1,6,18.18885377,46,0
+Costa Rica,D,1,7,336.951388,46,0
+Costa Rica,D,3,0,32.59694524,46,0
+Costa Rica,D,3,1,32.884645,46,0
+Costa Rica,D,3,3,0.032419332,46,0
+Costa Rica,D,3,4,15.38619177,46,0
+Costa Rica,D,3,5,1342.528175,46,0
+Costa Rica,D,3,6,0.038100656,46,0
+Costa Rica,D,3,7,2.231298796,46,0
+Cuba,D,0,0,7.539388975,49,0
+Cuba,D,0,1,3443.408789,49,0
+Cuba,D,0,3,0.527916576,49,0
+Cuba,D,0,4,392.2103526,49,0
+Cuba,D,0,5,9268.855976,49,0
+Cuba,D,0,6,2.087471119,49,0
+Cuba,D,0,7,7.742172526,49,0
+Cuba,D,1,0,303.0055847,49,0
+Cuba,D,1,1,0.188568095,49,0
+Cuba,D,1,3,133.0258177,49,0
+Cuba,D,1,4,132.1291933,49,0
+Cuba,D,1,5,1315.490961,49,0
+Cuba,D,1,6,100.1114925,49,0
+Cuba,D,1,7,183.1589717,49,0
+Cuba,D,3,0,165.3200572,49,0
+Cuba,D,3,1,80.30111103,49,0
+Cuba,D,3,3,0.358927014,49,0
+Cuba,D,3,4,57.20903004,49,0
+Cuba,D,3,5,5347.492954,49,0
+Cuba,D,3,6,0.51167574,49,0
+Cuba,D,3,7,1.148410056,49,0
+Cayman Islands,D,0,0,0.008874037,36,0
+Cayman Islands,D,0,1,10.25908618,36,0
+Cayman Islands,D,0,3,0.001789453,36,0
+Cayman Islands,D,0,4,0.001817758,36,0
+Cayman Islands,D,0,5,3.027902773,36,0
+Cayman Islands,D,0,6,0.001729098,36,0
+Cayman Islands,D,0,7,0.04712229,36,0
+Cayman Islands,D,1,0,4.150056636,36,0
+Cayman Islands,D,1,3,1.68198362,36,0
+Cayman Islands,D,1,4,1.707865228,36,0
+Cayman Islands,D,1,5,5.270779101,36,0
+Cayman Islands,D,1,6,1.624565148,36,0
+Cayman Islands,D,1,7,6.545905826,36,0
+Cayman Islands,D,3,0,0.994907299,36,0
+Cayman Islands,D,3,3,0.003449401,36,0
+Cayman Islands,D,3,4,0.003503963,36,0
+Cayman Islands,D,3,5,1.173941633,36,0
+Cayman Islands,D,3,6,0.00333306,36,0
+Cayman Islands,D,3,7,0.04970373,36,0
+Cyprus,I,0,0,0.034525649,50,1
+Cyprus,I,0,1,263.2683284,50,1
+Cyprus,I,0,3,1.062031296,50,1
+Cyprus,I,0,4,7.088263445,50,1
+Cyprus,I,0,5,353.7579241,50,1
+Cyprus,I,0,6,0.031544843,50,1
+Cyprus,I,0,7,0.835754269,50,1
+Cyprus,I,1,0,60.38839694,50,1
+Cyprus,I,1,3,501.711247,50,1
+Cyprus,I,1,4,42.31296761,50,1
+Cyprus,I,1,5,41.38264895,50,1
+Cyprus,I,1,6,64.06101382,50,1
+Cyprus,I,1,7,143.32298,50,1
+Cyprus,I,3,0,12.17472804,50,1
+Cyprus,I,3,1,10.470468,50,1
+Cyprus,I,3,3,0.969203647,50,1
+Cyprus,I,3,4,2.514936566,50,1
+Cyprus,I,3,5,166.7333437,50,1
+Cyprus,I,3,6,0.082482162,50,1
+Cyprus,I,3,7,1.288609146,50,1
+Czech Republic,I,0,0,4.97098119,51,1
+Czech Republic,I,0,1,2185.587834,51,1
+Czech Republic,I,0,3,63.70646685,51,1
+Czech Republic,I,0,4,266.5827817,51,1
+Czech Republic,I,0,5,6745.175801,51,1
+Czech Republic,I,0,6,3.469448092,51,1
+Czech Republic,I,0,7,10.94942681,51,1
+Czech Republic,I,1,0,892.4918685,51,1
+Czech Republic,I,1,1,6.283514066,51,1
+Czech Republic,I,1,3,3639.17803,51,1
+Czech Republic,I,1,4,2564.2438,51,1
+Czech Republic,I,1,5,4818.367166,51,1
+Czech Republic,I,1,6,1142.579217,51,1
+Czech Republic,I,1,7,863.5768205,51,1
+Czech Republic,I,3,0,127.0521567,51,1
+Czech Republic,I,3,1,134.105801,51,1
+Czech Republic,I,3,3,14.73675166,51,1
+Czech Republic,I,3,4,46.18528525,51,1
+Czech Republic,I,3,5,3771.656393,51,1
+Czech Republic,I,3,6,9.221100972,51,1
+Czech Republic,I,3,7,8.830690513,51,1
+Germany,I,0,0,59.9756098,79,1
+Germany,I,0,1,24622.46444,79,1
+Germany,I,0,3,681.2443024,79,1
+Germany,I,0,4,970.748596,79,1
+Germany,I,0,5,44866.801,79,1
+Germany,I,0,6,147.2977019,79,1
+Germany,I,0,7,135.27715,79,1
+Germany,I,1,0,6448.221982,79,1
+Germany,I,1,1,21.07816279,79,1
+Germany,I,1,3,21629.1684,79,1
+Germany,I,1,4,13893.67075,79,1
+Germany,I,1,5,14180.09476,79,1
+Germany,I,1,6,8577.203989,79,1
+Germany,I,1,7,18960.4723,79,1
+Germany,I,3,0,857.233981,79,1
+Germany,I,3,1,1418.655881,79,1
+Germany,I,3,3,83.08654488,79,1
+Germany,I,3,4,302.5101767,79,1
+Germany,I,3,5,27832.1657,79,1
+Germany,I,3,6,34.91960673,79,1
+Germany,I,3,7,263.9581525,79,1
+Djibouti,D,0,0,3.530043399,57,0
+Djibouti,D,0,1,277.9581067,57,0
+Djibouti,D,0,3,0.000758604,57,0
+Djibouti,D,0,4,0.681753883,57,0
+Djibouti,D,0,5,449.9388166,57,0
+Djibouti,D,0,6,0.014444231,57,0
+Djibouti,D,0,7,0.245234126,57,0
+Djibouti,D,1,0,17.39974487,57,0
+Djibouti,D,1,3,0.953961705,57,0
+Djibouti,D,1,4,0.500893634,57,0
+Djibouti,D,1,5,36.45364571,57,0
+Djibouti,D,1,6,1.014882526,57,0
+Djibouti,D,1,7,30.66860873,57,0
+Djibouti,D,3,0,2.593498988,57,0
+Djibouti,D,3,1,3.538227,57,0
+Djibouti,D,3,3,0.001684921,57,0
+Djibouti,D,3,4,0.885455459,57,0
+Djibouti,D,3,5,169.1886639,57,0
+Djibouti,D,3,6,0.002465639,57,0
+Djibouti,D,3,7,0.338016672,57,0
+Dominica,D,0,0,0.007667815,58,0
+Dominica,D,0,1,22.82618954,58,0
+Dominica,D,0,3,0.00046415,58,0
+Dominica,D,0,4,0.135956688,58,0
+Dominica,D,0,5,25.72083642,58,0
+Dominica,D,0,6,0.000448496,58,0
+Dominica,D,0,7,0.010922573,58,0
+Dominica,D,1,0,1.040071151,58,0
+Dominica,D,1,3,0.422961534,58,0
+Dominica,D,1,4,0.428018856,58,0
+Dominica,D,1,5,1.631084694,58,0
+Dominica,D,1,6,0.407142498,58,0
+Dominica,D,1,7,1.444781822,58,0
+Dominica,D,3,0,0.248932036,58,0
+Dominica,D,3,1,0.8116897,58,0
+Dominica,D,3,3,0.00088427,58,0
+Dominica,D,3,4,0.203820682,58,0
+Dominica,D,3,5,8.119152948,58,0
+Dominica,D,3,6,0.000854445,58,0
+Dominica,D,3,7,0.00917942,58,0
+Denmark,I,0,0,3.381780042,56,1
+Denmark,I,0,1,1048.821388,56,1
+Denmark,I,0,3,27.85578999,56,1
+Denmark,I,0,4,260.3993909,56,1
+Denmark,I,0,5,7414.954524,56,1
+Denmark,I,0,6,7.590039711,56,1
+Denmark,I,0,7,15.70627186,56,1
+Denmark,I,1,0,507.8731313,56,1
+Denmark,I,1,1,0.236142386,56,1
+Denmark,I,1,3,1569.827663,56,1
+Denmark,I,1,4,2864.718965,56,1
+Denmark,I,1,5,3396.439251,56,1
+Denmark,I,1,6,746.8072742,56,1
+Denmark,I,1,7,1195.479496,56,1
+Denmark,I,3,0,105.2020078,56,1
+Denmark,I,3,1,109.7346959,56,1
+Denmark,I,3,3,4.136518844,56,1
+Denmark,I,3,4,25.55243149,56,1
+Denmark,I,3,5,5091.217836,56,1
+Denmark,I,3,6,2.684877491,56,1
+Denmark,I,3,7,18.41737049,56,1
+Dominican Republic,D,0,0,18.02140224,59,0
+Dominican Republic,D,0,1,1893.80642,59,0
+Dominican Republic,D,0,3,0.143984545,59,0
+Dominican Republic,D,0,4,81.90121611,59,0
+Dominican Republic,D,0,5,5806.159557,59,0
+Dominican Republic,D,0,6,0.142122392,59,0
+Dominican Republic,D,0,7,3.215383914,59,0
+Dominican Republic,D,1,0,351.1346282,59,0
+Dominican Republic,D,1,1,0.052021351,59,0
+Dominican Republic,D,1,3,59.33907738,59,0
+Dominican Republic,D,1,4,59.61753967,59,0
+Dominican Republic,D,1,5,511.8619772,59,0
+Dominican Republic,D,1,6,62.8277305,59,0
+Dominican Republic,D,1,7,436.9954584,59,0
+Dominican Republic,D,3,0,70.5053961,59,0
+Dominican Republic,D,3,1,50.70137669,59,0
+Dominican Republic,D,3,3,0.107056945,59,0
+Dominican Republic,D,3,4,29.61553858,59,0
+Dominican Republic,D,3,5,1667.265794,59,0
+Dominican Republic,D,3,6,0.120955908,59,0
+Dominican Republic,D,3,7,3.02134402,59,0
+Algeria,D,0,0,1920.711443,2,0
+Algeria,D,0,1,7725.290762,2,0
+Algeria,D,0,3,35.96867477,2,0
+Algeria,D,0,4,948.2407588,2,0
+Algeria,D,0,5,5050.006294,2,0
+Algeria,D,0,6,402.0309087,2,0
+Algeria,D,0,7,3852.726684,2,0
+Algeria,D,1,0,2348.548902,2,0
+Algeria,D,1,1,0.684320673,2,0
+Algeria,D,1,3,310.9928669,2,0
+Algeria,D,1,4,617.6302103,2,0
+Algeria,D,1,5,539.416028,2,0
+Algeria,D,1,6,283.8082655,2,0
+Algeria,D,1,7,3536.020076,2,0
+Algeria,D,3,0,82.12964041,2,0
+Algeria,D,3,1,290.4533067,2,0
+Algeria,D,3,3,0.269801753,2,0
+Algeria,D,3,4,74.29562221,2,0
+Algeria,D,3,5,2068.027108,2,0
+Algeria,D,3,6,0.729300456,2,0
+Algeria,D,3,7,17.68034056,2,0
+Ecuador,D,0,0,115.651679,60,0
+Ecuador,D,0,1,3091.680918,60,0
+Ecuador,D,0,3,70.49221435,60,0
+Ecuador,D,0,4,151.7763936,60,0
+Ecuador,D,0,5,12936.88779,60,0
+Ecuador,D,0,6,0.62846887,60,0
+Ecuador,D,0,7,401.459468,60,0
+Ecuador,D,1,0,340.5539967,60,0
+Ecuador,D,1,1,1.2377322,60,0
+Ecuador,D,1,3,83.2583905,60,0
+Ecuador,D,1,4,85.6970704,60,0
+Ecuador,D,1,5,270.4198509,60,0
+Ecuador,D,1,6,26.36186486,60,0
+Ecuador,D,1,7,1303.289825,60,0
+Ecuador,D,3,0,75.64487856,60,0
+Ecuador,D,3,1,85.93717778,60,0
+Ecuador,D,3,3,0.220753552,60,0
+Ecuador,D,3,4,27.48374172,60,0
+Ecuador,D,3,5,3165.08372,60,0
+Ecuador,D,3,6,0.049682669,60,0
+Ecuador,D,3,7,7.286731163,60,0
+Egypt,D,0,0,454.3448918,61,0
+Egypt,D,0,1,10543.4839,61,0
+Egypt,D,0,3,231.9212657,61,0
+Egypt,D,0,4,455.2886166,61,0
+Egypt,D,0,5,16029.19094,61,0
+Egypt,D,0,6,22.04485554,61,0
+Egypt,D,0,7,719.921896,61,0
+Egypt,D,1,0,1919.544602,61,0
+Egypt,D,1,1,0.064349444,61,0
+Egypt,D,1,3,349.0380073,61,0
+Egypt,D,1,4,152.9195986,61,0
+Egypt,D,1,5,4310.57368,61,0
+Egypt,D,1,6,272.868937,61,0
+Egypt,D,1,7,2370.409658,61,0
+Egypt,D,3,0,140.3713074,61,0
+Egypt,D,3,1,760.2577872,61,0
+Egypt,D,3,3,0.380374732,61,0
+Egypt,D,3,4,206.0823552,61,0
+Egypt,D,3,5,10685.11707,61,0
+Egypt,D,3,6,0.180241722,61,0
+Egypt,D,3,7,11.72243575,61,0
+Eritrea,D,0,0,28.50989144,64,0
+Eritrea,D,0,1,487.8134884,64,0
+Eritrea,D,0,3,0.05557593,64,0
+Eritrea,D,0,4,2.180149157,64,0
+Eritrea,D,0,5,2039.757225,64,0
+Eritrea,D,0,6,0.978283269,64,0
+Eritrea,D,0,7,0.073514777,64,0
+Eritrea,D,1,0,11.57762763,64,0
+Eritrea,D,1,3,1.59241472,64,0
+Eritrea,D,1,4,0.95278825,64,0
+Eritrea,D,1,5,4.690727012,64,0
+Eritrea,D,1,6,6.118126734,64,0
+Eritrea,D,1,7,9.655535738,64,0
+Eritrea,D,3,0,10.62510262,64,0
+Eritrea,D,3,1,14.4022995,64,0
+Eritrea,D,3,3,0.001954129,64,0
+Eritrea,D,3,4,5.399104349,64,0
+Eritrea,D,3,5,700.5710961,64,0
+Eritrea,D,3,6,0.126144434,64,0
+Eritrea,D,3,7,0.022556899,64,0
+Western Sahara,D,0,0,0.006818077,230,0
+Western Sahara,D,0,1,78.4515647,230,0
+Western Sahara,D,0,3,9.97674e-05,230,0
+Western Sahara,D,0,4,0.163294666,230,0
+Western Sahara,D,0,5,161.4051446,230,0
+Western Sahara,D,0,6,0.000107101,230,0
+Western Sahara,D,0,7,0.029544212,230,0
+Western Sahara,D,1,0,2.273050759,230,0
+Western Sahara,D,1,3,0.129202865,230,0
+Western Sahara,D,1,4,0.065435465,230,0
+Western Sahara,D,1,5,4.762205941,230,0
+Western Sahara,D,1,6,0.132581662,230,0
+Western Sahara,D,1,7,5.094109659,230,0
+Western Sahara,D,3,0,0.264733708,230,0
+Western Sahara,D,3,1,2.40952045,230,0
+Western Sahara,D,3,3,0.000221591,230,0
+Western Sahara,D,3,4,0.000117405,230,0
+Western Sahara,D,3,5,29.65778871,230,0
+Western Sahara,D,3,6,0.000237879,230,0
+Western Sahara,D,3,7,0.04082437,230,0
+Spain,I,0,0,4.368224496,191,1
+Spain,I,0,1,7078.866764,191,1
+Spain,I,0,3,98.3249854,191,1
+Spain,I,0,4,625.3340826,191,1
+Spain,I,0,5,23925.51741,191,1
+Spain,I,0,6,2.832879513,191,1
+Spain,I,0,7,53.72121363,191,1
+Spain,I,1,0,2244.082206,191,1
+Spain,I,1,1,610.6846707,191,1
+Spain,I,1,3,10960.93958,191,1
+Spain,I,1,4,6009.451806,191,1
+Spain,I,1,5,8017.086509,191,1
+Spain,I,1,6,1329.346034,191,1
+Spain,I,1,7,7423.805759,191,1
+Spain,I,3,0,470.2027312,191,1
+Spain,I,3,1,747.2982015,191,1
+Spain,I,3,3,24.88071331,191,1
+Spain,I,3,4,162.439632,191,1
+Spain,I,3,5,15182.80292,191,1
+Spain,I,3,6,5.705656822,191,1
+Spain,I,3,7,79.40051437,191,1
+Estonia,I,0,0,0.434769184,65,1
+Estonia,I,0,1,206.1782564,65,1
+Estonia,I,0,3,3.037498728,65,1
+Estonia,I,0,4,91.16666076,65,1
+Estonia,I,0,5,1146.846597,65,1
+Estonia,I,0,6,0.201718918,65,1
+Estonia,I,0,7,1.165788786,65,1
+Estonia,I,1,0,72.36962454,65,1
+Estonia,I,1,1,0.430988883,65,1
+Estonia,I,1,3,539.4585306,65,1
+Estonia,I,1,4,483.5114161,65,1
+Estonia,I,1,5,777.1796778,65,1
+Estonia,I,1,6,145.7389198,65,1
+Estonia,I,1,7,181.8346769,65,1
+Estonia,I,3,0,15.76877064,65,1
+Estonia,I,3,1,19.2791496,65,1
+Estonia,I,3,3,0.843785917,65,1
+Estonia,I,3,4,6.062987415,65,1
+Estonia,I,3,5,543.601671,65,1
+Estonia,I,3,6,0.214409469,65,1
+Estonia,I,3,7,2.844177575,65,1
+Ethiopia,D,0,0,1000.827082,67,0
+Ethiopia,D,0,1,7967.974131,67,0
+Ethiopia,D,0,3,0.020592952,67,0
+Ethiopia,D,0,4,38.86996265,67,0
+Ethiopia,D,0,5,31485.50057,67,0
+Ethiopia,D,0,6,7.303731412,67,0
+Ethiopia,D,0,7,0.529327766,67,0
+Ethiopia,D,1,0,59.69247225,67,0
+Ethiopia,D,1,1,0.425713025,67,0
+Ethiopia,D,1,3,2.886866945,67,0
+Ethiopia,D,1,4,0.349179427,67,0
+Ethiopia,D,1,5,127.5623006,67,0
+Ethiopia,D,1,6,4.504368319,67,0
+Ethiopia,D,1,7,53.32757563,67,0
+Ethiopia,D,3,0,286.1904446,67,0
+Ethiopia,D,3,1,360.0701742,67,0
+Ethiopia,D,3,3,0.000654557,67,0
+Ethiopia,D,3,4,91.82810755,67,0
+Ethiopia,D,3,5,12762.5311,67,0
+Ethiopia,D,3,6,0.840078335,67,0
+Ethiopia,D,3,7,0.541345563,67,0
+Finland,I,0,0,1.627748739,71,1
+Finland,I,0,1,6480.107759,71,1
+Finland,I,0,3,55.38968034,71,1
+Finland,I,0,4,1095.358817,71,1
+Finland,I,0,5,3042.556456,71,1
+Finland,I,0,6,1.451779319,71,1
+Finland,I,0,7,9.175957505,71,1
+Finland,I,1,0,272.7317704,71,1
+Finland,I,1,3,2930.624311,71,1
+Finland,I,1,4,961.3509192,71,1
+Finland,I,1,5,2248.264048,71,1
+Finland,I,1,6,326.933669,71,1
+Finland,I,1,7,1111.425113,71,1
+Finland,I,3,0,119.3597951,71,1
+Finland,I,3,1,77.4451635,71,1
+Finland,I,3,3,44.31463782,71,1
+Finland,I,3,4,30.16848948,71,1
+Finland,I,3,5,3016.413782,71,1
+Finland,I,3,6,9.280520312,71,1
+Finland,I,3,7,16.6572916,71,1
+Fiji,D,0,0,0.341917529,70,0
+Fiji,D,0,1,190.6426368,70,0
+Fiji,D,0,3,0.002583338,70,0
+Fiji,D,0,4,23.95826879,70,0
+Fiji,D,0,5,818.5285769,70,0
+Fiji,D,0,6,0.002496207,70,0
+Fiji,D,0,7,0.317894668,70,0
+Fiji,D,1,0,8.811305748,70,0
+Fiji,D,1,3,3.022045929,70,0
+Fiji,D,1,4,3.86057772,70,0
+Fiji,D,1,5,30.84303903,70,0
+Fiji,D,1,6,2.90325827,70,0
+Fiji,D,1,7,37.01465399,70,0
+Fiji,D,3,0,27.7693843,70,0
+Fiji,D,3,1,7.2636235,70,0
+Fiji,D,3,3,0.0054742,70,0
+Fiji,D,3,4,8.270706296,70,0
+Fiji,D,3,5,274.8498744,70,0
+Fiji,D,3,6,0.005289566,70,0
+Fiji,D,3,7,0.322696152,70,0
+Falkland Islands (Malvinas),D,0,0,0.00185402,68,0
+Falkland Islands (Malvinas),D,0,1,0.634660779,68,0
+Falkland Islands (Malvinas),D,0,3,0.000164747,68,0
+Falkland Islands (Malvinas),D,0,4,0.138077993,68,0
+Falkland Islands (Malvinas),D,0,5,112.0057498,68,0
+Falkland Islands (Malvinas),D,0,6,0.00015919,68,0
+Falkland Islands (Malvinas),D,0,7,0.00258413,68,0
+Falkland Islands (Malvinas),D,1,0,0.36219544,68,0
+Falkland Islands (Malvinas),D,1,1,0.000723821,68,0
+Falkland Islands (Malvinas),D,1,3,0.146787558,68,0
+Falkland Islands (Malvinas),D,1,4,0.149053687,68,0
+Falkland Islands (Malvinas),D,1,5,0.460005326,68,0
+Falkland Islands (Malvinas),D,1,6,0.141783685,68,0
+Falkland Islands (Malvinas),D,1,7,0.431287145,68,0
+Falkland Islands (Malvinas),D,3,0,0.084012185,68,0
+Falkland Islands (Malvinas),D,3,1,0.000123858,68,0
+Falkland Islands (Malvinas),D,3,3,0.000309887,68,0
+Falkland Islands (Malvinas),D,3,4,0.000314789,68,0
+Falkland Islands (Malvinas),D,3,5,45.5513287,68,0
+Falkland Islands (Malvinas),D,3,6,0.000299435,68,0
+Falkland Islands (Malvinas),D,3,7,0.003729411,68,0
+France,I,0,0,31.66318813,72,1
+France,I,0,1,12666.71763,72,1
+France,I,0,3,294.968466,72,1
+France,I,0,4,1245.457777,72,1
+France,I,0,5,51842.5041,72,1
+France,I,0,6,205.0401079,72,1
+France,I,0,7,104.2089554,72,1
+France,I,1,0,1343.364609,72,1
+France,I,1,1,453.2318148,72,1
+France,I,1,3,9111.455593,72,1
+France,I,1,4,9020.434783,72,1
+France,I,1,5,15581.98999,72,1
+France,I,1,6,4447.900904,72,1
+France,I,1,7,13207.81016,72,1
+France,I,3,0,613.0736237,72,1
+France,I,3,1,1093.809996,72,1
+France,I,3,3,40.55172479,72,1
+France,I,3,4,248.4264069,72,1
+France,I,3,5,34362.51079,72,1
+France,I,3,6,6.198172175,72,1
+France,I,3,7,125.2340236,72,1
+Faroe Islands,I,0,1,11.48181419,69,1
+Faroe Islands,I,0,4,0.031235932,69,1
+Faroe Islands,I,0,5,18.23710676,69,1
+Faroe Islands,I,1,1,0.16068691,69,1
+Faroe Islands,I,1,3,0.002519516,69,1
+Faroe Islands,I,3,1,0.016768465,69,1
+Faroe Islands,I,3,5,5.928817677,69,1
+"Micronesia, Federated States of",D,0,1,4.09028145,135,0
+"Micronesia, Federated States of",D,0,4,0.103916008,135,0
+"Micronesia, Federated States of",D,0,5,24.99907358,135,0
+"Micronesia, Federated States of",D,3,5,9.981629124,135,0
+Gabon,D,0,0,249.6829844,76,0
+Gabon,D,0,1,209.4433309,76,0
+Gabon,D,0,3,187.9629638,76,0
+Gabon,D,0,4,201.5539357,76,0
+Gabon,D,0,5,381.2165071,76,0
+Gabon,D,0,6,150.7336322,76,0
+Gabon,D,0,7,416.3837421,76,0
+Gabon,D,1,0,78.68235944,76,0
+Gabon,D,1,1,0.046485429,76,0
+Gabon,D,1,3,52.09838783,76,0
+Gabon,D,1,4,64.57141712,76,0
+Gabon,D,1,5,101.9766517,76,0
+Gabon,D,1,6,52.24880032,76,0
+Gabon,D,1,7,140.0466981,76,0
+Gabon,D,3,0,9.983786186,76,0
+Gabon,D,3,1,11.21210835,76,0
+Gabon,D,3,3,0.187393371,76,0
+Gabon,D,3,4,3.240793328,76,0
+Gabon,D,3,5,66.55983308,76,0
+Gabon,D,3,6,0.17342217,76,0
+Gabon,D,3,7,0.56691023,76,0
+United Kingdom,I,0,0,82.55712751,216,1
+United Kingdom,I,0,1,36010.62656,216,1
+United Kingdom,I,0,3,376.9191811,216,1
+United Kingdom,I,0,4,817.5716243,216,1
+United Kingdom,I,0,5,37388.32253,216,1
+United Kingdom,I,0,6,193.9484653,216,1
+United Kingdom,I,0,7,398.671565,216,1
+United Kingdom,I,1,0,5053.888799,216,1
+United Kingdom,I,1,1,20.86878125,216,1
+United Kingdom,I,1,3,8762.155179,216,1
+United Kingdom,I,1,4,11190.662,216,1
+United Kingdom,I,1,5,6721.689311,216,1
+United Kingdom,I,1,6,6786.084518,216,1
+United Kingdom,I,1,7,13557.8898,216,1
+United Kingdom,I,3,0,715.7030222,216,1
+United Kingdom,I,3,1,781.9308803,216,1
+United Kingdom,I,3,3,29.97289983,216,1
+United Kingdom,I,3,4,214.3019176,216,1
+United Kingdom,I,3,5,21594.26876,216,1
+United Kingdom,I,3,6,14.30100181,216,1
+United Kingdom,I,3,7,173.2253468,216,1
+Georgia,I,0,0,1.327917013,78,1
+Georgia,I,0,1,1116.13551,78,1
+Georgia,I,0,3,13.11945463,78,1
+Georgia,I,0,4,12.32725767,78,1
+Georgia,I,0,5,2463.689118,78,1
+Georgia,I,0,6,0.503632865,78,1
+Georgia,I,0,7,1.070591861,78,1
+Georgia,I,1,0,290.4805089,78,1
+Georgia,I,1,3,13.91604353,78,1
+Georgia,I,1,4,47.06530133,78,1
+Georgia,I,1,5,523.2521877,78,1
+Georgia,I,1,6,27.10924497,78,1
+Georgia,I,1,7,154.7396245,78,1
+Georgia,I,3,0,10.54243186,78,1
+Georgia,I,3,1,50.17298,78,1
+Georgia,I,3,3,0.014400883,78,1
+Georgia,I,3,4,12.8170862,78,1
+Georgia,I,3,5,840.2737907,78,1
+Georgia,I,3,6,0.033788639,78,1
+Georgia,I,3,7,3.589452984,78,1
+Ghana,D,0,0,141.77893,80,0
+Ghana,D,0,1,2378.178236,80,0
+Ghana,D,0,3,0.080040809,80,0
+Ghana,D,0,4,13.09959177,80,0
+Ghana,D,0,5,2215.030435,80,0
+Ghana,D,0,6,0.045761946,80,0
+Ghana,D,0,7,1.141582985,80,0
+Ghana,D,1,0,52.85856228,80,0
+Ghana,D,1,3,24.29566118,80,0
+Ghana,D,1,4,0.989239265,80,0
+Ghana,D,1,5,197.0628137,80,0
+Ghana,D,1,6,8.186169891,80,0
+Ghana,D,1,7,158.4940449,80,0
+Ghana,D,3,0,35.32396406,80,0
+Ghana,D,3,1,109.89285,80,0
+Ghana,D,3,3,0.001148126,80,0
+Ghana,D,3,4,27.52168473,80,0
+Ghana,D,3,5,910.5109089,80,0
+Ghana,D,3,6,0.016758276,80,0
+Ghana,D,3,7,1.927647153,80,0
+Gibraltar,I,0,0,0.001523122,81,1
+Gibraltar,I,0,1,6.574109661,81,1
+Gibraltar,I,0,3,0.00103148,81,1
+Gibraltar,I,0,4,0.001325426,81,1
+Gibraltar,I,0,5,0.000600294,81,1
+Gibraltar,I,0,6,0.000786327,81,1
+Gibraltar,I,0,7,0.086399295,81,1
+Gibraltar,I,1,0,1.40344776,81,1
+Gibraltar,I,1,1,0.045655703,81,1
+Gibraltar,I,1,3,0.951280942,81,1
+Gibraltar,I,1,4,1.221285312,81,1
+Gibraltar,I,1,5,0.553128264,81,1
+Gibraltar,I,1,6,0.724544496,81,1
+Gibraltar,I,1,7,21.18594826,81,1
+Gibraltar,I,3,0,0.812445512,81,1
+Gibraltar,I,3,1,0.004764413,81,1
+Gibraltar,I,3,3,0.001952444,81,1
+Gibraltar,I,3,4,0.002508842,81,1
+Gibraltar,I,3,5,0.001136271,81,1
+Gibraltar,I,3,6,0.001488405,81,1
+Gibraltar,I,3,7,0.154383955,81,1
+Guinea,D,0,0,166.0599174,88,0
+Guinea,D,0,1,1350.741134,88,0
+Guinea,D,0,3,0.000719615,88,0
+Guinea,D,0,4,4.251873031,88,0
+Guinea,D,0,5,3991.464099,88,0
+Guinea,D,0,6,0.009859291,88,0
+Guinea,D,0,7,0.084347344,88,0
+Guinea,D,1,0,11.93664768,88,0
+Guinea,D,1,3,0.821156937,88,0
+Guinea,D,1,4,0.343626109,88,0
+Guinea,D,1,5,25.93850091,88,0
+Guinea,D,1,6,0.696235907,88,0
+Guinea,D,1,7,18.98541246,88,0
+Guinea,D,3,0,35.41825175,88,0
+Guinea,D,3,1,52.605945,88,0
+Guinea,D,3,3,0.001362129,88,0
+Guinea,D,3,4,13.43537854,88,0
+Guinea,D,3,5,937.6147023,88,0
+Guinea,D,3,6,0.001901822,88,0
+Guinea,D,3,7,0.122313843,88,0
+Guadeloupe,D,0,0,0.053882843,85,0
+Guadeloupe,D,0,1,98.11370479,85,0
+Guadeloupe,D,0,3,0.008745092,85,0
+Guadeloupe,D,0,4,3.164919381,85,0
+Guadeloupe,D,0,5,119.2880708,85,0
+Guadeloupe,D,0,6,0.008450138,85,0
+Guadeloupe,D,0,7,0.147376284,85,0
+Guadeloupe,D,1,0,20.66293513,85,0
+Guadeloupe,D,1,3,8.38108838,85,0
+Guadeloupe,D,1,4,8.503382651,85,0
+Guadeloupe,D,1,5,26.5531036,85,0
+Guadeloupe,D,1,6,8.088635373,85,0
+Guadeloupe,D,1,7,24.60464036,85,0
+Guadeloupe,D,3,0,8.87778541,85,0
+Guadeloupe,D,3,3,0.016983933,85,0
+Guadeloupe,D,3,4,1.149968584,85,0
+Guadeloupe,D,3,5,37.17425578,85,0
+Guadeloupe,D,3,6,0.016411099,85,0
+Guadeloupe,D,3,7,0.212710712,85,0
+Gambia,D,0,0,6.893334533,77,0
+Gambia,D,0,1,168.4243817,77,0
+Gambia,D,0,3,9.59586e-05,77,0
+Gambia,D,0,4,0.568633463,77,0
+Gambia,D,0,5,455.5084173,77,0
+Gambia,D,0,6,0.016849303,77,0
+Gambia,D,0,7,0.030723464,77,0
+Gambia,D,1,0,2.200952556,77,0
+Gambia,D,1,3,0.142767986,77,0
+Gambia,D,1,4,0.063359867,77,0
+Gambia,D,1,5,4.611149251,77,0
+Gambia,D,1,6,0.128376202,77,0
+Gambia,D,1,7,4.07035454,77,0
+Gambia,D,3,0,1.620755285,77,0
+Gambia,D,3,1,7.557959,77,0
+Gambia,D,3,3,0.000213132,77,0
+Gambia,D,3,4,1.889600781,77,0
+Gambia,D,3,5,153.6835104,77,0
+Gambia,D,3,6,0.00102276,77,0
+Gambia,D,3,7,0.042484191,77,0
+Guinea-Bissau,D,0,0,27.1838571,89,0
+Guinea-Bissau,D,0,1,207.7486001,89,0
+Guinea-Bissau,D,0,3,0.000140014,89,0
+Guinea-Bissau,D,0,4,1.322497321,89,0
+Guinea-Bissau,D,0,5,791.5538626,89,0
+Guinea-Bissau,D,0,6,0.017883509,89,0
+Guinea-Bissau,D,0,7,0.037078336,89,0
+Guinea-Bissau,D,1,0,3.2114296,89,0
+Guinea-Bissau,D,1,3,0.199957352,89,0
+Guinea-Bissau,D,1,4,0.092449063,89,0
+Guinea-Bissau,D,1,5,6.728180027,89,0
+Guinea-Bissau,D,1,6,0.187315094,89,0
+Guinea-Bissau,D,1,7,5.12936461,89,0
+Guinea-Bissau,D,3,0,5.744345306,89,0
+Guinea-Bissau,D,3,1,7.1103475,89,0
+Guinea-Bissau,D,3,3,0.000310983,89,0
+Guinea-Bissau,D,3,4,1.777754073,89,0
+Guinea-Bissau,D,3,5,272.1367449,89,0
+Guinea-Bissau,D,3,6,0.001175195,89,0
+Guinea-Bissau,D,3,7,0.051883684,89,0
+Equatorial Guinea,D,0,0,56.00041917,63,0
+Equatorial Guinea,D,0,1,73.01412888,63,0
+Equatorial Guinea,D,0,3,50.79437928,63,0
+Equatorial Guinea,D,0,4,54.0328331,63,0
+Equatorial Guinea,D,0,5,111.7550424,63,0
+Equatorial Guinea,D,0,6,1.757767119,63,0
+Equatorial Guinea,D,0,7,44.5841661,63,0
+Equatorial Guinea,D,1,0,14.97779835,63,0
+Equatorial Guinea,D,1,3,14.10914317,63,0
+Equatorial Guinea,D,1,4,14.95187586,63,0
+Equatorial Guinea,D,1,5,30.030739,63,0
+Equatorial Guinea,D,1,6,0.556307104,63,0
+Equatorial Guinea,D,1,7,13.44990371,63,0
+Equatorial Guinea,D,3,0,1.520577295,63,0
+Equatorial Guinea,D,3,1,1.80758885,63,0
+Equatorial Guinea,D,3,3,0.051173447,63,0
+Equatorial Guinea,D,3,4,0.05435071,63,0
+Equatorial Guinea,D,3,5,8.2397285,63,0
+Equatorial Guinea,D,3,6,0.001993741,63,0
+Equatorial Guinea,D,3,7,0.057486425,63,0
+Greece,I,0,0,1.518472067,82,1
+Greece,I,0,1,2641.110406,82,1
+Greece,I,0,3,107.7139938,82,1
+Greece,I,0,4,130.9527846,82,1
+Greece,I,0,5,4958.425591,82,1
+Greece,I,0,6,0.663327305,82,1
+Greece,I,0,7,19.87361805,82,1
+Greece,I,1,0,1037.724987,82,1
+Greece,I,1,1,0.012972121,82,1
+Greece,I,1,3,3940.210538,82,1
+Greece,I,1,4,1434.510895,82,1
+Greece,I,1,5,4080.023531,82,1
+Greece,I,1,6,720.433656,82,1
+Greece,I,1,7,1600.906222,82,1
+Greece,I,3,0,158.0107168,82,1
+Greece,I,3,1,161.0709245,82,1
+Greece,I,3,3,13.23203903,82,1
+Greece,I,3,4,45.00787222,82,1
+Greece,I,3,5,4201.462622,82,1
+Greece,I,3,6,2.418494509,82,1
+Greece,I,3,7,20.13562837,82,1
+Grenada,D,0,0,0.009282463,84,0
+Grenada,D,0,1,27.82377909,84,0
+Grenada,D,0,3,0.000830578,84,0
+Grenada,D,0,4,0.106777392,84,0
+Grenada,D,0,5,10.11533493,84,0
+Grenada,D,0,6,0.000802564,84,0
+Grenada,D,0,7,0.019860529,84,0
+Grenada,D,1,0,1.891252088,84,0
+Grenada,D,1,3,0.768449031,84,0
+Grenada,D,1,4,0.778304585,84,0
+Grenada,D,1,5,2.401985194,84,0
+Grenada,D,1,6,0.740343256,84,0
+Grenada,D,1,7,2.627172878,84,0
+Grenada,D,3,0,0.49052971,84,0
+Grenada,D,3,1,1.05973765,84,0
+Grenada,D,3,3,0.001590997,84,0
+Grenada,D,3,4,0.276378605,84,0
+Grenada,D,3,5,4.726135494,84,0
+Grenada,D,3,6,0.001537336,84,0
+Grenada,D,3,7,0.016690549,84,0
+Greenland,I,0,1,36.92092768,83,1
+Greenland,I,0,4,0.037944284,83,1
+Greenland,I,0,5,5.011909,83,1
+Greenland,I,1,1,0.072942149,83,1
+Greenland,I,1,3,0.002019542,83,1
+Greenland,I,3,1,1.076136913,83,1
+Greenland,I,3,5,1.502458734,83,1
+Guatemala,D,0,0,128.8775416,87,0
+Guatemala,D,0,1,3049.674914,87,0
+Guatemala,D,0,3,1.073036689,87,0
+Guatemala,D,0,4,117.2543777,87,0
+Guatemala,D,0,5,4135.41559,87,0
+Guatemala,D,0,6,3.368093795,87,0
+Guatemala,D,0,7,7.186886855,87,0
+Guatemala,D,1,0,74.42543498,87,0
+Guatemala,D,1,3,15.3775627,87,0
+Guatemala,D,1,4,13.66029742,87,0
+Guatemala,D,1,5,383.781914,87,0
+Guatemala,D,1,6,49.38103132,87,0
+Guatemala,D,1,7,357.1556045,87,0
+Guatemala,D,3,0,119.228642,87,0
+Guatemala,D,3,1,80.380595,87,0
+Guatemala,D,3,3,0.137366295,87,0
+Guatemala,D,3,4,39.57795649,87,0
+Guatemala,D,3,5,1941.219434,87,0
+Guatemala,D,3,6,0.578491939,87,0
+Guatemala,D,3,7,2.484280179,87,0
+French Guiana,D,0,0,0.059882379,73,0
+French Guiana,D,0,1,33.00172864,73,0
+French Guiana,D,0,3,0.005060391,73,0
+French Guiana,D,0,4,0.227416756,73,0
+French Guiana,D,0,5,44.59557495,73,0
+French Guiana,D,0,6,0.004889714,73,0
+French Guiana,D,0,7,0.08203704,73,0
+French Guiana,D,1,0,11.50011268,73,0
+French Guiana,D,1,1,0.028228995,73,0
+French Guiana,D,1,3,4.662825531,73,0
+French Guiana,D,1,4,4.732622049,73,0
+French Guiana,D,1,5,14.91582814,73,0
+French Guiana,D,1,6,4.501791309,73,0
+French Guiana,D,1,7,13.69386195,73,0
+French Guiana,D,3,0,1.97234755,73,0
+French Guiana,D,3,1,1.898234278,73,0
+French Guiana,D,3,3,0.009686879,73,0
+French Guiana,D,3,4,0.027266505,73,0
+French Guiana,D,3,5,8.633494536,73,0
+French Guiana,D,3,6,0.00936016,73,0
+French Guiana,D,3,7,0.118402111,73,0
+Guam,D,0,1,41.8205718,86,0
+Guam,D,0,5,1.869591888,86,0
+Guam,D,3,5,1.274717945,86,0
+Guyana,D,0,0,0.612562489,90,0
+Guyana,D,0,1,321.6415696,90,0
+Guyana,D,0,3,0.005898998,90,0
+Guyana,D,0,4,19.64815443,90,0
+Guyana,D,0,5,1446.740571,90,0
+Guyana,D,0,6,0.005700037,90,0
+Guyana,D,0,7,0.079459095,90,0
+Guyana,D,1,0,11.12814681,90,0
+Guyana,D,1,1,0.036429856,90,0
+Guyana,D,1,3,4.524420875,90,0
+Guyana,D,1,4,4.579331113,90,0
+Guyana,D,1,5,17.85534669,90,0
+Guyana,D,1,6,4.355977044,90,0
+Guyana,D,1,7,13.25154461,90,0
+Guyana,D,3,0,14.33741414,90,0
+Guyana,D,3,1,7.104444278,90,0
+Guyana,D,3,3,0.01064525,90,0
+Guyana,D,3,4,4.884383586,90,0
+Guyana,D,3,5,1305.659356,90,0
+Guyana,D,3,6,0.010286208,90,0
+Guyana,D,3,7,0.114669076,90,0
+Hong Kong,D,0,0,7.66230304,93,0
+Hong Kong,D,0,1,3275.900346,93,0
+Hong Kong,D,0,3,0.017442609,93,0
+Hong Kong,D,0,4,21.73924502,93,0
+Hong Kong,D,0,5,14.59669712,93,0
+Hong Kong,D,0,6,4.670603681,93,0
+Hong Kong,D,0,7,2.75898126,93,0
+Hong Kong,D,1,0,399.2189402,93,0
+Hong Kong,D,1,1,2.071614604,93,0
+Hong Kong,D,1,3,72.50782124,93,0
+Hong Kong,D,1,4,114.4773006,93,0
+Hong Kong,D,1,5,327.4800753,93,0
+Hong Kong,D,1,6,795.835543,93,0
+Hong Kong,D,1,7,801.0891526,93,0
+Hong Kong,D,3,0,62.54494034,93,0
+Hong Kong,D,3,1,83.36194593,93,0
+Hong Kong,D,3,3,0.272012433,93,0
+Hong Kong,D,3,4,0.440528665,93,0
+Hong Kong,D,3,5,15.54845782,93,0
+Hong Kong,D,3,6,2.590248748,93,0
+Hong Kong,D,3,7,4.525563773,93,0
+Honduras,D,0,0,60.26724476,92,0
+Honduras,D,0,1,1391.418872,92,0
+Honduras,D,0,3,0.011852888,92,0
+Honduras,D,0,4,29.00863526,92,0
+Honduras,D,0,5,3516.484119,92,0
+Honduras,D,0,6,0.118556553,92,0
+Honduras,D,0,7,0.868743599,92,0
+Honduras,D,1,0,38.07044603,92,0
+Honduras,D,1,1,13.31115416,92,0
+Honduras,D,1,3,11.73078246,92,0
+Honduras,D,1,4,10.81974978,92,0
+Honduras,D,1,5,51.19130894,92,0
+Honduras,D,1,6,39.16954574,92,0
+Honduras,D,1,7,118.3525038,92,0
+Honduras,D,3,0,34.02912242,92,0
+Honduras,D,3,1,46.98399344,92,0
+Honduras,D,3,3,0.022428178,92,0
+Honduras,D,3,4,14.11158322,92,0
+Honduras,D,3,5,1426.53765,92,0
+Honduras,D,3,6,0.084327046,92,0
+Honduras,D,3,7,0.738571061,92,0
+Croatia,I,0,0,6.318469925,48,1
+Croatia,I,0,1,373.1635972,48,1
+Croatia,I,0,3,104.865548,48,1
+Croatia,I,0,4,159.8198332,48,1
+Croatia,I,0,5,1643.35481,48,1
+Croatia,I,0,6,18.05657904,48,1
+Croatia,I,0,7,7.114793866,48,1
+Croatia,I,1,0,112.7518043,48,1
+Croatia,I,1,3,711.193601,48,1
+Croatia,I,1,4,715.0240417,48,1
+Croatia,I,1,5,1292.988361,48,1
+Croatia,I,1,6,118.6225906,48,1
+Croatia,I,1,7,394.8923358,48,1
+Croatia,I,3,0,30.35791323,48,1
+Croatia,I,3,1,40.74925568,48,1
+Croatia,I,3,3,1.007504537,48,1
+Croatia,I,3,4,12.27935718,48,1
+Croatia,I,3,5,1733.262632,48,1
+Croatia,I,3,6,0.099745398,48,1
+Croatia,I,3,7,4.294614099,48,1
+Haiti,D,0,0,38.46305073,91,0
+Haiti,D,0,1,1234.121053,91,0
+Haiti,D,0,3,0.002189911,91,0
+Haiti,D,0,4,7.944999951,91,0
+Haiti,D,0,5,2509.50602,91,0
+Haiti,D,0,6,1.550645441,91,0
+Haiti,D,0,7,0.245463604,91,0
+Haiti,D,1,0,15.57577999,91,0
+Haiti,D,1,3,2.110999775,91,0
+Haiti,D,1,4,1.962374322,91,0
+Haiti,D,1,5,3.135531905,91,0
+Haiti,D,1,6,0.169830294,91,0
+Haiti,D,1,7,31.34399799,91,0
+Haiti,D,3,0,16.02715217,91,0
+Haiti,D,3,1,44.754525,91,0
+Haiti,D,3,3,0.004145189,91,0
+Haiti,D,3,4,12.75674216,91,0
+Haiti,D,3,5,758.1438362,91,0
+Haiti,D,3,6,0.07373406,91,0
+Haiti,D,3,7,0.202619783,91,0
+Hungary,I,0,0,10.20184418,94,1
+Hungary,I,0,1,2910.61342,94,1
+Hungary,I,0,3,56.8531132,94,1
+Hungary,I,0,4,176.3336217,94,1
+Hungary,I,0,5,4099.852767,94,1
+Hungary,I,0,6,37.49786946,94,1
+Hungary,I,0,7,24.10315653,94,1
+Hungary,I,1,0,437.6219795,94,1
+Hungary,I,1,1,16.78563691,94,1
+Hungary,I,1,3,1277.980695,94,1
+Hungary,I,1,4,1553.582355,94,1
+Hungary,I,1,5,2565.312013,94,1
+Hungary,I,1,6,863.8879113,94,1
+Hungary,I,1,7,845.5612686,94,1
+Hungary,I,3,0,68.76898078,94,1
+Hungary,I,3,1,113.1847049,94,1
+Hungary,I,3,3,1.951184748,94,1
+Hungary,I,3,4,32.82031279,94,1
+Hungary,I,3,5,3888.242958,94,1
+Hungary,I,3,6,1.207368765,94,1
+Hungary,I,3,7,11.68499078,94,1
+Indonesia,D,0,0,2767.350977,97,0
+Indonesia,D,0,1,29870.48504,97,0
+Indonesia,D,0,3,782.2146141,97,0
+Indonesia,D,0,4,2928.7566,97,0
+Indonesia,D,0,5,109202.2053,97,0
+Indonesia,D,0,6,144.6033906,97,0
+Indonesia,D,0,7,1300.988396,97,0
+Indonesia,D,1,0,4106.397437,97,0
+Indonesia,D,1,1,43.27817369,97,0
+Indonesia,D,1,3,2967.385598,97,0
+Indonesia,D,1,4,3457.781278,97,0
+Indonesia,D,1,5,14991.27632,97,0
+Indonesia,D,1,6,674.6576191,97,0
+Indonesia,D,1,7,4565.026185,97,0
+Indonesia,D,3,0,755.6304184,97,0
+Indonesia,D,3,1,1470.666785,97,0
+Indonesia,D,3,3,5.380607746,97,0
+Indonesia,D,3,4,410.6892812,97,0
+Indonesia,D,3,5,49560.74133,97,0
+Indonesia,D,3,6,2.767196922,97,0
+Indonesia,D,3,7,22.71612023,97,0
+India,D,0,0,5816.541137,96,0
+India,D,0,1,112336.4001,96,0
+India,D,0,3,1074.849809,96,0
+India,D,0,4,2287.571168,96,0
+India,D,0,5,498811.1316,96,0
+India,D,0,6,403.5825606,96,0
+India,D,0,7,372.5179717,96,0
+India,D,1,0,8651.463629,96,0
+India,D,1,3,19399.33836,96,0
+India,D,1,4,2977.344029,96,0
+India,D,1,5,82600.23903,96,0
+India,D,1,6,2617.121195,96,0
+India,D,1,7,8246.197671,96,0
+India,D,3,0,3202.053991,96,0
+India,D,3,1,7199.944,96,0
+India,D,3,3,70.4703325,96,0
+India,D,3,4,2056.603623,96,0
+India,D,3,5,126256.1102,96,0
+India,D,3,6,41.14000509,96,0
+India,D,3,7,110.6369147,96,0
+Ireland,I,0,0,4.866616469,100,1
+Ireland,I,0,1,1079.596218,100,1
+Ireland,I,0,3,30.26109772,100,1
+Ireland,I,0,4,176.704739,100,1
+Ireland,I,0,5,14879.31737,100,1
+Ireland,I,0,6,28.11916645,100,1
+Ireland,I,0,7,5.036949322,100,1
+Ireland,I,1,0,292.3228377,100,1
+Ireland,I,1,1,6.203717966,100,1
+Ireland,I,1,3,752.2809414,100,1
+Ireland,I,1,4,1580.281668,100,1
+Ireland,I,1,5,2273.592573,100,1
+Ireland,I,1,6,322.3335298,100,1
+Ireland,I,1,7,621.6739188,100,1
+Ireland,I,3,0,47.67608701,100,1
+Ireland,I,3,1,55.37924415,100,1
+Ireland,I,3,3,1.625737819,100,1
+Ireland,I,3,4,18.05504207,100,1
+Ireland,I,3,5,7343.040025,100,1
+Ireland,I,3,6,0.71122371,100,1
+Ireland,I,3,7,9.121527428,100,1
+"Iran, Islamic Republic of",D,0,0,3218.141888,98,0
+"Iran, Islamic Republic of",D,0,1,10284.91957,98,0
+"Iran, Islamic Republic of",D,0,3,965.1335153,98,0
+"Iran, Islamic Republic of",D,0,4,1621.267455,98,0
+"Iran, Islamic Republic of",D,0,5,31822.73785,98,0
+"Iran, Islamic Republic of",D,0,6,886.7325234,98,0
+"Iran, Islamic Republic of",D,0,7,3199.014584,98,0
+"Iran, Islamic Republic of",D,1,0,9752.849882,98,0
+"Iran, Islamic Republic of",D,1,3,991.3508057,98,0
+"Iran, Islamic Republic of",D,1,4,946.8741464,98,0
+"Iran, Islamic Republic of",D,1,5,17568.27017,98,0
+"Iran, Islamic Republic of",D,1,6,2740.00539,98,0
+"Iran, Islamic Republic of",D,1,7,7608.257316,98,0
+"Iran, Islamic Republic of",D,3,0,449.3983361,98,0
+"Iran, Islamic Republic of",D,3,1,661.81895,98,0
+"Iran, Islamic Republic of",D,3,3,1.458228377,98,0
+"Iran, Islamic Republic of",D,3,4,172.6524584,98,0
+"Iran, Islamic Republic of",D,3,5,16452.86222,98,0
+"Iran, Islamic Republic of",D,3,6,5.30877207,98,0
+"Iran, Islamic Republic of",D,3,7,43.52642351,98,0
+Iraq,D,0,0,261.2481134,99,0
+Iraq,D,0,1,5046.754664,99,0
+Iraq,D,0,3,296.9195437,99,0
+Iraq,D,0,4,321.647544,99,0
+Iraq,D,0,5,4985.743527,99,0
+Iraq,D,0,6,39.98524506,99,0
+Iraq,D,0,7,739.5016886,99,0
+Iraq,D,1,0,2195.398221,99,0
+Iraq,D,1,3,455.4765408,99,0
+Iraq,D,1,4,654.2043044,99,0
+Iraq,D,1,5,1739.23591,99,0
+Iraq,D,1,6,139.1987114,99,0
+Iraq,D,1,7,3041.855495,99,0
+Iraq,D,3,0,168.5450377,99,0
+Iraq,D,3,1,124.44135,99,0
+Iraq,D,3,3,0.946549863,99,0
+Iraq,D,3,4,2.092357649,99,0
+Iraq,D,3,5,2708.323691,99,0
+Iraq,D,3,6,0.256605688,99,0
+Iraq,D,3,7,18.20264822,99,0
+Iceland,I,0,0,0.000816768,95,1
+Iceland,I,0,1,131.6453519,95,1
+Iceland,I,0,3,0.054639824,95,1
+Iceland,I,0,4,1.577884126,95,1
+Iceland,I,0,5,304.167722,95,1
+Iceland,I,0,6,0.000382808,95,1
+Iceland,I,0,7,0.704368523,95,1
+Iceland,I,1,0,0.38936815,95,1
+Iceland,I,1,1,0.596522058,95,1
+Iceland,I,1,3,41.87121864,95,1
+Iceland,I,1,4,155.1170882,95,1
+Iceland,I,1,5,797.2666359,95,1
+Iceland,I,1,6,0.091433402,95,1
+Iceland,I,1,7,59.42286411,95,1
+Iceland,I,3,0,6.570989354,95,1
+Iceland,I,3,1,4.582347491,95,1
+Iceland,I,3,3,0.078692387,95,1
+Iceland,I,3,4,1.40941142,95,1
+Iceland,I,3,5,283.0354175,95,1
+Iceland,I,3,6,0.000536329,95,1
+Iceland,I,3,7,0.637071645,95,1
+Israel,D,0,0,1.826741389,101,0
+Israel,D,0,1,3395.40068,101,0
+Israel,D,0,3,1.163852973,101,0
+Israel,D,0,4,32.33979041,101,0
+Israel,D,0,5,1308.499025,101,0
+Israel,D,0,6,0.443279587,101,0
+Israel,D,0,7,14.80861825,101,0
+Israel,D,1,0,628.0036909,101,0
+Israel,D,1,3,203.8190903,101,0
+Israel,D,1,4,406.3549087,101,0
+Israel,D,1,5,775.430368,101,0
+Israel,D,1,6,370.7000802,101,0
+Israel,D,1,7,1735.99427,101,0
+Israel,D,3,0,96.99014072,101,0
+Israel,D,3,1,122.330095,101,0
+Israel,D,3,3,0.570987229,101,0
+Israel,D,3,4,32.06959675,101,0
+Israel,D,3,5,905.2647054,101,0
+Israel,D,3,6,1.134952574,101,0
+Israel,D,3,7,11.46457833,101,0
+Italy,I,0,0,30.82735234,102,1
+Italy,I,0,1,13503.86137,102,1
+Italy,I,0,3,341.3956929,102,1
+Italy,I,0,4,621.8946442,102,1
+Italy,I,0,5,24475.06134,102,1
+Italy,I,0,6,108.8008913,102,1
+Italy,I,0,7,121.9772775,102,1
+Italy,I,1,0,2614.439505,102,1
+Italy,I,1,1,132.8645076,102,1
+Italy,I,1,3,15474.31054,102,1
+Italy,I,1,4,7226.2031,102,1
+Italy,I,1,5,11492.53526,102,1
+Italy,I,1,6,4160.968158,102,1
+Italy,I,1,7,11293.46749,102,1
+Italy,I,3,0,605.409667,102,1
+Italy,I,3,1,876.2224674,102,1
+Italy,I,3,3,30.17410025,102,1
+Italy,I,3,4,218.8592161,102,1
+Italy,I,3,5,13209.28605,102,1
+Italy,I,3,6,4.214422883,102,1
+Italy,I,3,7,121.2575141,102,1
+Jamaica,D,0,0,2.680709854,103,0
+Jamaica,D,0,1,405.4132135,103,0
+Jamaica,D,0,3,0.291859157,103,0
+Jamaica,D,0,4,25.36976187,103,0
+Jamaica,D,0,5,937.5468718,103,0
+Jamaica,D,0,6,0.139297224,103,0
+Jamaica,D,0,7,1.41674536,103,0
+Jamaica,D,1,0,77.16932061,103,0
+Jamaica,D,1,3,117.3946594,103,0
+Jamaica,D,1,4,19.92079723,103,0
+Jamaica,D,1,5,36.84644536,103,0
+Jamaica,D,1,6,63.43011974,103,0
+Jamaica,D,1,7,172.5731109,103,0
+Jamaica,D,3,0,26.3273777,103,0
+Jamaica,D,3,1,23.9841695,103,0
+Jamaica,D,3,3,0.429770815,103,0
+Jamaica,D,3,4,8.664084658,103,0
+Jamaica,D,3,5,283.2020828,103,0
+Jamaica,D,3,6,0.187843937,103,0
+Jamaica,D,3,7,1.094172003,103,0
+Jordan,D,0,0,1.923965033,105,0
+Jordan,D,0,1,1489.964255,105,0
+Jordan,D,0,3,2.407754057,105,0
+Jordan,D,0,4,12.27434986,105,0
+Jordan,D,0,5,577.0531153,105,0
+Jordan,D,0,6,1.083825982,105,0
+Jordan,D,0,7,2.182367458,105,0
+Jordan,D,1,0,253.4387473,105,0
+Jordan,D,1,3,110.5941005,105,0
+Jordan,D,1,4,55.37457705,105,0
+Jordan,D,1,5,391.8501152,105,0
+Jordan,D,1,6,48.46485581,105,0
+Jordan,D,1,7,317.6292962,105,0
+Jordan,D,3,0,29.17457332,105,0
+Jordan,D,3,1,41.042405,105,0
+Jordan,D,3,3,0.160057237,105,0
+Jordan,D,3,4,10.34284443,105,0
+Jordan,D,3,5,319.8838911,105,0
+Jordan,D,3,6,0.068033203,105,0
+Jordan,D,3,7,2.091956061,105,0
+Japan,I,0,0,10.55496008,104,1
+Japan,I,0,1,9717.614015,104,1
+Japan,I,0,3,425.1961946,104,1
+Japan,I,0,4,607.2210807,104,1
+Japan,I,0,5,51401.43021,104,1
+Japan,I,0,6,24.88783734,104,1
+Japan,I,0,7,83.79752495,104,1
+Japan,I,1,0,7711.608107,104,1
+Japan,I,1,1,1078.711667,104,1
+Japan,I,1,3,43137.59007,104,1
+Japan,I,1,4,15092.96866,104,1
+Japan,I,1,5,22764.30014,104,1
+Japan,I,1,6,7349.728722,104,1
+Japan,I,1,7,30752.2839,104,1
+Japan,I,3,0,1279.036551,104,1
+Japan,I,3,1,2018.604664,104,1
+Japan,I,3,3,128.0113706,104,1
+Japan,I,3,4,447.5728899,104,1
+Japan,I,3,5,8122.897657,104,1
+Japan,I,3,6,18.77423837,104,1
+Japan,I,3,7,420.1774533,104,1
+Kazakhstan,I,0,0,0.422011051,106,1
+Kazakhstan,I,0,1,2079.49868,106,1
+Kazakhstan,I,0,3,60.95775923,106,1
+Kazakhstan,I,0,4,227.8623567,106,1
+Kazakhstan,I,0,5,24879.86047,106,1
+Kazakhstan,I,0,6,113.8398589,106,1
+Kazakhstan,I,0,7,60.73716135,106,1
+Kazakhstan,I,1,0,509.5898598,106,1
+Kazakhstan,I,1,3,970.7263923,106,1
+Kazakhstan,I,1,4,654.8224283,106,1
+Kazakhstan,I,1,5,9409.763417,106,1
+Kazakhstan,I,1,6,424.4265423,106,1
+Kazakhstan,I,1,7,1685.569755,106,1
+Kazakhstan,I,3,0,170.6556259,106,1
+Kazakhstan,I,3,1,191.78792,106,1
+Kazakhstan,I,3,3,3.195715075,106,1
+Kazakhstan,I,3,4,49.80632439,106,1
+Kazakhstan,I,3,5,11959.92423,106,1
+Kazakhstan,I,3,6,1.023922046,106,1
+Kazakhstan,I,3,7,23.59525105,106,1
+Kenya,D,0,0,235.7592558,107,0
+Kenya,D,0,1,3896.385543,107,0
+Kenya,D,0,3,0.672934997,107,0
+Kenya,D,0,4,95.27862459,107,0
+Kenya,D,0,5,17505.92376,107,0
+Kenya,D,0,6,0.015336948,107,0
+Kenya,D,0,7,2.290744088,107,0
+Kenya,D,1,0,109.1159918,107,0
+Kenya,D,1,1,0.239506483,107,0
+Kenya,D,1,3,197.5176176,107,0
+Kenya,D,1,4,7.789664996,107,0
+Kenya,D,1,5,241.2098295,107,0
+Kenya,D,1,6,2.949005896,107,0
+Kenya,D,1,7,297.8916462,107,0
+Kenya,D,3,0,87.07035837,107,0
+Kenya,D,3,1,216.1600538,107,0
+Kenya,D,3,3,0.730797209,107,0
+Kenya,D,3,4,59.98427522,107,0
+Kenya,D,3,5,7194.267025,107,0
+Kenya,D,3,6,0.010323785,107,0
+Kenya,D,3,7,2.821887425,107,0
+Kyrgyzstan,I,0,0,0.310668271,112,1
+Kyrgyzstan,I,0,1,804.8332796,112,1
+Kyrgyzstan,I,0,3,2.3542095,112,1
+Kyrgyzstan,I,0,4,17.25612846,112,1
+Kyrgyzstan,I,0,5,3648.172947,112,1
+Kyrgyzstan,I,0,6,0.67579539,112,1
+Kyrgyzstan,I,0,7,2.432555437,112,1
+Kyrgyzstan,I,1,0,22.81890939,112,1
+Kyrgyzstan,I,1,3,8.580416875,112,1
+Kyrgyzstan,I,1,4,11.06808308,112,1
+Kyrgyzstan,I,1,5,261.451759,112,1
+Kyrgyzstan,I,1,6,14.49088055,112,1
+Kyrgyzstan,I,1,7,137.3200847,112,1
+Kyrgyzstan,I,3,0,7.224103477,112,1
+Kyrgyzstan,I,3,1,50.999515,112,1
+Kyrgyzstan,I,3,3,0.014009349,112,1
+Kyrgyzstan,I,3,4,12.7681981,112,1
+Kyrgyzstan,I,3,5,1138.824993,112,1
+Kyrgyzstan,I,3,6,0.023967249,112,1
+Kyrgyzstan,I,3,7,0.822668755,112,1
+Cambodia,D,0,0,70.5340678,32,0
+Cambodia,D,0,1,1612.354771,32,0
+Cambodia,D,0,3,0.000628874,32,0
+Cambodia,D,0,4,13.09775642,32,0
+Cambodia,D,0,5,16708.66707,32,0
+Cambodia,D,0,6,0.001362248,32,0
+Cambodia,D,0,7,0.307866608,32,0
+Cambodia,D,1,0,20.46996797,32,0
+Cambodia,D,1,1,1.76804111,32,0
+Cambodia,D,1,3,0.937506207,32,0
+Cambodia,D,1,4,0.91334971,32,0
+Cambodia,D,1,5,8.366225365,32,0
+Cambodia,D,1,6,1.451438474,32,0
+Cambodia,D,1,7,124.6049206,32,0
+Cambodia,D,3,0,19.18270387,32,0
+Cambodia,D,3,1,63.28619753,32,0
+Cambodia,D,3,3,0.001279944,32,0
+Cambodia,D,3,4,15.74247971,32,0
+Cambodia,D,3,5,1854.039594,32,0
+Cambodia,D,3,6,0.002772579,32,0
+Cambodia,D,3,7,1.439255494,32,0
+Kiribati,D,0,0,0.025330228,108,0
+Kiribati,D,0,1,11.47819624,108,0
+Kiribati,D,0,3,5.96234e-05,108,0
+Kiribati,D,0,4,0.07665885,108,0
+Kiribati,D,0,5,1.71539559,108,0
+Kiribati,D,0,6,5.76124e-05,108,0
+Kiribati,D,0,7,0.005669192,108,0
+Kiribati,D,1,0,0.157110382,108,0
+Kiribati,D,1,3,0.055322399,108,0
+Kiribati,D,1,4,0.068836122,108,0
+Kiribati,D,1,5,0.494650066,108,0
+Kiribati,D,1,6,0.051766615,108,0
+Kiribati,D,1,7,0.659993337,108,0
+Kiribati,D,3,0,0.04863241,108,0
+Kiribati,D,3,1,0.71762265,108,0
+Kiribati,D,3,3,0.00011258,108,0
+Kiribati,D,3,4,0.179549123,108,0
+Kiribati,D,3,5,2.188670994,108,0
+Kiribati,D,3,6,0.000108783,108,0
+Kiribati,D,3,7,0.005754943,108,0
+Saint Kitts and Nevis,D,0,0,0.002239815,174,0
+Saint Kitts and Nevis,D,0,1,21.15765554,174,0
+Saint Kitts and Nevis,D,0,3,0.000451116,174,0
+Saint Kitts and Nevis,D,0,4,1.632226572,174,0
+Saint Kitts and Nevis,D,0,5,10.39121742,174,0
+Saint Kitts and Nevis,D,0,6,0.000435901,174,0
+Saint Kitts and Nevis,D,0,7,0.007462498,174,0
+Saint Kitts and Nevis,D,1,0,1.046198762,174,0
+Saint Kitts and Nevis,D,1,3,0.424826351,174,0
+Saint Kitts and Nevis,D,1,4,0.43054075,174,0
+Saint Kitts and Nevis,D,1,5,1.638871592,174,0
+Saint Kitts and Nevis,D,1,6,0.409541389,174,0
+Saint Kitts and Nevis,D,1,7,1.245773443,174,0
+Saint Kitts and Nevis,D,3,0,1.649716962,174,0
+Saint Kitts and Nevis,D,3,1,0.3959683,174,0
+Saint Kitts and Nevis,D,3,3,0.00086958,174,0
+Saint Kitts and Nevis,D,3,4,0.457116345,174,0
+Saint Kitts and Nevis,D,3,5,4.386419245,174,0
+Saint Kitts and Nevis,D,3,6,0.000840251,174,0
+Saint Kitts and Nevis,D,3,7,0.010770578,174,0
+"Korea, Republic of",I,0,0,4.000303607,110,1
+"Korea, Republic of",I,0,1,9991.898803,110,1
+"Korea, Republic of",I,0,3,274.1062113,110,1
+"Korea, Republic of",I,0,4,543.6039075,110,1
+"Korea, Republic of",I,0,5,20509.09731,110,1
+"Korea, Republic of",I,0,6,3.528311715,110,1
+"Korea, Republic of",I,0,7,70.73912507,110,1
+"Korea, Republic of",I,1,0,1484.508355,110,1
+"Korea, Republic of",I,1,1,233.812052,110,1
+"Korea, Republic of",I,1,3,12725.48557,110,1
+"Korea, Republic of",I,1,4,6115.809725,110,1
+"Korea, Republic of",I,1,5,11031.21641,110,1
+"Korea, Republic of",I,1,6,2072.334291,110,1
+"Korea, Republic of",I,1,7,7280.761627,110,1
+"Korea, Republic of",I,3,0,606.9720211,110,1
+"Korea, Republic of",I,3,1,527.0380407,110,1
+"Korea, Republic of",I,3,3,39.3987666,110,1
+"Korea, Republic of",I,3,4,141.68353,110,1
+"Korea, Republic of",I,3,5,6093.202067,110,1
+"Korea, Republic of",I,3,6,3.403628968,110,1
+"Korea, Republic of",I,3,7,70.11068736,110,1
+Kuwait,D,0,0,87.18680261,111,0
+Kuwait,D,0,1,2508.509584,111,0
+Kuwait,D,0,3,280.9313287,111,0
+Kuwait,D,0,4,297.3721747,111,0
+Kuwait,D,0,5,837.1984553,111,0
+Kuwait,D,0,6,51.2371801,111,0
+Kuwait,D,0,7,1015.206182,111,0
+Kuwait,D,1,0,517.2628671,111,0
+Kuwait,D,1,3,289.4029216,111,0
+Kuwait,D,1,4,339.9501409,111,0
+Kuwait,D,1,5,1247.655266,111,0
+Kuwait,D,1,6,156.2247397,111,0
+Kuwait,D,1,7,1022.763955,111,0
+Kuwait,D,3,0,42.37165534,111,0
+Kuwait,D,3,1,22.3424415,111,0
+Kuwait,D,3,3,0.368129376,111,0
+Kuwait,D,3,4,7.731877237,111,0
+Kuwait,D,3,5,69.81422478,111,0
+Kuwait,D,3,6,0.12179508,111,0
+Kuwait,D,3,7,7.390904499,111,0
+Lao People's Democratic Republic,D,0,0,49.91779505,113,0
+Lao People's Democratic Republic,D,0,1,661.3172859,113,0
+Lao People's Democratic Republic,D,0,3,0.489344546,113,0
+Lao People's Democratic Republic,D,0,4,5.628079469,113,0
+Lao People's Democratic Republic,D,0,5,6242.56841,113,0
+Lao People's Democratic Republic,D,0,6,0.00452478,113,0
+Lao People's Democratic Republic,D,0,7,0.027880735,113,0
+Lao People's Democratic Republic,D,1,0,2.101702846,113,0
+Lao People's Democratic Republic,D,1,1,1.959440514,113,0
+Lao People's Democratic Republic,D,1,3,0.442095167,113,0
+Lao People's Democratic Republic,D,1,4,0.435544287,113,0
+Lao People's Democratic Republic,D,1,5,12.66996328,113,0
+Lao People's Democratic Republic,D,1,6,0.451635804,113,0
+Lebanon,D,3,3,0.924090776,115,0
+Lao People's Democratic Republic,D,1,7,3.156253023,113,0
+Lao People's Democratic Republic,D,3,0,10.42374084,113,0
+Lao People's Democratic Republic,D,3,1,32.85811599,113,0
+Lao People's Democratic Republic,D,3,3,0.00106739,113,0
+Lao People's Democratic Republic,D,3,4,8.126407972,113,0
+Lao People's Democratic Republic,D,3,5,1177.1217,113,0
+Lao People's Democratic Republic,D,3,6,0.001513725,113,0
+Lao People's Democratic Republic,D,3,7,0.019438827,113,0
+Lebanon,D,0,0,5.020974848,115,0
+Lebanon,D,0,1,1266.084834,115,0
+Lebanon,D,0,3,0.730481623,115,0
+Lebanon,D,0,4,8.703524822,115,0
+Lebanon,D,0,5,243.6990433,115,0
+Lebanon,D,0,6,0.058686402,115,0
+Lebanon,D,0,7,5.762936896,115,0
+Lebanon,D,1,0,577.3501071,115,0
+Lebanon,D,1,1,0.143314252,115,0
+Lebanon,D,1,3,236.4236313,115,0
+Lebanon,D,1,4,38.23265925,115,0
+Lebanon,D,1,5,129.0478686,115,0
+Lebanon,D,1,6,28.84364148,115,0
+Lebanon,D,1,7,588.3080895,115,0
+Lebanon,D,3,0,37.60609188,115,0
+Lebanon,D,3,1,36.57130284,115,0
+Lebanon,D,3,4,9.184309812,115,0
+Lebanon,D,3,5,275.6033138,115,0
+Lebanon,D,3,6,0.039139383,115,0
+Lebanon,D,3,7,5.570809262,115,0
+Liberia,D,0,0,38.24104126,117,0
+Liberia,D,0,1,381.2540872,117,0
+Liberia,D,0,3,0.000230228,117,0
+Liberia,D,0,4,1.68486348,117,0
+Liberia,D,0,5,129.1117472,117,0
+Liberia,D,0,6,0.035014275,117,0
+Liberia,D,0,7,0.049649785,117,0
+Liberia,D,1,0,3.818913764,117,0
+Liberia,D,1,3,0.252910372,117,0
+Liberia,D,1,4,0.109936801,117,0
+Liberia,D,1,5,8.000892849,117,0
+Liberia,D,1,6,0.222747766,117,0
+Liberia,D,1,7,8.558523237,117,0
+Liberia,D,3,0,8.094778899,117,0
+Liberia,D,3,1,10.8538965,117,0
+Liberia,D,3,3,0.000435789,117,0
+Liberia,D,3,4,2.713699942,117,0
+Liberia,D,3,5,73.62004892,117,0
+Liberia,D,3,6,0.002116113,117,0
+Liberia,D,3,7,0.068601983,117,0
+Libyan Arab Jamahiriya,D,0,0,511.8487255,118,0
+Libyan Arab Jamahiriya,D,0,1,1690.313397,118,0
+Libyan Arab Jamahiriya,D,0,3,544.2005159,118,0
+Libyan Arab Jamahiriya,D,0,4,586.6416933,118,0
+Libyan Arab Jamahiriya,D,0,5,2171.238595,118,0
+Libyan Arab Jamahiriya,D,0,6,71.76860731,118,0
+Libyan Arab Jamahiriya,D,0,7,1171.249049,118,0
+Libyan Arab Jamahiriya,D,1,0,685.7468384,118,0
+Libyan Arab Jamahiriya,D,1,3,317.2226733,118,0
+Libyan Arab Jamahiriya,D,1,4,296.817961,118,0
+Libyan Arab Jamahiriya,D,1,5,2218.249888,118,0
+Libyan Arab Jamahiriya,D,1,6,204.6619154,118,0
+Libyan Arab Jamahiriya,D,1,7,1053.564179,118,0
+Libyan Arab Jamahiriya,D,3,0,58.66765826,118,0
+Libyan Arab Jamahiriya,D,3,1,41.323305,118,0
+Libyan Arab Jamahiriya,D,3,3,0.712497719,118,0
+Libyan Arab Jamahiriya,D,3,4,15.95505451,118,0
+Libyan Arab Jamahiriya,D,3,5,623.4237347,118,0
+Libyan Arab Jamahiriya,D,3,6,0.29960991,118,0
+Libyan Arab Jamahiriya,D,3,7,6.664948522,118,0
+Saint Lucia,D,0,0,0.011340691,175,0
+Saint Lucia,D,0,1,44.44882746,175,0
+Saint Lucia,D,0,3,0.001100603,175,0
+Saint Lucia,D,0,4,0.215772872,175,0
+Saint Lucia,D,0,5,25.24796999,175,0
+Saint Lucia,D,0,6,0.001063482,175,0
+Saint Lucia,D,0,7,0.017923611,175,0
+Saint Lucia,D,1,0,2.51261147,175,0
+Saint Lucia,D,1,1,0.019706507,175,0
+Saint Lucia,D,1,3,1.021218166,175,0
+Saint Lucia,D,1,4,1.034010992,175,0
+Saint Lucia,D,1,5,5.362141213,175,0
+Saint Lucia,D,1,6,0.983577739,175,0
+Saint Lucia,D,1,7,2.991918821,175,0
+Saint Lucia,D,3,0,0.566991029,175,0
+Saint Lucia,D,3,1,1.73559134,175,0
+Saint Lucia,D,3,3,0.002110107,175,0
+Saint Lucia,D,3,4,0.434989184,175,0
+Saint Lucia,D,3,5,10.32288529,175,0
+Saint Lucia,D,3,6,0.002038937,175,0
+Saint Lucia,D,3,7,0.02586878,175,0
+Sri Lanka,D,0,0,155.1894002,192,0
+Sri Lanka,D,0,1,3135.219576,192,0
+Sri Lanka,D,0,3,0.192590867,192,0
+Sri Lanka,D,0,4,12.75394477,192,0
+Sri Lanka,D,0,5,10847.64749,192,0
+Sri Lanka,D,0,6,5.083241963,192,0
+Sri Lanka,D,0,7,1.677065592,192,0
+Sri Lanka,D,1,0,29.637722,192,0
+Sri Lanka,D,1,3,12.14406062,192,0
+Sri Lanka,D,1,4,4.227759758,192,0
+Sri Lanka,D,1,5,317.1198259,192,0
+Sri Lanka,D,1,6,9.076689816,192,0
+Sri Lanka,D,1,7,316.81887,192,0
+Sri Lanka,D,3,0,48.72261056,192,0
+Sri Lanka,D,3,1,124.5288,192,0
+Sri Lanka,D,3,3,0.034196528,192,0
+Sri Lanka,D,3,4,32.14140656,192,0
+Sri Lanka,D,3,5,1155.199667,192,0
+Sri Lanka,D,3,6,0.644808021,192,0
+Sri Lanka,D,3,7,2.906005059,192,0
+Lesotho,D,0,0,28.24967724,116,0
+Lesotho,D,0,1,263.6714156,116,0
+Lesotho,D,0,3,8.16476e-05,116,0
+Lesotho,D,0,4,2.026812418,116,0
+Lesotho,D,0,5,977.3840976,116,0
+Lesotho,D,0,6,0.029060731,116,0
+Lesotho,D,0,7,0.024109694,116,0
+Lesotho,D,1,0,1.851576262,116,0
+Lesotho,D,1,3,0.140533736,116,0
+Lesotho,D,1,4,0.053302021,116,0
+Lesotho,D,1,5,3.879169118,116,0
+Lesotho,D,1,6,0.107997558,116,0
+Lesotho,D,1,7,3.878019846,116,0
+Lesotho,D,3,0,11.95702678,116,0
+Lesotho,D,3,1,15.2536385,116,0
+Lesotho,D,3,3,0.000181346,116,0
+Lesotho,D,3,4,3.813498635,116,0
+Lesotho,D,3,5,405.9951324,116,0
+Lesotho,D,3,6,0.001564837,116,0
+Lesotho,D,3,7,0.033573722,116,0
+Lithuania,I,0,0,1.526514238,119,1
+Lithuania,I,0,1,786.4461442,119,1
+Lithuania,I,0,3,13.24889342,119,1
+Lithuania,I,0,4,44.26830027,119,1
+Lithuania,I,0,5,3146.971177,119,1
+Lithuania,I,0,6,4.532852713,119,1
+Lithuania,I,0,7,3.874727542,119,1
+Lithuania,I,1,0,64.78872625,119,1
+Lithuania,I,1,1,1.24102652,119,1
+Lithuania,I,1,3,571.715868,119,1
+Lithuania,I,1,4,394.9681891,119,1
+Lithuania,I,1,5,1394.43916,119,1
+Lithuania,I,1,6,71.10821092,119,1
+Lithuania,I,1,7,317.1791427,119,1
+Lithuania,I,3,0,23.84606579,119,1
+Lithuania,I,3,1,48.82433746,119,1
+Lithuania,I,3,3,1.085520185,119,1
+Lithuania,I,3,4,14.52118621,119,1
+Lithuania,I,3,5,1816.569747,119,1
+Lithuania,I,3,6,0.059357916,119,1
+Lithuania,I,3,7,6.219244571,119,1
+Luxembourg,I,0,0,0.175302834,120,1
+Luxembourg,I,0,1,96.00238513,120,1
+Luxembourg,I,0,3,1.166525532,120,1
+Luxembourg,I,0,4,1.504234748,120,1
+Luxembourg,I,0,5,498.3314074,120,1
+Luxembourg,I,0,6,1.930491766,120,1
+Luxembourg,I,0,7,2.752454244,120,1
+Luxembourg,I,1,0,18.68389036,120,1
+Luxembourg,I,1,3,307.3414706,120,1
+Luxembourg,I,1,4,26.1786209,120,1
+Luxembourg,I,1,5,22.65506269,120,1
+Luxembourg,I,1,6,11.58846278,120,1
+Luxembourg,I,1,7,353.0119768,120,1
+Luxembourg,I,3,0,15.1845757,120,1
+Luxembourg,I,3,1,5.0340884,120,1
+Luxembourg,I,3,3,0.866508063,120,1
+Luxembourg,I,3,4,1.237562721,120,1
+Luxembourg,I,3,5,152.7629848,120,1
+Luxembourg,I,3,6,0.013720459,120,1
+Luxembourg,I,3,7,3.641668454,120,1
+Latvia,I,0,0,1.385224304,114,1
+Latvia,I,0,1,304.7350796,114,1
+Latvia,I,0,3,5.990156295,114,1
+Latvia,I,0,4,28.57671735,114,1
+Latvia,I,0,5,1677.513527,114,1
+Latvia,I,0,6,2.317306957,114,1
+Latvia,I,0,7,1.551193094,114,1
+Latvia,I,1,0,51.02372384,114,1
+Latvia,I,1,3,193.2383411,114,1
+Latvia,I,1,4,436.6291184,114,1
+Latvia,I,1,5,453.3860218,114,1
+Latvia,I,1,6,67.01972762,114,1
+Latvia,I,1,7,200.5692512,114,1
+Latvia,I,3,0,21.11551573,114,1
+Latvia,I,3,1,42.062867,114,1
+Latvia,I,3,3,0.40164853,114,1
+Latvia,I,3,4,8.432517679,114,1
+Latvia,I,3,5,927.2000653,114,1
+Latvia,I,3,6,0.13221979,114,1
+Latvia,I,3,7,5.236863095,114,1
+Macao,D,0,0,0.144359843,121,0
+Macao,D,0,1,59.47407126,121,0
+Macao,D,0,3,0.0011383,121,0
+Macao,D,0,4,1.377601031,121,0
+Macao,D,0,5,1.108721837,121,0
+Macao,D,0,6,0.001099907,121,0
+Macao,D,0,7,0.256925158,121,0
+Macao,D,1,0,10.06097088,121,0
+Macao,D,1,1,0.012265831,121,0
+Macao,D,1,3,3.813146368,121,0
+Macao,D,1,4,3.283636075,121,0
+Macao,D,1,5,36.95438441,121,0
+Macao,D,1,6,3.54528286,121,0
+Macao,D,1,7,33.03802037,121,0
+Macao,D,3,0,2.210149274,121,0
+Macao,D,3,1,0.001450386,121,0
+Macao,D,3,3,0.004365322,121,0
+Macao,D,3,4,0.003906788,121,0
+Macao,D,3,5,4.229605621,121,0
+Macao,D,3,6,0.004218089,121,0
+Macao,D,3,7,0.292634128,121,0
+Morocco,D,0,0,27.34755856,139,0
+Morocco,D,0,1,8732.5476,139,0
+Morocco,D,0,3,3.716338884,139,0
+Morocco,D,0,4,128.3756613,139,0
+Morocco,D,0,5,5889.098208,139,0
+Morocco,D,0,6,26.81741801,139,0
+Morocco,D,0,7,3.960045997,139,0
+Morocco,D,1,0,531.1742318,139,0
+Morocco,D,1,3,243.981939,139,0
+Morocco,D,1,4,232.5956369,139,0
+Morocco,D,1,5,1610.531016,139,0
+Morocco,D,1,6,110.5032731,139,0
+Morocco,D,1,7,616.9867792,139,0
+Morocco,D,3,0,50.02398218,139,0
+Morocco,D,3,1,294.38585,139,0
+Morocco,D,3,3,0.598550385,139,0
+Morocco,D,3,4,75.65340003,139,0
+Morocco,D,3,5,3208.641742,139,0
+Morocco,D,3,6,3.592263151,139,0
+Morocco,D,3,7,2.564814599,139,0
+"Moldova, Republic of",I,0,0,1.216820392,136,1
+"Moldova, Republic of",I,0,1,634.7366201,136,1
+"Moldova, Republic of",I,0,3,7.016170096,136,1
+"Moldova, Republic of",I,0,4,18.28341155,136,1
+"Moldova, Republic of",I,0,5,2351.756552,136,1
+"Moldova, Republic of",I,0,6,10.37915652,136,1
+"Moldova, Republic of",I,0,7,0.855200367,136,1
+"Moldova, Republic of",I,1,0,116.3139937,136,1
+"Moldova, Republic of",I,1,1,0.616169642,136,1
+"Moldova, Republic of",I,1,3,182.4903072,136,1
+"Moldova, Republic of",I,1,4,264.8449949,136,1
+"Moldova, Republic of",I,1,5,1190.276226,136,1
+"Moldova, Republic of",I,1,6,216.8163383,136,1
+"Moldova, Republic of",I,1,7,145.053199,136,1
+"Moldova, Republic of",I,3,0,16.47351458,136,1
+"Moldova, Republic of",I,3,1,38.3656173,136,1
+"Moldova, Republic of",I,3,3,0.159668982,136,1
+"Moldova, Republic of",I,3,4,10.07248458,136,1
+"Moldova, Republic of",I,3,5,804.5910402,136,1
+"Moldova, Republic of",I,3,6,0.157761816,136,1
+"Moldova, Republic of",I,3,7,2.040158642,136,1
+Madagascar,D,0,0,129.7366832,123,0
+Madagascar,D,0,1,2073.347579,123,0
+Madagascar,D,0,3,0.001089949,123,0
+Madagascar,D,0,4,27.88758717,123,0
+Madagascar,D,0,5,15791.0517,123,0
+Madagascar,D,0,6,0.232610095,123,0
+Madagascar,D,0,7,0.191316952,123,0
+Madagascar,D,1,0,12.87106043,123,0
+Madagascar,D,1,3,1.015507287,123,0
+Madagascar,D,1,4,0.375859832,123,0
+Madagascar,D,1,5,28.93861679,123,0
+Madagascar,D,1,6,0.761543359,123,0
+Madagascar,D,1,7,36.25851344,123,0
+Madagascar,D,3,0,32.95153596,123,0
+Madagascar,D,3,1,86.400865,123,0
+Madagascar,D,3,3,0.001318453,123,0
+Madagascar,D,3,4,22.94284504,123,0
+Madagascar,D,3,5,5248.770805,123,0
+Madagascar,D,3,6,0.012403103,123,0
+Madagascar,D,3,7,0.259922036,123,0
+Maldives,D,0,0,0.110665403,126,0
+Maldives,D,0,1,36.28652481,126,0
+Maldives,D,0,3,0.000770399,126,0
+Maldives,D,0,4,0.07545891,126,0
+Maldives,D,0,5,0.101703434,126,0
+Maldives,D,0,6,0.000744415,126,0
+Maldives,D,0,7,0.038723333,126,0
+Maldives,D,1,0,2.649032014,126,0
+Maldives,D,1,1,0.330333145,126,0
+Maldives,D,1,3,0.971764388,126,0
+Maldives,D,1,4,0.864573976,126,0
+Maldives,D,1,5,9.729991588,126,0
+Maldives,D,1,6,0.933464985,126,0
+Maldives,D,1,7,5.385243794,126,0
+Maldives,D,3,0,0.572212079,126,0
+Maldives,D,3,1,3.01021714,126,0
+Maldives,D,3,3,0.001693841,126,0
+Maldives,D,3,4,0.74092952,126,0
+Maldives,D,3,5,1.421462352,126,0
+Maldives,D,3,6,0.001636711,126,0
+Maldives,D,3,7,0.040403868,126,0
+Mexico,I,0,0,29.78543709,134,1
+Mexico,I,0,1,35556.5177,134,1
+Mexico,I,0,3,466.4541472,134,1
+Mexico,I,0,4,1353.189057,134,1
+Mexico,I,0,5,67979.18328,134,1
+Mexico,I,0,6,22.02789137,134,1
+Mexico,I,0,7,967.2868669,134,1
+Mexico,I,1,0,1379.735014,134,1
+Mexico,I,1,1,14.42423166,134,1
+Mexico,I,1,3,5324.382034,134,1
+Mexico,I,1,4,4515.263083,134,1
+Mexico,I,1,5,13265.46513,134,1
+Mexico,I,1,6,725.7133768,134,1
+Mexico,I,1,7,13368.46732,134,1
+Mexico,I,3,0,667.9117526,134,1
+Mexico,I,3,1,1011.978912,134,1
+Mexico,I,3,3,21.99015002,134,1
+Mexico,I,3,4,322.3685615,134,1
+Mexico,I,3,5,26231.79474,134,1
+Mexico,I,3,6,1.227576458,134,1
+Mexico,I,3,7,118.1837252,134,1
+Marshall Islands,D,0,1,2.084411942,129,0
+"Macedonia, the former Yugoslav Republic of",I,0,0,0.261659594,122,1
+"Macedonia, the former Yugoslav Republic of",I,0,1,336.7676229,122,1
+"Macedonia, the former Yugoslav Republic of",I,0,3,1.180833684,122,1
+"Macedonia, the former Yugoslav Republic of",I,0,4,7.996321092,122,1
+"Macedonia, the former Yugoslav Republic of",I,0,5,1163.344221,122,1
+"Macedonia, the former Yugoslav Republic of",I,0,6,0.01254761,122,1
+"Macedonia, the former Yugoslav Republic of",I,0,7,1.281983138,122,1
+"Macedonia, the former Yugoslav Republic of",I,1,0,196.7517561,122,1
+"Macedonia, the former Yugoslav Republic of",I,1,1,2.514666138,122,1
+"Macedonia, the former Yugoslav Republic of",I,1,3,124.7275213,122,1
+"Macedonia, the former Yugoslav Republic of",I,1,4,119.1873419,122,1
+"Macedonia, the former Yugoslav Republic of",I,1,5,442.012588,122,1
+"Macedonia, the former Yugoslav Republic of",I,1,6,35.6949823,122,1
+"Macedonia, the former Yugoslav Republic of",I,1,7,91.67938006,122,1
+"Macedonia, the former Yugoslav Republic of",I,3,0,10.29793419,122,1
+"Macedonia, the former Yugoslav Republic of",I,3,1,18.74928749,122,1
+"Macedonia, the former Yugoslav Republic of",I,3,3,0.381787351,122,1
+"Macedonia, the former Yugoslav Republic of",I,3,4,4.970101765,122,1
+"Macedonia, the former Yugoslav Republic of",I,3,5,517.8190537,122,1
+"Macedonia, the former Yugoslav Republic of",I,3,6,0.127720461,122,1
+"Macedonia, the former Yugoslav Republic of",I,3,7,1.002535735,122,1
+Mali,D,0,0,61.70266481,127,0
+Mali,D,0,1,1393.339228,127,0
+Mali,D,0,3,0.000217064,127,0
+Mali,D,0,4,14.21606661,127,0
+Mali,D,0,5,8790.467797,127,0
+Mali,D,0,6,0.033734042,127,0
+Mali,D,0,7,0.042074149,127,0
+Mali,D,1,0,4.978674735,127,0
+Mali,D,1,1,1.435144002,127,0
+Mali,D,1,3,0.538234126,127,0
+Mali,D,1,4,0.14332364,127,0
+Mali,D,1,5,14.15236311,127,0
+Mali,D,1,6,0.290394304,127,0
+Mali,D,1,7,8.29177686,127,0
+Mali,D,3,0,12.77711362,127,0
+Mali,D,3,1,86.99629275,127,0
+Mali,D,3,3,0.000482115,127,0
+Mali,D,3,4,21.60721765,127,0
+Mali,D,3,5,2889.238515,127,0
+Mali,D,3,6,0.00210627,127,0
+Mali,D,3,7,0.059103064,127,0
+Malta,I,0,0,0.037912676,128,1
+Malta,I,0,1,33.46852833,128,1
+Malta,I,0,3,0.003189194,128,1
+Malta,I,0,4,0.983497056,128,1
+Malta,I,0,5,63.02001756,128,1
+Malta,I,0,6,0.014889187,128,1
+Malta,I,0,7,0.51667058,128,1
+Malta,I,1,0,78.96169401,128,1
+Malta,I,1,3,7.09025776,128,1
+Malta,I,1,4,22.82698927,128,1
+Malta,I,1,5,1.13007569,128,1
+Malta,I,1,6,32.76887061,128,1
+Malta,I,1,7,73.68535047,128,1
+Malta,I,3,0,4.322529519,128,1
+Malta,I,3,1,7.102831524,128,1
+Malta,I,3,3,0.010455982,128,1
+Malta,I,3,4,1.354446941,128,1
+Malta,I,3,5,24.08432167,128,1
+Malta,I,3,6,0.048815176,128,1
+Malta,I,3,7,0.595477835,128,1
+Myanmar,D,0,0,414.636764,141,0
+Myanmar,D,0,1,6724.208286,141,0
+Myanmar,D,0,3,1.273834044,141,0
+Myanmar,D,0,4,43.72856431,141,0
+Myanmar,D,0,5,56590.49297,141,0
+Myanmar,D,0,6,5.566111622,141,0
+Myanmar,D,0,7,6.715028922,141,0
+Myanmar,D,1,0,34.84450761,141,0
+Myanmar,D,1,1,13.22659223,141,0
+Myanmar,D,1,3,10.08136481,141,0
+Myanmar,D,1,4,19.80769497,141,0
+Myanmar,D,1,5,716.5386233,141,0
+Myanmar,D,1,6,16.14745988,141,0
+Myanmar,D,1,7,255.1326372,141,0
+Myanmar,D,3,0,100.5519956,141,0
+Myanmar,D,3,1,271.6344133,141,0
+Myanmar,D,3,3,0.00496249,141,0
+Myanmar,D,3,4,69.17927944,141,0
+Myanmar,D,3,5,7290.408381,141,0
+Myanmar,D,3,6,0.008767172,141,0
+Myanmar,D,3,7,1.107006192,141,0
+Mongolia,D,0,0,5.437322065,137,0
+Mongolia,D,0,1,386.3748143,137,0
+Mongolia,D,0,3,60.03051206,137,0
+Mongolia,D,0,4,24.86503863,137,0
+Mongolia,D,0,5,9128.103692,137,0
+Mongolia,D,0,6,1.516989462,137,0
+Mongolia,D,0,7,2.554977256,137,0
+Mongolia,D,1,0,88.54553753,137,0
+Mongolia,D,1,1,0.138245331,137,0
+Mongolia,D,1,3,79.03751909,137,0
+Mongolia,D,1,4,69.80951353,137,0
+Mongolia,D,1,5,135.3334588,137,0
+Mongolia,D,1,6,93.62372756,137,0
+Mongolia,D,1,7,104.232908,137,0
+Mongolia,D,3,0,11.79786251,137,0
+Mongolia,D,3,1,23.38566349,137,0
+Mongolia,D,3,3,0.288262115,137,0
+Mongolia,D,3,4,6.10027901,137,0
+Mongolia,D,3,5,3317.569062,137,0
+Mongolia,D,3,6,0.350904203,137,0
+Mongolia,D,3,7,2.049340835,137,0
+Northern Mariana Islands,D,0,1,2.684600251,153,0
+Mozambique,D,0,0,190.8918398,140,0
+Mozambique,D,0,1,2210.97063,140,0
+Mozambique,D,0,3,1.228615922,140,0
+Mozambique,D,0,4,16.09297237,140,0
+Mozambique,D,0,5,2136.282383,140,0
+Mozambique,D,0,6,0.009695261,140,0
+Mozambique,D,0,7,0.161836805,140,0
+Mozambique,D,1,0,9.134743093,140,0
+Mozambique,D,1,3,0.649925646,140,0
+Mozambique,D,1,4,0.060249213,140,0
+Mozambique,D,1,5,104.2596132,140,0
+Mozambique,D,1,6,0.267466874,140,0
+Mozambique,D,1,7,40.08654904,140,0
+Mozambique,D,3,0,41.68977022,140,0
+Mozambique,D,3,1,78.782645,140,0
+Mozambique,D,3,3,0.000503064,140,0
+Mozambique,D,3,4,20.12270292,140,0
+Mozambique,D,3,5,1108.01324,140,0
+Mozambique,D,3,6,0.000512705,140,0
+Mozambique,D,3,7,0.191927583,140,0
+Mauritania,D,0,0,17.80942806,131,0
+Mauritania,D,0,1,411.4542706,131,0
+Mauritania,D,0,3,0.002039636,131,0
+Mauritania,D,0,4,4.472013108,131,0
+Mauritania,D,0,5,4002.754651,131,0
+Mauritania,D,0,6,0.046597083,131,0
+Mauritania,D,0,7,0.452521973,131,0
+Mauritania,D,1,0,33.83252293,131,0
+Mauritania,D,1,3,1.886760375,131,0
+Mauritania,D,1,4,0.97395262,131,0
+Mauritania,D,1,5,72.12218701,131,0
+Mauritania,D,1,6,1.973368054,131,0
+Mauritania,D,1,7,69.79976162,131,0
+Mauritania,D,3,0,7.778954285,131,0
+Mauritania,D,3,1,22.4853295,131,0
+Mauritania,D,3,3,0.003860743,131,0
+Mauritania,D,3,4,5.623398256,131,0
+Mauritania,D,3,5,1162.673968,131,0
+Mauritania,D,3,6,0.006273077,131,0
+Mauritania,D,3,7,0.628463674,131,0
+Montserrat,D,0,0,0.001199593,138,0
+Montserrat,D,0,1,1.492134279,138,0
+Montserrat,D,0,3,0.000242673,138,0
+Montserrat,D,0,4,0.095946732,138,0
+Montserrat,D,0,5,17.70927715,138,0
+Montserrat,D,0,6,0.000234488,138,0
+Montserrat,D,0,7,0.004014626,138,0
+Montserrat,D,3,0,0.001043709,138,0
+Montserrat,D,3,3,0.000467791,138,0
+Montserrat,D,3,4,0.000475191,138,0
+Montserrat,D,3,5,4.860115125,138,0
+Montserrat,D,3,6,0.000452014,138,0
+Montserrat,D,3,7,0.005794286,138,0
+Martinique,D,0,0,0.059456319,130,0
+Martinique,D,0,1,85.04779492,130,0
+Martinique,D,0,3,0.015642979,130,0
+Martinique,D,0,4,1.159750217,130,0
+Martinique,D,0,5,65.81330244,130,0
+Martinique,D,0,6,0.010011555,130,0
+Martinique,D,0,7,0.173551952,130,0
+Martinique,D,1,0,23.32682795,130,0
+Martinique,D,1,3,9.45914441,130,0
+Martinique,D,1,4,9.599699231,130,0
+Martinique,D,1,5,30.55667323,130,0
+Martinique,D,1,6,9.131418374,130,0
+Martinique,D,1,7,27.77671087,130,0
+Martinique,D,3,0,5.788096302,130,0
+Martinique,D,3,3,0.019454575,130,0
+Martinique,D,3,4,0.21145273,130,0
+Martinique,D,3,5,25.55407513,130,0
+Martinique,D,3,6,0.018797928,130,0
+Martinique,D,3,7,0.240153858,130,0
+Mauritius,D,0,0,0.649068105,132,0
+Mauritius,D,0,1,447.9707492,132,0
+Mauritius,D,0,3,0.012103049,132,0
+Mauritius,D,0,4,28.01467552,132,0
+Mauritius,D,0,5,62.10585952,132,0
+Mauritius,D,0,6,0.064799148,132,0
+Mauritius,D,0,7,0.169131629,132,0
+Mauritius,D,1,0,26.31457777,132,0
+Mauritius,D,1,1,0.111857074,132,0
+Mauritius,D,1,3,2.654368925,132,0
+Mauritius,D,1,4,1.360335148,132,0
+Mauritius,D,1,5,7.626060498,132,0
+Mauritius,D,1,6,9.634608039,132,0
+Mauritius,D,1,7,39.02908896,132,0
+Mauritius,D,3,0,29.27480361,132,0
+Mauritius,D,3,1,10.90328412,132,0
+Mauritius,D,3,3,0.017917405,132,0
+Mauritius,D,3,4,9.014548346,132,0
+Mauritius,D,3,5,95.61037173,132,0
+Mauritius,D,3,6,0.054964691,132,0
+Mauritius,D,3,7,0.330705321,132,0
+Malawi,D,0,0,68.41099887,124,0
+Malawi,D,0,1,1434.407244,124,0
+Malawi,D,0,3,1.056016121,124,0
+Malawi,D,0,4,14.96701253,124,0
+Malawi,D,0,5,1265.092059,124,0
+Malawi,D,0,6,0.156193726,124,0
+Malawi,D,0,7,0.091705697,124,0
+Malawi,D,1,0,9.231204476,124,0
+Malawi,D,1,3,0.827336631,124,0
+Malawi,D,1,4,0.308046523,124,0
+Malawi,D,1,5,24.29937487,124,0
+Malawi,D,1,6,0.61774927,124,0
+Malawi,D,1,7,13.53706648,124,0
+Malawi,D,3,0,27.05448052,124,0
+Malawi,D,3,1,68.345885,124,0
+Malawi,D,3,3,0.001438219,124,0
+Malawi,D,3,4,20.30680746,124,0
+Malawi,D,3,5,640.0748557,124,0
+Malawi,D,3,6,0.008542943,124,0
+Malawi,D,3,7,0.084333112,124,0
+New Caledonia,D,1,5,34.652463,147,0
+Malaysia,D,0,0,53.32579792,125,0
+Malaysia,D,0,1,4915.18307,125,0
+Malaysia,D,0,3,319.8169885,125,0
+Malaysia,D,0,4,471.9777734,125,0
+Malaysia,D,0,5,7684.521165,125,0
+Malaysia,D,0,6,29.28697685,125,0
+Malaysia,D,0,7,379.990513,125,0
+Malaysia,D,1,0,483.9190628,125,0
+Malaysia,D,1,1,16.85819362,125,0
+Malaysia,D,1,3,331.375167,125,0
+Malaysia,D,1,4,339.9712929,125,0
+Malaysia,D,1,5,2616.51428,125,0
+Malaysia,D,1,6,511.6390668,125,0
+Malaysia,D,1,7,2048.440652,125,0
+Malaysia,D,3,0,112.3771524,125,0
+Malaysia,D,3,1,216.6168613,125,0
+Malaysia,D,3,3,0.335820279,125,0
+Malaysia,D,3,4,56.51122318,125,0
+Malaysia,D,3,5,6260.183309,125,0
+Malaysia,D,3,6,0.608255002,125,0
+Malaysia,D,3,7,13.52586877,125,0
+Mayotte,D,0,1,16.0576481,133,0
+Namibia,D,0,0,8.331783345,142,0
+Namibia,D,0,1,236.2707085,142,0
+Namibia,D,0,4,5.077260671,142,0
+Namibia,D,0,5,3404.64596,142,0
+Namibia,D,0,6,7.59223e-05,142,0
+Namibia,D,0,7,0.712740131,142,0
+Namibia,D,1,0,6.262561696,142,0
+Namibia,D,1,3,0.217630788,142,0
+Namibia,D,1,5,0.639339614,142,0
+Namibia,D,1,6,0.192771516,142,0
+Namibia,D,1,7,83.65378089,142,0
+Namibia,D,3,0,5.446522881,142,0
+Namibia,D,3,1,12.395216,142,0
+Namibia,D,3,4,3.09913677,142,0
+Namibia,D,3,5,1280.400033,142,0
+Namibia,D,3,6,0.00067424,142,0
+Namibia,D,3,7,0.962756482,142,0
+New Caledonia,D,0,0,0.111208935,147,0
+New Caledonia,D,0,1,20.69598608,147,0
+New Caledonia,D,0,3,0.003080962,147,0
+New Caledonia,D,0,4,0.467147018,147,0
+New Caledonia,D,0,5,198.3300287,147,0
+New Caledonia,D,0,6,0.002977047,147,0
+New Caledonia,D,0,7,0.39707605,147,0
+New Caledonia,D,1,0,11.00631161,147,0
+New Caledonia,D,1,3,3.757337884,147,0
+New Caledonia,D,1,4,4.822297146,147,0
+New Caledonia,D,1,6,3.626497142,147,0
+New Caledonia,D,1,7,46.23562995,147,0
+New Caledonia,D,3,0,2.427560493,147,0
+New Caledonia,D,3,1,1.94931085,147,0
+New Caledonia,D,3,3,0.006676157,147,0
+New Caledonia,D,3,4,0.495905179,147,0
+New Caledonia,D,3,5,68.0141755,147,0
+New Caledonia,D,3,6,0.006450984,147,0
+New Caledonia,D,3,7,0.403073124,147,0
+Niger,D,0,0,95.28636195,150,0
+Niger,D,0,1,1334.541785,150,0
+Niger,D,0,3,1.561174519,150,0
+Niger,D,0,4,13.60731823,150,0
+Niger,D,0,5,8590.017612,150,0
+Niger,D,0,6,0.159032543,150,0
+Niger,D,0,7,0.149374788,150,0
+Niger,D,1,0,12.53941085,150,0
+Niger,D,1,3,1.480278306,150,0
+Niger,D,1,4,0.41587645,150,0
+Niger,D,1,5,18.14412559,150,0
+Niger,D,1,6,1.435779802,150,0
+Niger,D,1,7,15.63253109,150,0
+Niger,D,3,0,19.99495581,150,0
+Niger,D,3,1,73.907705,150,0
+Niger,D,3,3,0.002334565,150,0
+Niger,D,3,4,18.47821122,150,0
+Niger,D,3,5,2863.770786,150,0
+Niger,D,3,6,0.011287103,150,0
+Niger,D,3,7,0.141517105,150,0
+Nigeria,D,0,0,7620.349702,151,0
+Nigeria,D,0,1,17023.61024,151,0
+Nigeria,D,0,3,2311.81127,151,0
+Nigeria,D,0,4,2571.439128,151,0
+Nigeria,D,0,5,30376.59186,151,0
+Nigeria,D,0,6,110.8792841,151,0
+Nigeria,D,0,7,17978.71317,151,0
+Nigeria,D,1,0,2012.654952,151,0
+Nigeria,D,1,3,692.6405497,151,0
+Nigeria,D,1,4,778.0394088,151,0
+Nigeria,D,1,5,453.9884721,151,0
+Nigeria,D,1,6,96.89757745,151,0
+Nigeria,D,1,7,6956.623998,151,0
+Nigeria,D,3,0,657.8948111,151,0
+Nigeria,D,3,1,826.94575,151,0
+Nigeria,D,3,3,2.433085879,151,0
+Nigeria,D,3,4,210.3741504,151,0
+Nigeria,D,3,5,11577.39969,151,0
+Nigeria,D,3,6,9.426224002,151,0
+Nigeria,D,3,7,33.40406217,151,0
+Nicaragua,D,0,0,43.13434888,149,0
+Nicaragua,D,0,1,996.5945304,149,0
+Nicaragua,D,0,3,0.093729772,149,0
+Nicaragua,D,0,4,29.84541365,149,0
+Nicaragua,D,0,5,4337.181217,149,0
+Nicaragua,D,0,6,0.658680504,149,0
+Nicaragua,D,0,7,0.555170812,149,0
+Nicaragua,D,1,0,22.22715417,149,0
+Nicaragua,D,1,3,11.47486466,149,0
+Nicaragua,D,1,4,11.54393546,149,0
+Nicaragua,D,1,5,83.31239993,149,0
+Nicaragua,D,1,6,17.89644719,149,0
+Nicaragua,D,1,7,67.06177911,149,0
+Nicaragua,D,3,0,12.87376136,149,0
+Nicaragua,D,3,1,27.15402,149,0
+Nicaragua,D,3,3,0.061386111,149,0
+Nicaragua,D,3,4,6.850959329,149,0
+Nicaragua,D,3,5,2164.758963,149,0
+Nicaragua,D,3,6,0.085716463,149,0
+Nicaragua,D,3,7,0.411987911,149,0
+Niue,D,0,0,9.28227e-05,152,0
+Niue,D,0,1,0.083904884,152,0
+Niue,D,0,4,0.0054995,152,0
+Niue,D,0,5,0.915443334,152,0
+Niue,D,3,0,1.77387e-05,152,0
+Niue,D,3,5,0.24467625,152,0
+Netherlands,I,0,0,32.33977356,145,1
+Netherlands,I,0,1,8107.204301,145,1
+Netherlands,I,0,3,125.5586374,145,1
+Netherlands,I,0,4,477.7521022,145,1
+Netherlands,I,0,5,15865.75683,145,1
+Netherlands,I,0,6,118.8274778,145,1
+Netherlands,I,0,7,183.6839308,145,1
+Netherlands,I,1,0,1105.976968,145,1
+Netherlands,I,1,1,3.132193211,145,1
+Netherlands,I,1,3,2857.407509,145,1
+Netherlands,I,1,4,5705.611086,145,1
+Netherlands,I,1,5,14673.11385,145,1
+Netherlands,I,1,6,2640.022394,145,1
+Netherlands,I,1,7,3419.996359,145,1
+Netherlands,I,3,0,221.8843979,145,1
+Netherlands,I,3,1,494.197258,145,1
+Netherlands,I,3,3,4.378596121,145,1
+Netherlands,I,3,4,77.57609147,145,1
+Netherlands,I,3,5,9017.78724,145,1
+Netherlands,I,3,6,3.474969105,145,1
+Netherlands,I,3,7,40.97668946,145,1
+Norway,I,0,0,4.168607439,154,1
+Norway,I,0,1,1324.086029,154,1
+Norway,I,0,3,163.55781,154,1
+Norway,I,0,4,513.9781096,154,1
+Norway,I,0,5,3968.862605,154,1
+Norway,I,0,6,2.929364489,154,1
+Norway,I,0,7,572.5419584,154,1
+Norway,I,1,0,18.71508404,154,1
+Norway,I,1,3,1042.144679,154,1
+Norway,I,1,4,690.1613083,154,1
+Norway,I,1,5,2765.937003,154,1
+Norway,I,1,6,12.44160056,154,1
+Norway,I,1,7,1181.859067,154,1
+Norway,I,3,0,60.23520508,154,1
+Norway,I,3,1,65.53936487,154,1
+Norway,I,3,3,4.896976061,154,1
+Norway,I,3,4,21.38587563,154,1
+Norway,I,3,5,2885.668169,154,1
+Norway,I,3,6,0.075701285,154,1
+Norway,I,3,7,13.8979333,154,1
+Nepal,D,0,0,313.7005416,144,0
+Nepal,D,0,1,2525.381194,144,0
+Nepal,D,0,4,20.08328696,144,0
+Nepal,D,0,5,23126.12943,144,0
+Nepal,D,0,6,1.3713546,144,0
+Nepal,D,0,7,0.07709175,144,0
+Nepal,D,1,0,70.55210189,144,0
+Nepal,D,1,3,0.893227659,144,0
+Nepal,D,1,5,286.83607,144,0
+Nepal,D,1,6,11.13714662,144,0
+Nepal,D,1,7,36.21346786,144,0
+Nepal,D,3,0,102.7660045,144,0
+Nepal,D,3,1,163.146455,144,0
+Nepal,D,3,4,46.52725038,144,0
+Nepal,D,3,5,2826.542115,144,0
+Nepal,D,3,6,0.187407584,144,0
+Nepal,D,3,7,0.146915245,144,0
+Nauru,D,0,1,1.180206714,143,0
+Nauru,D,0,4,0.005991997,143,0
+Nauru,D,0,5,0.307477324,143,0
+Nauru,D,3,5,0.216788486,143,0
+New Zealand,I,0,0,0.909292288,148,1
+New Zealand,I,0,1,2966.042222,148,1
+New Zealand,I,0,3,21.2289413,148,1
+New Zealand,I,0,4,244.5557365,148,1
+New Zealand,I,0,5,32143.8892,148,1
+New Zealand,I,0,6,4.481240942,148,1
+New Zealand,I,0,7,32.56821997,148,1
+New Zealand,I,1,0,79.29770249,148,1
+New Zealand,I,1,1,1.337810058,148,1
+New Zealand,I,1,3,249.5096583,148,1
+New Zealand,I,1,4,717.6706893,148,1
+New Zealand,I,1,5,2121.692217,148,1
+New Zealand,I,1,6,91.47081677,148,1
+New Zealand,I,1,7,1427.772764,148,1
+New Zealand,I,3,0,64.37438215,148,1
+New Zealand,I,3,1,51.93052142,148,1
+New Zealand,I,3,3,0.305574964,148,1
+New Zealand,I,3,4,13.29704901,148,1
+New Zealand,I,3,5,9582.019968,148,1
+New Zealand,I,3,6,0.169007934,148,1
+New Zealand,I,3,7,14.37418896,148,1
+Oman,D,0,0,47.90016276,155,0
+Oman,D,0,1,543.2435624,155,0
+Oman,D,0,3,217.1623293,155,0
+Oman,D,0,4,245.0742319,155,0
+Oman,D,0,5,1196.821463,155,0
+Oman,D,0,6,35.90808935,155,0
+Oman,D,0,7,635.120203,155,0
+Oman,D,1,0,193.9978897,155,0
+Oman,D,1,3,171.3130315,155,0
+Oman,D,1,4,162.3099727,155,0
+Oman,D,1,5,219.7979078,155,0
+Oman,D,1,6,113.5496955,155,0
+Oman,D,1,7,443.5180441,155,0
+Oman,D,3,0,19.46733991,155,0
+Oman,D,3,1,19.943264,155,0
+Oman,D,3,3,0.258688519,155,0
+Oman,D,3,4,0.273419158,155,0
+Oman,D,3,5,234.3005256,155,0
+Oman,D,3,6,0.10402671,155,0
+Oman,D,3,7,2.895127824,155,0
+Pakistan,D,0,0,1237.661771,156,0
+Pakistan,D,0,1,15819.66842,156,0
+Pakistan,D,0,3,561.1584871,156,0
+Pakistan,D,0,4,541.8458946,156,0
+Pakistan,D,0,5,92383.03539,156,0
+Pakistan,D,0,6,49.33228309,156,0
+Pakistan,D,0,7,297.4759844,156,0
+Pakistan,D,1,0,1543.893806,156,0
+Pakistan,D,1,3,5369.51488,156,0
+Pakistan,D,1,4,286.1893826,156,0
+Pakistan,D,1,5,7363.59063,156,0
+Pakistan,D,1,6,341.2190929,156,0
+Pakistan,D,1,7,2575.477754,156,0
+Pakistan,D,3,0,582.3528624,156,0
+Pakistan,D,3,1,1017.0806,156,0
+Pakistan,D,3,3,14.8211625,156,0
+Pakistan,D,3,4,305.0947294,156,0
+Pakistan,D,3,5,24277.01284,156,0
+Pakistan,D,3,6,1.076632931,156,0
+Pakistan,D,3,7,24.17495048,156,0
+Panama,D,0,0,15.77640549,158,0
+Panama,D,0,1,723.7980008,158,0
+Panama,D,0,3,0.130362978,158,0
+Panama,D,0,4,29.42117765,158,0
+Panama,D,0,5,3116.857468,158,0
+Panama,D,0,6,0.11915594,158,0
+Panama,D,0,7,1.499555575,158,0
+Panama,D,1,0,43.36810086,158,0
+Panama,D,1,3,17.0101861,158,0
+Panama,D,1,4,15.8777292,158,0
+Panama,D,1,5,17.1277495,158,0
+Panama,D,1,6,39.51592804,158,0
+Panama,D,1,7,188.4316552,158,0
+Panama,D,3,0,14.54246743,158,0
+Panama,D,3,1,22.348881,158,0
+Panama,D,3,3,0.028644766,158,0
+Panama,D,3,4,6.222623065,158,0
+Panama,D,3,5,714.599504,158,0
+Panama,D,3,6,0.068697479,158,0
+Panama,D,3,7,1.148233821,158,0
+Peru,D,0,0,140.8832025,161,0
+Peru,D,0,1,6267.260845,161,0
+Peru,D,0,3,7.248678493,161,0
+Peru,D,0,4,153.9120345,161,0
+Peru,D,0,5,12201.76172,161,0
+Peru,D,0,6,7.48473127,161,0
+Peru,D,0,7,128.3357679,161,0
+Peru,D,1,0,444.0776027,161,0
+Peru,D,1,1,2.883578742,161,0
+Peru,D,1,3,99.37442336,161,0
+Peru,D,1,4,62.18559043,161,0
+Peru,D,1,5,1976.115861,161,0
+Peru,D,1,6,83.33186036,161,0
+Peru,D,1,7,1201.308474,161,0
+Peru,D,3,0,92.52995466,161,0
+Peru,D,3,1,203.1341602,161,0
+Peru,D,3,3,0.192679732,161,0
+Peru,D,3,4,55.19185984,161,0
+Peru,D,3,5,3633.788841,161,0
+Peru,D,3,6,0.185809092,161,0
+Peru,D,3,7,6.809555987,161,0
+Philippines,D,0,0,318.6049432,162,0
+Philippines,D,0,1,12338.66509,162,0
+Philippines,D,0,3,123.433657,162,0
+Philippines,D,0,4,323.0140317,162,0
+Philippines,D,0,5,39756.08997,162,0
+Philippines,D,0,6,13.37719874,162,0
+Philippines,D,0,7,17.9194725,162,0
+Philippines,D,1,0,696.2588098,162,0
+Philippines,D,1,1,28.39937516,162,0
+Philippines,D,1,3,2738.190651,162,0
+Philippines,D,1,4,2697.494675,162,0
+Philippines,D,1,5,1725.017787,162,0
+Philippines,D,1,6,258.8827737,162,0
+Philippines,D,1,7,2410.923881,162,0
+Philippines,D,3,0,340.0723479,162,0
+Philippines,D,3,1,500.4455525,162,0
+Philippines,D,3,3,7.830474302,162,0
+Philippines,D,3,4,174.3502538,162,0
+Philippines,D,3,5,6428.313233,162,0
+Philippines,D,3,6,1.759425653,162,0
+Philippines,D,3,7,12.02008399,162,0
+Palau,D,0,0,0.601817335,157,0
+Palau,D,0,1,3.303762952,157,0
+Palau,D,0,3,1.379743923,157,0
+Palau,D,0,4,1.467930116,157,0
+Palau,D,0,5,3.404408084,157,0
+Palau,D,0,6,0.020110782,157,0
+Palau,D,0,7,5.303085613,157,0
+Palau,D,1,0,21.62860869,157,0
+Palau,D,1,3,7.412931899,157,0
+Palau,D,1,4,9.514697321,157,0
+Palau,D,1,5,68.14499687,157,0
+Palau,D,1,6,7.121154524,157,0
+Palau,D,1,7,90.92713616,157,0
+Palau,D,3,0,5.181847664,157,0
+Palau,D,3,3,0.013256057,157,0
+Palau,D,3,4,0.016953099,157,0
+Palau,D,3,5,6.738266733,157,0
+Palau,D,3,6,0.012466656,157,0
+Palau,D,3,7,0.792605905,157,0
+Papua New Guinea,D,0,0,50.22824294,159,0
+Papua New Guinea,D,0,1,615.75001,159,0
+Papua New Guinea,D,0,3,4.906094879,159,0
+Papua New Guinea,D,0,4,32.99616289,159,0
+Papua New Guinea,D,0,5,350.3609217,159,0
+Papua New Guinea,D,0,6,0.338037064,159,0
+Papua New Guinea,D,0,7,14.63070973,159,0
+Papua New Guinea,D,1,0,18.90728182,159,0
+Papua New Guinea,D,1,1,0.372019743,159,0
+Papua New Guinea,D,1,3,7.31909857,159,0
+Papua New Guinea,D,1,4,6.470362009,159,0
+Papua New Guinea,D,1,5,68.49906064,159,0
+Papua New Guinea,D,1,6,6.810769137,159,0
+Papua New Guinea,D,1,7,82.68489386,159,0
+Papua New Guinea,D,3,0,17.14084991,159,0
+Papua New Guinea,D,3,1,13.05410136,159,0
+Poland,I,3,7,34.43947297,163,1
+Papua New Guinea,D,3,3,0.015618889,159,0
+Papua New Guinea,D,3,4,0.510844769,159,0
+Papua New Guinea,D,3,5,209.1035289,159,0
+Papua New Guinea,D,3,6,0.013874224,159,0
+Papua New Guinea,D,3,7,0.615166591,159,0
+Poland,I,0,0,102.8630607,163,1
+Poland,I,0,1,8968.639087,163,1
+Poland,I,0,3,1709.685978,163,1
+Poland,I,0,4,2120.146314,163,1
+Poland,I,0,5,23880.37946,163,1
+Poland,I,0,6,62.04453366,163,1
+Poland,I,0,7,58.14262374,163,1
+Poland,I,1,0,1936.282384,163,1
+Poland,I,1,1,73.9660088,163,1
+Poland,I,1,3,9719.266068,163,1
+Poland,I,1,4,10957.52114,163,1
+Poland,I,1,5,19673.14316,163,1
+Poland,I,1,6,1850.154125,163,1
+Poland,I,1,7,2888.307727,163,1
+Poland,I,3,0,542.0767216,163,1
+Poland,I,3,1,518.397602,163,1
+Poland,I,3,3,40.13727789,163,1
+Poland,I,3,4,177.4518011,163,1
+Poland,I,3,5,17971.20871,163,1
+Poland,I,3,6,6.739228843,163,1
+Puerto Rico,D,0,0,0.074798538,165,0
+Puerto Rico,D,0,1,1187.238277,165,0
+Puerto Rico,D,0,3,0.000280505,165,0
+Puerto Rico,D,0,4,13.27492954,165,0
+Puerto Rico,D,0,5,797.5139166,165,0
+Puerto Rico,D,0,6,0.000271044,165,0
+Puerto Rico,D,0,7,0.009106328,165,0
+Puerto Rico,D,1,0,33.57804981,165,0
+Puerto Rico,D,1,3,0.258099289,165,0
+Puerto Rico,D,1,4,0.17785183,165,0
+Puerto Rico,D,1,5,0.143613054,165,0
+Puerto Rico,D,1,6,0.169177216,165,0
+Puerto Rico,D,1,7,3.144780828,165,0
+Puerto Rico,D,3,0,0.203873038,165,0
+Puerto Rico,D,3,1,26.264945,165,0
+Puerto Rico,D,3,3,8.27035e-05,165,0
+Puerto Rico,D,3,4,8.40117e-05,165,0
+Puerto Rico,D,3,5,218.5452964,165,0
+Puerto Rico,D,3,6,7.99141e-05,165,0
+Puerto Rico,D,3,7,0.039144539,165,0
+"Korea, Democratic People's Republic of",D,0,0,31.20151673,109,0
+"Korea, Democratic People's Republic of",D,0,1,5116.446168,109,0
+"Korea, Democratic People's Republic of",D,0,3,0.513656701,109,0
+"Korea, Democratic People's Republic of",D,0,4,157.496427,109,0
+"Korea, Democratic People's Republic of",D,0,5,6294.533458,109,0
+"Korea, Democratic People's Republic of",D,0,6,6.113097626,109,0
+"Korea, Democratic People's Republic of",D,0,7,20.41777531,109,0
+"Korea, Democratic People's Republic of",D,1,0,193.2773985,109,0
+"Korea, Democratic People's Republic of",D,1,1,1.986946011,109,0
+"Korea, Democratic People's Republic of",D,1,3,145.6460962,109,0
+"Korea, Democratic People's Republic of",D,1,4,109.6257873,109,0
+"Korea, Democratic People's Republic of",D,1,5,1534.438168,109,0
+"Korea, Democratic People's Republic of",D,1,6,105.7049297,109,0
+"Korea, Democratic People's Republic of",D,1,7,284.5756565,109,0
+"Korea, Democratic People's Republic of",D,3,0,25.97590953,109,0
+"Korea, Democratic People's Republic of",D,3,1,172.0487587,109,0
+"Korea, Democratic People's Republic of",D,3,3,0.522053674,109,0
+"Korea, Democratic People's Republic of",D,3,4,45.50583526,109,0
+"Korea, Democratic People's Republic of",D,3,5,1277.904221,109,0
+"Korea, Democratic People's Republic of",D,3,6,0.489250667,109,0
+"Korea, Democratic People's Republic of",D,3,7,1.853222117,109,0
+Portugal,I,0,0,1.949464274,164,1
+Portugal,I,0,1,3113.421123,164,1
+Portugal,I,0,3,22.12324301,164,1
+Portugal,I,0,4,289.6285051,164,1
+Portugal,I,0,5,5089.357107,164,1
+Portugal,I,0,6,0.226917172,164,1
+Portugal,I,0,7,9.171872993,164,1
+Portugal,I,1,0,1160.705702,164,1
+Portugal,I,1,1,1.689356274,164,1
+Portugal,I,1,3,2930.328298,164,1
+Portugal,I,1,4,1107.195197,164,1
+Portugal,I,1,5,1934.73223,164,1
+Portugal,I,1,6,356.4687776,164,1
+Portugal,I,1,7,1431.17858,164,1
+Portugal,I,3,0,145.9338569,164,1
+Portugal,I,3,1,149.7266498,164,1
+Portugal,I,3,3,27.33438534,164,1
+Portugal,I,3,4,43.5531326,164,1
+Portugal,I,3,5,2771.61405,164,1
+Portugal,I,3,6,1.132585618,164,1
+Portugal,I,3,7,16.63588233,164,1
+Paraguay,D,0,0,50.3009952,160,0
+Paraguay,D,0,1,820.0189146,160,0
+Paraguay,D,0,3,0.032445573,160,0
+Paraguay,D,0,4,51.51136928,160,0
+Paraguay,D,0,5,16033.76854,160,0
+Paraguay,D,0,6,0.181255161,160,0
+Paraguay,D,0,7,1.591265076,160,0
+Paraguay,D,1,0,26.62649915,160,0
+Paraguay,D,1,1,0.081791839,160,0
+Paraguay,D,1,3,2.447304899,160,0
+Paraguay,D,1,7,368.4098519,160,0
+Paraguay,D,3,0,27.89386931,160,0
+Paraguay,D,3,1,49.702291,160,0
+Paraguay,D,3,4,13.70980942,160,0
+Paraguay,D,3,5,4611.315881,160,0
+Paraguay,D,3,6,0.023533351,160,0
+Paraguay,D,3,7,1.99175186,160,0
+French Polynesia,D,0,0,0.045870352,75,0
+French Polynesia,D,0,1,57.54611505,75,0
+French Polynesia,D,0,3,0.002289805,75,0
+French Polynesia,D,0,4,0.18639546,75,0
+French Polynesia,D,0,5,29.29845286,75,0
+French Polynesia,D,0,6,0.002212575,75,0
+French Polynesia,D,0,7,0.219276182,75,0
+French Polynesia,D,1,0,6.076820567,75,0
+French Polynesia,D,1,3,2.086915196,75,0
+French Polynesia,D,1,4,2.662489261,75,0
+French Polynesia,D,1,5,19.13236305,75,0
+French Polynesia,D,1,6,2.002263527,75,0
+French Polynesia,D,1,7,25.52763972,75,0
+French Polynesia,D,3,0,1.696501518,75,0
+French Polynesia,D,3,1,2.677931,75,0
+French Polynesia,D,3,3,0.004333819,75,0
+French Polynesia,D,3,4,0.675051231,75,0
+French Polynesia,D,3,5,12.94174098,75,0
+French Polynesia,D,3,6,0.004187648,75,0
+French Polynesia,D,3,7,0.222591698,75,0
+Qatar,D,0,0,95.15284334,166,0
+Qatar,D,0,1,226.3245411,166,0
+Qatar,D,0,3,117.9579433,166,0
+Qatar,D,0,4,155.4339648,166,0
+Qatar,D,0,5,450.9774777,166,0
+Qatar,D,0,6,38.62094113,166,0
+Qatar,D,0,7,946.4012401,166,0
+Qatar,D,1,0,266.9346978,166,0
+Qatar,D,1,1,0.002951193,166,0
+Qatar,D,1,3,207.5577198,166,0
+Qatar,D,1,4,176.3842515,166,0
+Qatar,D,1,5,1152.063336,166,0
+Qatar,D,1,6,76.91582408,166,0
+Qatar,D,1,7,536.3601745,166,0
+Qatar,D,3,0,17.11687367,166,0
+Qatar,D,3,1,4.900891794,166,0
+Qatar,D,3,3,0.173613365,166,0
+Qatar,D,3,4,2.446008835,166,0
+Qatar,D,3,5,80.19979924,166,0
+Qatar,D,3,6,0.043536601,166,0
+Qatar,D,3,7,2.944805863,166,0
+Reunion,D,0,0,0.639771264,169,0
+Reunion,D,0,1,85.508801,169,0
+Reunion,D,0,3,0.000850775,169,0
+Reunion,D,0,4,8.668406789,169,0
+Reunion,D,0,5,56.09108195,169,0
+Reunion,D,0,6,0.006616079,169,0
+Reunion,D,0,7,0.253631576,169,0
+Reunion,D,1,0,19.5137223,169,0
+Reunion,D,1,3,1.075781526,169,0
+Reunion,D,1,4,0.561752352,169,0
+Reunion,D,1,5,42.12333664,169,0
+Reunion,D,1,6,1.13819104,169,0
+Reunion,D,1,7,43.73207179,169,0
+Reunion,D,3,0,8.250246342,169,0
+Reunion,D,3,1,3.23406,169,0
+Reunion,D,3,3,0.001889639,169,0
+Reunion,D,3,4,1.482251902,169,0
+Reunion,D,3,5,50.13429461,169,0
+Reunion,D,3,6,0.002311727,169,0
+Reunion,D,3,7,0.35047011,169,0
+Romania,I,0,0,10.60304196,170,1
+Romania,I,0,1,1975.001409,170,1
+Romania,I,0,3,237.2654908,170,1
+Romania,I,0,4,578.5213951,170,1
+Romania,I,0,5,13294.53629,170,1
+Romania,I,0,6,16.53546615,170,1
+Romania,I,0,7,99.28049518,170,1
+Romania,I,1,0,744.1590369,170,1
+Romania,I,1,3,2910.198001,170,1
+Romania,I,1,4,3608.624471,170,1
+Romania,I,1,5,5510.664594,170,1
+Romania,I,1,6,306.4969021,170,1
+Romania,I,1,7,1004.977953,170,1
+Romania,I,3,0,123.5854846,170,1
+Romania,I,3,1,314.0389653,170,1
+Romania,I,3,3,5.43835226,170,1
+Romania,I,3,4,83.49956115,170,1
+Romania,I,3,5,8040.342173,170,1
+Romania,I,3,6,0.48590962,170,1
+Romania,I,3,7,19.98453703,170,1
+Russian Federation,I,0,0,458.162872,171,1
+Russian Federation,I,0,1,37794.68616,171,1
+Russian Federation,I,0,3,1243.553324,171,1
+Russian Federation,I,0,4,4482.607755,171,1
+Russian Federation,I,0,5,117178.4291,171,1
+Russian Federation,I,0,6,290.1781509,171,1
+Russian Federation,I,0,7,970.3851325,171,1
+Russian Federation,I,1,0,11851.51495,171,1
+Russian Federation,I,1,3,16879.03449,171,1
+Russian Federation,I,1,4,20360.0181,171,1
+Russian Federation,I,1,5,85404.69297,171,1
+Russian Federation,I,1,6,5332.009178,171,1
+Russian Federation,I,1,7,15569.09555,171,1
+Russian Federation,I,3,0,1454.16779,171,1
+Russian Federation,I,3,1,1739.01215,171,1
+Russian Federation,I,3,3,25.8635551,171,1
+Russian Federation,I,3,4,507.0766203,171,1
+Russian Federation,I,3,5,50877.24923,171,1
+Russian Federation,I,3,6,8.052536198,171,1
+Russian Federation,I,3,7,184.8537047,171,1
+Rwanda,D,0,0,71.64365909,172,0
+Rwanda,D,0,1,799.5307779,172,0
+Rwanda,D,0,3,0.000313152,172,0
+Rwanda,D,0,4,2.01777423,172,0
+Rwanda,D,0,5,555.0644971,172,0
+Rwanda,D,0,6,0.067631309,172,0
+Rwanda,D,0,7,0.048567162,172,0
+Rwanda,D,1,0,7.230249377,172,0
+Rwanda,D,1,3,0.569305622,172,0
+Rwanda,D,1,4,0.258443529,172,0
+Rwanda,D,1,5,15.14317844,172,0
+Rwanda,D,1,6,0.420622755,172,0
+Rwanda,D,1,7,10.80132644,172,0
+Rwanda,D,3,0,14.96336006,172,0
+Rwanda,D,3,1,31.6463,172,0
+Rwanda,D,3,3,0.000873137,172,0
+Rwanda,D,3,4,7.925204573,172,0
+Rwanda,D,3,5,314.6638743,172,0
+Rwanda,D,3,6,0.003942197,172,0
+Rwanda,D,3,7,0.070030607,172,0
+Saudi Arabia,D,0,0,223.9099685,180,0
+Saudi Arabia,D,0,1,7336.954083,180,0
+Saudi Arabia,D,0,3,673.1855127,180,0
+Saudi Arabia,D,0,4,731.4137407,180,0
+Saudi Arabia,D,0,5,3453.904842,180,0
+Saudi Arabia,D,0,6,110.6025063,180,0
+Saudi Arabia,D,0,7,2356.335865,180,0
+Saudi Arabia,D,1,0,2456.007018,180,0
+Saudi Arabia,D,1,3,874.3712492,180,0
+Saudi Arabia,D,1,4,1157.217382,180,0
+Saudi Arabia,D,1,5,3393.223248,180,0
+Saudi Arabia,D,1,6,1142.791287,180,0
+Saudi Arabia,D,1,7,8212.052869,180,0
+Saudi Arabia,D,3,0,429.9896846,180,0
+Saudi Arabia,D,3,1,204.340705,180,0
+Saudi Arabia,D,3,3,1.345425537,180,0
+Saudi Arabia,D,3,4,57.49421787,180,0
+Saudi Arabia,D,3,5,2128.327783,180,0
+Saudi Arabia,D,3,6,1.505765496,180,0
+Saudi Arabia,D,3,7,55.89757634,180,0
+Serbia and Montenegro,I,0,0,2.14448086,182,1
+Serbia and Montenegro,I,0,1,1178.141109,182,1
+Serbia and Montenegro,I,0,3,0.886627109,182,1
+Serbia and Montenegro,I,0,4,117.4176804,182,1
+Serbia and Montenegro,I,0,5,6581.78069,182,1
+Serbia and Montenegro,I,0,6,1.56251856,182,1
+Serbia and Montenegro,I,0,7,5.556729919,182,1
+Serbia and Montenegro,I,1,0,542.9322554,182,1
+Serbia and Montenegro,I,1,1,2.297445351,182,1
+Serbia and Montenegro,I,1,3,178.3059167,182,1
+Serbia and Montenegro,I,1,4,391.4495672,182,1
+Serbia and Montenegro,I,1,5,608.086463,182,1
+Serbia and Montenegro,I,1,6,23.24357815,182,1
+Serbia and Montenegro,I,1,7,282.5169783,182,1
+Serbia and Montenegro,I,3,0,18.72007665,182,1
+Serbia and Montenegro,I,3,1,125.2694514,182,1
+Serbia and Montenegro,I,3,3,0.610966956,182,1
+Serbia and Montenegro,I,3,4,33.14663477,182,1
+Serbia and Montenegro,I,3,5,2972.551241,182,1
+Serbia and Montenegro,I,3,6,0.079611591,182,1
+Serbia and Montenegro,I,3,7,1.978566437,182,1
+Sudan,D,0,0,110.010854,193,0
+Sudan,D,0,1,5430.995808,193,0
+Sudan,D,0,3,0.371255743,193,0
+Sudan,D,0,4,70.99444047,193,0
+Sudan,D,0,5,42307.39695,193,0
+Sudan,D,0,6,25.31038653,193,0
+Sudan,D,0,7,1.148410411,193,0
+Sudan,D,1,0,47.47294059,193,0
+Sudan,D,1,3,4.817044538,193,0
+Sudan,D,1,4,4.743548542,193,0
+Sudan,D,1,5,145.134193,193,0
+Sudan,D,1,6,4.205604045,193,0
+Sudan,D,1,7,251.2902875,193,0
+Sudan,D,3,0,62.7266372,193,0
+Sudan,D,3,3,0.006989891,193,0
+Sudan,D,3,4,76.49193545,193,0
+Sudan,D,3,5,15864.21849,193,0
+Sudan,D,3,6,3.057513138,193,0
+Sudan,D,3,7,1.084102319,193,0
+Senegal,D,0,0,19.20384556,181,0
+Senegal,D,0,1,1308.653181,181,0
+Senegal,D,0,3,0.523062923,181,0
+Senegal,D,0,4,13.33249546,181,0
+Senegal,D,0,5,4440.206198,181,0
+Senegal,D,0,6,0.263554313,181,0
+Senegal,D,0,7,0.371623059,181,0
+Senegal,D,1,0,37.9293399,181,0
+Senegal,D,1,3,4.211005175,181,0
+Senegal,D,1,4,34.49560196,181,0
+Senegal,D,1,5,138.4739142,181,0
+Senegal,D,1,6,7.039086141,181,0
+Senegal,D,1,7,57.623836,181,0
+Senegal,D,3,0,8.421319232,181,0
+Senegal,D,3,1,67.6015,181,0
+Senegal,D,3,3,0.014475533,181,0
+Senegal,D,3,4,17.0416383,181,0
+Senegal,D,3,5,1682.483594,181,0
+Senegal,D,3,6,0.028467458,181,0
+Senegal,D,3,7,0.328599093,181,0
+Singapore,D,0,0,1.159323166,185,0
+Singapore,D,0,1,786.7546064,185,0
+Singapore,D,0,3,6.676447209,185,0
+Singapore,D,0,4,26.21952077,185,0
+Singapore,D,0,5,21.31045247,185,0
+Singapore,D,0,6,1.504681539,185,0
+Singapore,D,0,7,13.05915888,185,0
+Singapore,D,1,0,235.3944763,185,0
+Singapore,D,1,1,8.701773682,185,0
+Singapore,D,1,3,284.6620562,185,0
+Singapore,D,1,4,347.5449416,185,0
+Singapore,D,1,5,348.601647,185,0
+Singapore,D,1,6,461.7236395,185,0
+Singapore,D,1,7,841.0423227,185,0
+Singapore,D,3,0,45.94981303,185,0
+Singapore,D,3,1,23.1939948,185,0
+Singapore,D,3,3,0.731295055,185,0
+Singapore,D,3,4,0.55229263,185,0
+Singapore,D,3,5,5.943088051,185,0
+Singapore,D,3,6,0.672889101,185,0
+Singapore,D,3,7,4.466335403,185,0
+Saint Helena,D,0,0,1.64316e-05,173,0
+Saint Helena,D,0,1,0.995261285,173,0
+Saint Helena,D,0,3,0.001936122,173,0
+Saint Helena,D,0,4,0.000304144,173,0
+Saint Helena,D,0,5,1.479291356,173,0
+Saint Helena,D,0,6,2.11049e-05,173,0
+Saint Helena,D,0,7,0.001322028,173,0
+Saint Helena,D,1,0,0.019473096,173,0
+Saint Helena,D,1,3,0.006289211,173,0
+Saint Helena,D,1,4,0.003282815,173,0
+Saint Helena,D,1,5,0.025158383,173,0
+Saint Helena,D,1,6,0.006603318,173,0
+Saint Helena,D,1,7,0.166664014,173,0
+Saint Helena,D,3,0,0.006661323,173,0
+Saint Helena,D,3,3,1.24305e-05,173,0
+Saint Helena,D,3,4,7.51788e-06,173,0
+Saint Helena,D,3,5,0.675482219,173,0
+Saint Helena,D,3,6,1.1782e-05,173,0
+Saint Helena,D,3,7,0.001436701,173,0
+Solomon Islands,D,0,0,1.205460906,188,0
+Solomon Islands,D,0,1,43.24840324,188,0
+Solomon Islands,D,0,3,0.000579566,188,0
+Solomon Islands,D,0,4,0.238043698,188,0
+Solomon Islands,D,0,5,46.86678247,188,0
+Solomon Islands,D,0,6,0.000560018,188,0
+Solomon Islands,D,0,7,0.052873331,188,0
+Solomon Islands,D,1,0,1.465227566,188,0
+Solomon Islands,D,1,3,0.507715598,188,0
+Solomon Islands,D,1,4,0.641973305,188,0
+Solomon Islands,D,1,5,4.61314874,188,0
+Solomon Islands,D,1,6,0.48278119,188,0
+Solomon Islands,D,1,7,6.155165723,188,0
+Solomon Islands,D,3,0,0.647643325,188,0
+Solomon Islands,D,3,1,2.64372215,188,0
+Solomon Islands,D,3,3,0.001079605,188,0
+Solomon Islands,D,3,4,0.662318374,188,0
+Solomon Islands,D,3,5,14.1266089,188,0
+Solomon Islands,D,3,6,0.001043192,188,0
+Solomon Islands,D,3,7,0.053673207,188,0
+Sierra Leone,D,0,0,64.17603061,184,0
+Sierra Leone,D,0,1,615.5818353,184,0
+Sierra Leone,D,0,3,0.000524826,184,0
+Sierra Leone,D,0,4,1.799054814,184,0
+Sierra Leone,D,0,5,1235.626085,184,0
+Sierra Leone,D,0,6,0.092022669,184,0
+Sierra Leone,D,0,7,0.172185611,184,0
+Sierra Leone,D,1,0,8.705564327,184,0
+Sierra Leone,D,1,3,0.560266847,184,0
+Sierra Leone,D,1,4,0.250611001,184,0
+Sierra Leone,D,1,5,18.54889615,184,0
+Sierra Leone,D,1,6,0.507773924,184,0
+Sierra Leone,D,1,7,22.51501922,184,0
+Sierra Leone,D,3,0,14.37620291,184,0
+Sierra Leone,D,3,1,24.135405,184,0
+Sierra Leone,D,3,3,0.00099342,184,0
+Sierra Leone,D,3,4,6.091003674,184,0
+Sierra Leone,D,3,5,275.8529661,184,0
+Sierra Leone,D,3,6,0.005401404,184,0
+Sierra Leone,D,3,7,0.234207315,184,0
+El Salvador,D,0,0,48.33871271,62,0
+El Salvador,D,0,1,1404.518741,62,0
+El Salvador,D,0,3,0.083585075,62,0
+El Salvador,D,0,4,31.08380372,62,0
+El Salvador,D,0,5,1964.331165,62,0
+El Salvador,D,0,6,0.691098837,62,0
+El Salvador,D,0,7,1.636225862,62,0
+El Salvador,D,1,0,66.34877897,62,0
+El Salvador,D,1,3,17.81032346,62,0
+El Salvador,D,1,4,16.57248641,62,0
+El Salvador,D,1,5,157.6495228,62,0
+El Salvador,D,1,6,22.52355217,62,0
+El Salvador,D,1,7,267.2009376,62,0
+El Salvador,D,3,0,38.49569091,62,0
+El Salvador,D,3,1,47.37608785,62,0
+El Salvador,D,3,3,0.031339085,62,0
+El Salvador,D,3,4,15.31429638,62,0
+El Salvador,D,3,5,849.4388074,62,0
+El Salvador,D,3,6,0.128490977,62,0
+El Salvador,D,3,7,1.714833531,62,0
+Somalia,D,0,0,104.9086062,189,0
+Somalia,D,0,1,1337.94558,189,0
+Somalia,D,0,3,0.000147166,189,0
+Somalia,D,0,4,12.8365189,189,0
+Somalia,D,0,5,16962.53624,189,0
+Somalia,D,0,6,0.210792517,189,0
+Somalia,D,0,7,0.075149841,189,0
+Somalia,D,1,0,5.783506988,189,0
+Somalia,D,1,3,0.454939381,189,0
+Somalia,D,1,4,0.166492669,189,0
+Somalia,D,1,5,12.11683531,189,0
+Somalia,D,1,6,0.337338088,189,0
+Somalia,D,1,7,12.96136286,189,0
+Somalia,D,3,0,22.13647523,189,0
+Somalia,D,3,1,36.474865,189,0
+Somalia,D,3,3,0.00045136,189,0
+Somalia,D,3,4,0.144008548,189,0
+Somalia,D,3,5,4585.31853,189,0
+Somalia,D,3,6,0.010455266,189,0
+Somalia,D,3,7,0.103850338,189,0
+Saint Pierre and Miquelon,I,0,0,0.000584829,176,1
+Saint Pierre and Miquelon,I,0,1,3.214630397,176,1
+Saint Pierre and Miquelon,I,0,3,0.000404458,176,1
+Saint Pierre and Miquelon,I,0,4,0.000656361,176,1
+Saint Pierre and Miquelon,I,0,5,0.017894893,176,1
+Saint Pierre and Miquelon,I,0,6,0.000390816,176,1
+Saint Pierre and Miquelon,I,0,7,0.004786085,176,1
+Saint Pierre and Miquelon,I,1,0,0.493562677,176,1
+Saint Pierre and Miquelon,I,1,1,0.005792966,176,1
+Saint Pierre and Miquelon,I,1,3,0.37909869,176,1
+Saint Pierre and Miquelon,I,1,4,0.339151215,176,1
+Saint Pierre and Miquelon,I,1,5,1.308576646,176,1
+Saint Pierre and Miquelon,I,1,6,0.366175472,176,1
+Saint Pierre and Miquelon,I,1,7,1.552766463,176,1
+Saint Pierre and Miquelon,I,3,0,0.175708312,176,1
+Saint Pierre and Miquelon,I,3,1,0.000478748,176,1
+Saint Pierre and Miquelon,I,3,3,0.000778903,176,1
+Saint Pierre and Miquelon,I,3,4,0.000697087,176,1
+Saint Pierre and Miquelon,I,3,5,0.096292759,176,1
+Saint Pierre and Miquelon,I,3,6,0.000752632,176,1
+Saint Pierre and Miquelon,I,3,7,0.052096967,176,1
+Sao Tome and Principe,D,0,0,1.232724576,179,0
+Sao Tome and Principe,D,0,1,20.15947265,179,0
+Sao Tome and Principe,D,0,3,3.54514e-05,179,0
+Sao Tome and Principe,D,0,4,0.048529357,179,0
+Sao Tome and Principe,D,0,5,5.927548338,179,0
+Sao Tome and Principe,D,0,6,0.002655046,179,0
+Sao Tome and Principe,D,0,7,0.013812304,179,0
+Sao Tome and Principe,D,1,0,0.813129346,179,0
+Sao Tome and Principe,D,1,3,0.046713941,179,0
+Sao Tome and Principe,D,1,4,0.023407969,179,0
+Sao Tome and Principe,D,1,5,1.703562135,179,0
+Sao Tome and Principe,D,1,6,0.047427911,179,0
+Sao Tome and Principe,D,1,7,1.673054882,179,0
+Sao Tome and Principe,D,3,0,0.3462202,179,0
+Sao Tome and Principe,D,3,1,0.84092715,179,0
+Sao Tome and Principe,D,3,3,7.87403e-05,179,0
+Sao Tome and Principe,D,3,4,0.210273389,179,0
+Sao Tome and Principe,D,3,5,3.312521285,179,0
+Sao Tome and Principe,D,3,6,0.000208923,179,0
+Sao Tome and Principe,D,3,7,0.019008654,179,0
+Suriname,D,0,0,0.793388423,194,0
+Suriname,D,0,1,166.9752107,194,0
+Suriname,D,0,3,1.319415245,194,0
+Suriname,D,0,4,2.844613836,194,0
+Suriname,D,0,5,749.3696205,194,0
+Suriname,D,0,6,0.136499708,194,0
+Suriname,D,0,7,1.847582115,194,0
+Suriname,D,1,0,16.86376154,194,0
+Suriname,D,1,1,0.060077265,194,0
+Suriname,D,1,3,11.83549974,194,0
+Suriname,D,1,4,7.265523281,194,0
+Suriname,D,1,5,23.63872014,194,0
+Suriname,D,1,6,3.582612236,194,0
+Suriname,D,1,7,21.00325514,194,0
+Suriname,D,3,0,4.166046138,194,0
+Suriname,D,3,1,3.529904245,194,0
+Suriname,D,3,3,0.015082495,194,0
+Suriname,D,3,4,1.04841603,194,0
+Suriname,D,3,5,86.69546571,194,0
+Suriname,D,3,6,0.007527966,194,0
+Suriname,D,3,7,0.181606382,194,0
+Slovakia,I,0,0,2.82153529,186,1
+Slovakia,I,0,1,1257.001988,186,1
+Slovakia,I,0,3,47.97857377,186,1
+Slovakia,I,0,4,153.7890622,186,1
+Slovakia,I,0,5,2976.289214,186,1
+Slovakia,I,0,6,35.35542193,186,1
+Slovakia,I,0,7,44.89412707,186,1
+Slovakia,I,1,0,196.3713595,186,1
+Slovakia,I,1,3,1834.469039,186,1
+Slovakia,I,1,4,782.4856071,186,1
+Slovakia,I,1,5,1134.926546,186,1
+Slovakia,I,1,6,690.4809179,186,1
+Slovakia,I,1,7,441.6295421,186,1
+Slovakia,I,3,0,45.8081406,186,1
+Slovakia,I,3,1,57.92108018,186,1
+Slovakia,I,3,3,8.486115439,186,1
+Slovakia,I,3,4,19.09781621,186,1
+Slovakia,I,3,5,1783.643382,186,1
+Slovakia,I,3,6,4.114191965,186,1
+Slovakia,I,3,7,4.412283806,186,1
+Slovenia,I,0,0,0.553336442,187,1
+Slovenia,I,0,1,392.5299432,187,1
+Slovenia,I,0,3,19.11336482,187,1
+Slovenia,I,0,4,137.322984,187,1
+Slovenia,I,0,5,1507.99412,187,1
+Slovenia,I,0,6,4.223975735,187,1
+Slovenia,I,0,7,4.112942295,187,1
+Slovenia,I,1,0,101.4569054,187,1
+Slovenia,I,1,1,0.134993159,187,1
+Slovenia,I,1,3,309.1784336,187,1
+Slovenia,I,1,4,176.6243,187,1
+Slovenia,I,1,5,100.503048,187,1
+Slovenia,I,1,6,115.855109,187,1
+Slovenia,I,1,7,403.8125169,187,1
+Slovenia,I,3,0,20.81824439,187,1
+Slovenia,I,3,1,28.62510835,187,1
+Slovenia,I,3,3,0.729736768,187,1
+Slovenia,I,3,4,6.931904007,187,1
+Slovenia,I,3,5,558.3952456,187,1
+Slovenia,I,3,6,0.275131469,187,1
+Slovenia,I,3,7,4.461870846,187,1
+Sweden,I,0,0,2.136055007,196,1
+Sweden,I,0,1,2394.69658,196,1
+Sweden,I,0,3,51.49406916,196,1
+Sweden,I,0,4,1616.645636,196,1
+Sweden,I,0,5,4733.298518,196,1
+Sweden,I,0,6,1.679164409,196,1
+Sweden,I,0,7,21.60815438,196,1
+Sweden,I,1,0,206.6283415,196,1
+Sweden,I,1,1,35.0815,196,1
+Sweden,I,1,3,2252.547681,196,1
+Sweden,I,1,4,903.942945,196,1
+Sweden,I,1,5,1470.099408,196,1
+Sweden,I,1,6,152.2367501,196,1
+Sweden,I,1,7,2135.157182,196,1
+Sweden,I,3,0,188.5407651,196,1
+Sweden,I,3,1,123.45608,196,1
+Sweden,I,3,3,60.36344965,196,1
+Sweden,I,3,4,33.79779101,196,1
+Sweden,I,3,5,4033.015388,196,1
+Sweden,I,3,6,4.378315317,196,1
+Sweden,I,3,7,27.02037166,196,1
+Swaziland,D,0,0,9.443716714,195,0
+Swaziland,D,0,1,142.311477,195,0
+Swaziland,D,0,3,1.216955487,195,0
+Swaziland,D,0,4,143.090348,195,0
+Swaziland,D,0,5,915.6296761,195,0
+Swaziland,D,0,6,0.018856222,195,0
+Swaziland,D,0,7,0.145435001,195,0
+Swaziland,D,1,0,9.851301504,195,0
+Swaziland,D,1,3,0.757521421,195,0
+Swaziland,D,1,4,0.376804736,195,0
+Swaziland,D,1,5,12.72798929,195,0
+Swaziland,D,1,6,0.756123366,195,0
+Swaziland,D,1,7,16.34671033,195,0
+Swaziland,D,3,0,2.879366702,195,0
+Swaziland,D,3,1,7.4768955,195,0
+Swaziland,D,3,3,0.067104372,195,0
+Swaziland,D,3,4,1.870303584,195,0
+Swaziland,D,3,5,380.3354871,195,0
+Swaziland,D,3,6,0.002662279,195,0
+Swaziland,D,3,7,0.149851993,195,0
+Seychelles,D,0,0,0.09231805,183,0
+Seychelles,D,0,1,37.57678352,183,0
+Seychelles,D,0,3,0.000229638,183,0
+Seychelles,D,0,4,0.175367569,183,0
+Seychelles,D,0,5,5.509163709,183,0
+Seychelles,D,0,6,0.000248172,183,0
+Seychelles,D,0,7,0.10966221,183,0
+Seychelles,D,1,0,5.267080964,183,0
+Seychelles,D,1,3,0.285998222,183,0
+Seychelles,D,1,4,0.151625968,183,0
+Seychelles,D,1,5,11.03491944,183,0
+Seychelles,D,1,6,0.307216014,183,0
+Seychelles,D,1,7,13.19340942,183,0
+Seychelles,D,3,0,0.769052622,183,0
+Seychelles,D,3,1,0.35281305,183,0
+Seychelles,D,3,3,0.000510044,183,0
+Seychelles,D,3,4,0.190142959,183,0
+Seychelles,D,3,5,6.075736751,183,0
+Seychelles,D,3,6,0.00055121,183,0
+Seychelles,D,3,7,0.149635633,183,0
+Syrian Arab Republic,D,0,0,415.8697345,198,0
+Syrian Arab Republic,D,0,1,2684.7422,198,0
+Syrian Arab Republic,D,0,3,310.4386837,198,0
+Syrian Arab Republic,D,0,4,378.6141738,198,0
+Syrian Arab Republic,D,0,5,4182.718959,198,0
+Syrian Arab Republic,D,0,6,111.0735104,198,0
+Syrian Arab Republic,D,0,7,901.7017521,198,0
+Syrian Arab Republic,D,1,0,691.8956113,198,0
+Syrian Arab Republic,D,1,3,163.5900893,198,0
+Syrian Arab Republic,D,1,4,207.7219972,198,0
+Syrian Arab Republic,D,1,5,1898.563423,198,0
+Syrian Arab Republic,D,1,6,155.9160752,198,0
+Syrian Arab Republic,D,1,7,1149.023885,198,0
+Syrian Arab Republic,D,3,0,54.60305813,198,0
+Syrian Arab Republic,D,3,1,132.228375,198,0
+Syrian Arab Republic,D,3,3,0.397348512,198,0
+Syrian Arab Republic,D,3,4,34.73911646,198,0
+Syrian Arab Republic,D,3,5,3109.915578,198,0
+Syrian Arab Republic,D,3,6,0.342766215,198,0
+Syrian Arab Republic,D,3,7,6.684287342,198,0
+Turks and Caicos Islands,D,0,0,0.000653104,211,0
+Turks and Caicos Islands,D,0,1,5.984200776,211,0
+Turks and Caicos Islands,D,0,3,2.13106e-05,211,0
+Turks and Caicos Islands,D,0,4,2.16477e-05,211,0
+Turks and Caicos Islands,D,0,5,0.000341302,211,0
+Turks and Caicos Islands,D,0,6,2.05919e-05,211,0
+Turks and Caicos Islands,D,0,7,0.001145444,211,0
+Turks and Caicos Islands,D,1,3,0.0655968,211,0
+Turks and Caicos Islands,D,3,0,0.009820716,211,0
+Turks and Caicos Islands,D,3,3,7.74824e-05,211,0
+Turks and Caicos Islands,D,3,4,7.8708e-05,211,0
+Turks and Caicos Islands,D,3,5,0.012689221,211,0
+Turks and Caicos Islands,D,3,6,7.48691e-05,211,0
+Turks and Caicos Islands,D,3,7,0.001654149,211,0
+Chad,D,0,0,72.33031115,38,0
+Chad,D,0,1,1040.590776,38,0
+Chad,D,0,3,7.7621e-05,38,0
+Chad,D,0,4,9.236345402,38,0
+Chad,D,0,5,13992.0856,38,0
+Chad,D,0,6,0.110062994,38,0
+Chad,D,0,7,0.030637683,38,0
+Chad,D,1,0,1.85310045,38,0
+Chad,D,1,3,1.44835867,38,0
+Chad,D,1,4,0.130160596,38,0
+Chad,D,1,5,5.115809157,38,0
+Chad,D,1,6,0.10640824,38,0
+Chad,D,1,7,5.287528365,38,0
+Chad,D,3,0,16.39804132,38,0
+Chad,D,3,1,52.46417,38,0
+Chad,D,3,3,0.000441646,38,0
+Chad,D,3,4,13.54331446,38,0
+Chad,D,3,5,4563.075344,38,0
+Chad,D,3,6,0.005399988,38,0
+Chad,D,3,7,0.043992387,38,0
+Togo,D,0,0,21.62304862,204,0
+Togo,D,0,1,677.8601684,204,0
+Togo,D,0,3,0.033765975,204,0
+Togo,D,0,4,2.140675787,204,0
+Togo,D,0,5,597.7999909,204,0
+Togo,D,0,6,4.903397836,204,0
+Togo,D,0,7,0.181242644,204,0
+Togo,D,1,0,9.752717738,204,0
+Togo,D,1,1,0.028104874,204,0
+Togo,D,1,3,31.14141299,204,0
+Togo,D,1,4,0.154783055,204,0
+Togo,D,1,5,2.69279869,204,0
+Togo,D,1,6,0.976323884,204,0
+Togo,D,1,7,29.26201945,204,0
+Togo,D,3,0,6.657909678,204,0
+Togo,D,3,1,29.24725094,204,0
+Togo,D,3,3,0.063920033,204,0
+Togo,D,3,4,7.379108226,204,0
+Togo,D,3,5,265.5709311,204,0
+Togo,D,3,6,0.590128482,204,0
+Togo,D,3,7,0.240766726,204,0
+Thailand,D,0,0,157.3465276,202,0
+Thailand,D,0,1,12011.04854,202,0
+Thailand,D,0,3,111.4089295,202,0
+Thailand,D,0,4,732.1007465,202,0
+Thailand,D,0,5,78671.63021,202,0
+Thailand,D,0,6,4.27859325,202,0
+Thailand,D,0,7,84.26651363,202,0
+Thailand,D,1,0,822.8087804,202,0
+Thailand,D,1,1,3.364458403,202,0
+Thailand,D,1,3,7389.251727,202,0
+Thailand,D,1,4,3859.388864,202,0
+Thailand,D,1,5,6170.021208,202,0
+Thailand,D,1,6,989.7919478,202,0
+Thailand,D,1,7,4915.854826,202,0
+Thailand,D,3,0,485.8144046,202,0
+Thailand,D,3,1,468.4938357,202,0
+Thailand,D,3,3,24.36724538,202,0
+Thailand,D,3,4,280.0806951,202,0
+Thailand,D,3,5,12451.98473,202,0
+Thailand,D,3,6,1.559343967,202,0
+Thailand,D,3,7,26.49060077,202,0
+Tajikistan,I,0,0,1.11870715,200,1
+Tajikistan,I,0,1,759.4562976,200,1
+Tajikistan,I,0,3,3.231352139,200,1
+Tajikistan,I,0,4,5.877805212,200,1
+Tajikistan,I,0,5,3236.962388,200,1
+Tajikistan,I,0,6,1.1972459,200,1
+Tajikistan,I,0,7,0.067247724,200,1
+Tajikistan,I,1,0,4.825001456,200,1
+Tajikistan,I,1,3,53.4439661,200,1
+Tajikistan,I,1,4,2.039940262,200,1
+Tajikistan,I,1,5,164.7184974,200,1
+Tajikistan,I,1,6,0.653336493,200,1
+Tajikistan,I,1,7,3.241330522,200,1
+Tajikistan,I,3,0,0.627017384,200,1
+Tajikistan,I,3,1,37.15088,200,1
+Tajikistan,I,3,3,0.006717689,200,1
+Tajikistan,I,3,4,9.42413434,200,1
+Tajikistan,I,3,5,974.5766181,200,1
+Tajikistan,I,3,6,0.000309165,200,1
+Tajikistan,I,3,7,0.012448574,200,1
+Tokelau,D,0,1,0.18139408,205,0
+Tokelau,D,0,4,0.001969968,205,0
+Tokelau,D,0,5,0.120106462,205,0
+Tokelau,D,3,5,0.114596998,205,0
+Turkmenistan,I,0,0,109.9784305,210,1
+Turkmenistan,I,0,1,763.251916,210,1
+Turkmenistan,I,0,3,285.0653523,210,1
+Turkmenistan,I,0,4,283.7468968,210,1
+Turkmenistan,I,0,5,4733.380375,210,1
+Turkmenistan,I,0,6,1059.686404,210,1
+Turkmenistan,I,0,7,92.44702548,210,1
+Turkmenistan,I,1,0,100.0856932,210,1
+Turkmenistan,I,1,3,170.3777572,210,1
+Turkmenistan,I,1,4,157.3142549,210,1
+Turkmenistan,I,1,5,417.3685388,210,1
+Turkmenistan,I,1,6,2273.278606,210,1
+Turkmenistan,I,1,7,283.0842981,210,1
+Turkmenistan,I,3,0,20.39866071,210,1
+Turkmenistan,I,3,1,41.467995,210,1
+Turkmenistan,I,3,3,0.110153362,210,1
+Turkmenistan,I,3,4,10.6815968,210,1
+Turkmenistan,I,3,5,1702.698569,210,1
+Turkmenistan,I,3,6,1.076554032,210,1
+Turkmenistan,I,3,7,1.47931227,210,1
+Timor-Leste,D,0,0,1.760102128,203,0
+Timor-Leste,D,0,1,120.7841573,203,0
+Timor-Leste,D,0,3,0.000153222,203,0
+Timor-Leste,D,0,4,2.055168059,203,0
+Timor-Leste,D,0,5,497.6524585,203,0
+Timor-Leste,D,0,6,0.000217293,203,0
+Timor-Leste,D,0,7,0.023699602,203,0
+Timor-Leste,D,1,0,1.154024257,203,0
+Timor-Leste,D,1,1,0.049202295,203,0
+Timor-Leste,D,1,3,0.194104288,203,0
+Timor-Leste,D,1,4,0.238318785,203,0
+Timor-Leste,D,1,5,6.615744938,203,0
+Timor-Leste,D,1,6,0.247942308,203,0
+Timor-Leste,D,1,7,4.21153435,203,0
+Timor-Leste,D,3,0,0.694260757,203,0
+Timor-Leste,D,3,1,6.082583829,203,0
+Timor-Leste,D,3,3,0.00032396,203,0
+Timor-Leste,D,3,4,1.518841243,203,0
+Timor-Leste,D,3,5,137.4029863,203,0
+Timor-Leste,D,3,6,0.000459425,203,0
+Timor-Leste,D,3,7,0.02483911,203,0
+Tonga,D,0,0,0.020907054,206,0
+Tonga,D,0,1,20.81599604,206,0
+Tonga,D,0,3,0.000262805,206,0
+Tonga,D,0,4,0.170739991,206,0
+Tonga,D,0,5,53.03885384,206,0
+Tonga,D,0,6,0.000253941,206,0
+Tonga,D,0,7,0.034917103,206,0
+Tonga,D,1,0,0.967863032,206,0
+Tonga,D,1,3,0.332191772,206,0
+Tonga,D,1,4,0.42405782,206,0
+Tonga,D,1,5,3.047237812,206,0
+Tonga,D,1,6,0.318902885,206,0
+Tonga,D,1,7,4.065819385,206,0
+Tonga,D,3,0,0.235815507,206,0
+Tonga,D,3,3,0.000578182,206,0
+Tonga,D,3,4,0.0007429,206,0
+Tonga,D,3,5,18.27758115,206,0
+Tonga,D,3,6,0.000558681,206,0
+Tonga,D,3,7,0.035444393,206,0
+Trinidad and Tobago,D,0,0,20.83606046,207,0
+Trinidad and Tobago,D,0,1,1123.519412,207,0
+Trinidad and Tobago,D,0,3,63.71333509,207,0
+Trinidad and Tobago,D,0,4,63.00226031,207,0
+Trinidad and Tobago,D,0,5,128.8435779,207,0
+Trinidad and Tobago,D,0,6,25.52111745,207,0
+Trinidad and Tobago,D,0,7,65.98530936,207,0
+Trinidad and Tobago,D,1,0,67.54522234,207,0
+Trinidad and Tobago,D,1,3,203.1447531,207,0
+Trinidad and Tobago,D,1,4,79.39016666,207,0
+Trinidad and Tobago,D,1,5,3215.918599,207,0
+Trinidad and Tobago,D,1,6,45.67863408,207,0
+Trinidad and Tobago,D,1,7,159.21804,207,0
+Trinidad and Tobago,D,3,0,6.606770887,207,0
+Trinidad and Tobago,D,3,1,9.9076345,207,0
+Trinidad and Tobago,D,3,3,0.118159257,207,0
+Trinidad and Tobago,D,3,4,8.466247535,207,0
+Trinidad and Tobago,D,3,5,78.03296794,207,0
+Trinidad and Tobago,D,3,6,0.032286196,207,0
+Trinidad and Tobago,D,3,7,1.160469942,207,0
+Tunisia,D,0,0,61.53948013,208,0
+Tunisia,D,0,1,2209.311031,208,0
+Tunisia,D,0,3,1.491401947,208,0
+Tunisia,D,0,4,40.79284552,208,0
+Tunisia,D,0,5,2650.92448,208,0
+Tunisia,D,0,6,20.53550707,208,0
+Tunisia,D,0,7,72.56254002,208,0
+Tunisia,D,1,0,271.3384704,208,0
+Tunisia,D,1,3,157.279116,208,0
+Tunisia,D,1,4,92.05731577,208,0
+Tunisia,D,1,5,1137.778639,208,0
+Tunisia,D,1,6,153.3568408,208,0
+Tunisia,D,1,7,406.972369,208,0
+Tunisia,D,3,0,25.63400017,208,0
+Tunisia,D,3,1,106.09646,208,0
+Tunisia,D,3,3,0.091056685,208,0
+Tunisia,D,3,4,26.63755324,208,0
+Tunisia,D,3,5,1380.622536,208,0
+Tunisia,D,3,6,0.23766737,208,0
+Tunisia,D,3,7,2.12296813,208,0
+Turkey,I,0,0,16.39539128,209,1
+Turkey,I,0,1,7597.760933,209,1
+Turkey,I,0,3,97.91957058,209,1
+Turkey,I,0,4,564.505548,209,1
+Turkey,I,0,5,31891.62337,209,1
+Turkey,I,0,6,2.801628074,209,1
+Turkey,I,0,7,41.53756599,209,1
+Turkey,I,1,0,735.1748878,209,1
+Turkey,I,1,1,17.49016584,209,1
+Turkey,I,1,3,4270.434499,209,1
+Turkey,I,1,4,2883.42164,209,1
+Turkey,I,1,5,9453.863287,209,1
+Turkey,I,1,6,487.0626692,209,1
+Turkey,I,1,7,4123.333955,209,1
+Turkey,I,3,0,258.530593,209,1
+Turkey,I,3,1,842.3278295,209,1
+Turkey,I,3,3,12.89708556,209,1
+Turkey,I,3,4,217.8229396,209,1
+Turkey,I,3,5,17154.56453,209,1
+Turkey,I,3,6,1.482493449,209,1
+Turkey,I,3,7,35.97488306,209,1
+Tuvalu,D,0,1,2.3031295,212,0
+Tuvalu,D,0,4,0.009931939,212,0
+Tuvalu,D,0,5,1.42315208,212,0
+Tuvalu,D,3,5,1.002141782,212,0
+Taiwan_Province of China,D,0,0,8.979428619,199,0
+Taiwan_Province of China,D,0,1,5138.875407,199,0
+Taiwan_Province of China,D,0,3,40.80405152,199,0
+Taiwan_Province of China,D,0,4,458.6090741,199,0
+Taiwan_Province of China,D,0,5,4721.905157,199,0
+Taiwan_Province of China,D,0,6,3.439517421,199,0
+Taiwan_Province of China,D,0,7,24.85205066,199,0
+Taiwan_Province of China,D,1,0,1371.745651,199,0
+Taiwan_Province of China,D,1,1,22.8141488,199,0
+Taiwan_Province of China,D,1,3,7164.097214,199,0
+Taiwan_Province of China,D,1,4,2203.547475,199,0
+Taiwan_Province of China,D,1,5,4473.315175,199,0
+Taiwan_Province of China,D,1,6,701.6088058,199,0
+Taiwan_Province of China,D,1,7,2585.779791,199,0
+Taiwan_Province of China,D,3,0,273.4743423,199,0
+Taiwan_Province of China,D,3,1,272.3881852,199,0
+Taiwan_Province of China,D,3,3,20.87911977,199,0
+Taiwan_Province of China,D,3,4,5.886361922,199,0
+Taiwan_Province of China,D,3,5,2811.769941,199,0
+Taiwan_Province of China,D,3,6,1.721870951,199,0
+Taiwan_Province of China,D,3,7,20.22454476,199,0
+Tanzania_United Republic of,D,0,0,346.174054,201,0
+Tanzania_United Republic of,D,0,1,4141.438056,201,0
+Tanzania_United Republic of,D,0,3,0.07293975,201,0
+Tanzania_United Republic of,D,0,4,65.25363952,201,0
+Tanzania_United Republic of,D,0,5,17992.80348,201,0
+Uganda,D,1,4,0.293023244,213,0
+Tanzania_United Republic of,D,0,6,0.021812438,201,0
+Tanzania_United Republic of,D,0,7,0.456003691,201,0
+Tanzania_United Republic of,D,1,0,82.41907955,201,0
+Tanzania_United Republic of,D,1,3,4.889797083,201,0
+Tanzania_United Republic of,D,1,4,2.34675736,201,0
+Tanzania_United Republic of,D,1,5,155.6142095,201,0
+Tanzania_United Republic of,D,1,6,6.548645953,201,0
+Tanzania_United Republic of,D,1,7,79.81392063,201,0
+Tanzania_United Republic of,D,3,0,92.12676083,201,0
+Tanzania_United Republic of,D,3,1,212.06413,201,0
+Tanzania_United Republic of,D,3,3,0.006504094,201,0
+Tanzania_United Republic of,D,3,4,54.58338191,201,0
+Tanzania_United Republic of,D,3,5,7137.960226,201,0
+Tanzania_United Republic of,D,3,6,0.015120986,201,0
+Tanzania_United Republic of,D,3,7,0.353507144,201,0
+Uganda,D,0,0,130.9086117,213,0
+Uganda,D,0,1,2779.378873,213,0
+Uganda,D,0,3,0.000443785,213,0
+Uganda,D,0,4,22.76000031,213,0
+Uganda,D,0,5,6856.590523,213,0
+Uganda,D,0,6,0.078057776,213,0
+Uganda,D,0,7,0.181318026,213,0
+Uganda,D,1,0,4.099999896,213,0
+Uganda,D,1,3,1.056464654,213,0
+Uganda,D,1,5,21.63553469,213,0
+Uganda,D,1,6,0.593707226,213,0
+Uganda,D,1,7,32.36830373,213,0
+Uganda,D,3,0,31.91566161,213,0
+Uganda,D,3,1,122.911505,213,0
+Uganda,D,3,3,0.00098568,213,0
+Uganda,D,3,4,31.80903755,213,0
+Uganda,D,3,5,3271.203511,213,0
+Uganda,D,3,6,0.004736345,213,0
+Uganda,D,3,7,0.251118326,213,0
+Ukraine,I,0,0,74.90508883,214,1
+Ukraine,I,0,1,6575.623257,214,1
+Ukraine,I,0,3,62.72333012,214,1
+Ukraine,I,0,4,550.4185532,214,1
+Ukraine,I,0,5,48654.74742,214,1
+Ukraine,I,0,6,34.6920078,214,1
+Ukraine,I,0,7,43.12499577,214,1
+Ukraine,I,1,0,2850.459658,214,1
+Ukraine,I,1,1,9.121117788,214,1
+Ukraine,I,1,3,1872.211433,214,1
+Ukraine,I,1,4,4903.732216,214,1
+Ukraine,I,1,5,17329.44229,214,1
+Ukraine,I,1,6,1096.904873,214,1
+Ukraine,I,1,7,3048.383015,214,1
+Ukraine,I,3,0,258.3632905,214,1
+Ukraine,I,3,1,559.5390232,214,1
+Ukraine,I,3,3,2.873274762,214,1
+Ukraine,I,3,4,156.9468757,214,1
+Ukraine,I,3,5,20326.82111,214,1
+Ukraine,I,3,6,2.059298575,214,1
+Ukraine,I,3,7,32.04244562,214,1
+Uruguay,D,0,0,15.24803204,221,0
+Uruguay,D,0,1,546.3570114,221,0
+Uruguay,D,0,3,0.341679283,221,0
+Uruguay,D,0,4,69.84117535,221,0
+Uruguay,D,0,5,23549.20586,221,0
+Uruguay,D,0,6,0.268160006,221,0
+Uruguay,D,0,7,2.157029842,221,0
+Uruguay,D,1,0,75.39290089,221,0
+Uruguay,D,1,1,0.538261101,221,0
+Uruguay,D,1,3,12.75596383,221,0
+Uruguay,D,1,4,17.82477411,221,0
+Uruguay,D,1,5,617.5595744,221,0
+Uruguay,D,1,6,23.0265049,221,0
+Uruguay,D,1,7,297.2663189,221,0
+Uruguay,D,3,0,16.47558345,221,0
+Uruguay,D,3,1,38.06369122,221,0
+Uruguay,D,3,3,0.22572968,221,0
+Uruguay,D,3,4,9.768921267,221,0
+Uruguay,D,3,5,5845.50227,221,0
+Uruguay,D,3,6,0.068603076,221,0
+Uruguay,D,3,7,1.692712517,221,0
+United States,I,0,0,1606.881441,219,1
+United States,I,0,1,117144.1842,219,1
+United States,I,0,3,6129.32038,219,1
+United States,I,0,4,9993.835038,219,1
+United States,I,0,5,250161.912,219,1
+United States,I,0,6,5308.801789,219,1
+United States,I,0,7,3263.44007,219,1
+United States,I,1,0,42465.03038,219,1
+United States,I,1,3,88778.64053,219,1
+United States,I,1,4,68718.76231,219,1
+United States,I,1,5,81112.55354,219,1
+United States,I,1,6,94750.57003,219,1
+United States,I,1,7,162915.5074,219,1
+United States,I,3,0,6432.691894,219,1
+United States,I,3,1,5227.0031,219,1
+United States,I,3,3,389.7514393,219,1
+United States,I,3,4,1417.514658,219,1
+United States,I,3,5,161153.5971,219,1
+United States,I,3,6,385.5712516,219,1
+United States,I,3,7,5611.392425,219,1
+Uzbekistan,I,0,0,155.8368264,222,1
+Uzbekistan,I,0,1,3655.066464,222,1
+Uzbekistan,I,0,3,373.9050424,222,1
+Uzbekistan,I,0,4,485.3622611,222,1
+Uzbekistan,I,0,5,17391.43572,222,1
+Uzbekistan,I,0,6,223.4133253,222,1
+Uzbekistan,I,0,7,134.5024905,222,1
+Uzbekistan,I,1,0,924.6868941,222,1
+Uzbekistan,I,1,3,405.4349409,222,1
+Uzbekistan,I,1,4,431.3341219,222,1
+Uzbekistan,I,1,5,6535.595843,222,1
+Uzbekistan,I,1,6,1002.272967,222,1
+Uzbekistan,I,1,7,338.71902,222,1
+Uzbekistan,I,3,0,50.04869063,222,1
+Uzbekistan,I,3,1,227.677665,222,1
+Uzbekistan,I,3,3,0.359747746,222,1
+Uzbekistan,I,3,4,60.47032854,222,1
+Uzbekistan,I,3,5,5656.26924,222,1
+Uzbekistan,I,3,6,0.542875004,222,1
+Uzbekistan,I,3,7,2.151715226,222,1
+Saint Vincent and the Grenadines,D,0,0,0.009252039,177,0
+Saint Vincent and the Grenadines,D,0,1,27.96650435,177,0
+Saint Vincent and the Grenadines,D,0,3,0.000730178,177,0
+Saint Vincent and the Grenadines,D,0,4,0.29849664,177,0
+Saint Vincent and the Grenadines,D,0,5,14.19252856,177,0
+Saint Vincent and the Grenadines,D,0,6,0.000705551,177,0
+Saint Vincent and the Grenadines,D,0,7,0.01180793,177,0
+Saint Vincent and the Grenadines,D,1,0,1.655236887,177,0
+Saint Vincent and the Grenadines,D,1,1,0.001388865,177,0
+Saint Vincent and the Grenadines,D,1,3,0.673046032,177,0
+Saint Vincent and the Grenadines,D,1,4,0.681175674,177,0
+Saint Vincent and the Grenadines,D,1,5,2.412382854,177,0
+Saint Vincent and the Grenadines,D,1,6,0.647951748,177,0
+Saint Vincent and the Grenadines,D,1,7,1.970992175,177,0
+Saint Vincent and the Grenadines,D,3,0,0.373911602,177,0
+Saint Vincent and the Grenadines,D,3,1,0.926204144,177,0
+Saint Vincent and the Grenadines,D,3,3,0.001396553,177,0
+Saint Vincent and the Grenadines,D,3,4,0.232895614,177,0
+Saint Vincent and the Grenadines,D,3,5,6.786733826,177,0
+Saint Vincent and the Grenadines,D,3,6,0.00134945,177,0
+Saint Vincent and the Grenadines,D,3,7,0.0170421,177,0
+Venezuela,D,0,0,178.262905,224,0
+Venezuela,D,0,1,6664.10881,224,0
+Venezuela,D,0,3,1215.543294,224,0
+Venezuela,D,0,4,696.3140321,224,0
+Venezuela,D,0,5,24464.81586,224,0
+Venezuela,D,0,6,56.41731364,224,0
+Venezuela,D,0,7,1538.48113,224,0
+Venezuela,D,1,0,761.3724697,224,0
+Venezuela,D,1,1,5.254197052,224,0
+Venezuela,D,1,3,2049.610369,224,0
+Venezuela,D,1,4,694.5216216,224,0
+Venezuela,D,1,5,1826.330005,224,0
+Venezuela,D,1,6,426.1268203,224,0
+Venezuela,D,1,7,5538.289947,224,0
+Venezuela,D,3,0,214.9512044,224,0
+Venezuela,D,3,1,187.9440374,224,0
+Venezuela,D,3,3,0.977470948,224,0
+Venezuela,D,3,4,71.85627599,224,0
+Venezuela,D,3,5,7104.219305,224,0
+Venezuela,D,3,6,0.502929333,224,0
+Venezuela,D,3,7,36.28136341,224,0
+Virgin Islands_British,D,0,0,0.0026122,227,0
+Virgin Islands_British,D,0,1,3.32167407,227,0
+Virgin Islands_British,D,0,3,0.00024447,227,0
+Virgin Islands_British,D,0,4,0.029248105,227,0
+Virgin Islands_British,D,0,5,6.47054226,227,0
+Virgin Islands_British,D,0,6,0.000236224,227,0
+Virgin Islands_British,D,0,7,0.004014754,227,0
+Virgin Islands_British,D,1,0,0.56282698,227,0
+Virgin Islands_British,D,1,3,0.228427215,227,0
+Virgin Islands_British,D,1,4,0.231619341,227,0
+Virgin Islands_British,D,1,5,0.714818325,227,0
+Virgin Islands_British,D,1,6,0.22032225,227,0
+Virgin Islands_British,D,1,7,0.670192786,227,0
+Virgin Islands_British,D,3,0,0.126989807,227,0
+Virgin Islands_British,D,3,3,0.000470059,227,0
+Virgin Islands_British,D,3,4,0.000477494,227,0
+Virgin Islands_British,D,3,5,2.403107018,227,0
+Virgin Islands_British,D,3,6,0.000454204,227,0
+Virgin Islands_British,D,3,7,0.005794448,227,0
+Virgin Islands_USA,D,0,1,32.29117632,228,0
+Virgin Islands_USA,D,0,5,16.35100762,228,0
+Virgin Islands_USA,D,3,5,4.260013006,228,0
+Viet Nam,D,0,0,545.6299521,226,0
+Viet Nam,D,0,1,12237.28825,226,0
+Viet Nam,D,0,3,7.878865319,226,0
+Viet Nam,D,0,4,471.7995676,226,0
+Viet Nam,D,0,5,65131.51127,226,0
+Viet Nam,D,0,6,98.25591327,226,0
+Viet Nam,D,0,7,261.6707069,226,0
+Viet Nam,D,1,0,413.9447028,226,0
+Viet Nam,D,1,1,3.045389164,226,0
+Viet Nam,D,1,3,146.9296157,226,0
+Viet Nam,D,1,4,160.0968643,226,0
+Viet Nam,D,1,5,2544.356477,226,0
+Viet Nam,D,1,6,307.2741023,226,0
+Viet Nam,D,1,7,704.0123436,226,0
+Viet Nam,D,3,0,154.5352571,226,0
+Viet Nam,D,3,1,483.5351992,226,0
+Viet Nam,D,3,3,0.430024048,226,0
+Viet Nam,D,3,4,128.8847904,226,0
+Viet Nam,D,3,5,10699.0504,226,0
+Viet Nam,D,3,6,0.848806787,226,0
+Viet Nam,D,3,7,3.238577098,226,0
+Vanuatu,D,0,0,0.210013983,223,0
+Vanuatu,D,0,1,43.66021864,223,0
+Vanuatu,D,0,3,0.000124233,223,0
+Vanuatu,D,0,4,0.570546785,223,0
+Vanuatu,D,0,5,301.7288083,223,0
+Vanuatu,D,0,6,0.000120042,223,0
+Vanuatu,D,0,7,0.015894007,223,0
+Vanuatu,D,1,0,0.440552758,223,0
+Vanuatu,D,1,3,0.15424831,223,0
+Vanuatu,D,1,4,0.193023819,223,0
+Vanuatu,D,1,5,1.387049271,223,0
+Vanuatu,D,1,6,0.145159103,223,0
+Vanuatu,D,1,7,1.850689078,223,0
+Vanuatu,D,3,0,0.147389422,223,0
+Vanuatu,D,3,1,1.37316375,223,0
+Vanuatu,D,3,3,0.000268993,223,0
+Vanuatu,D,3,4,0.343637227,223,0
+Vanuatu,D,3,5,96.58271056,223,0
+Vanuatu,D,3,6,0.000259921,223,0
+Vanuatu,D,3,7,0.016134108,223,0
+Wallis and Futuna,D,0,1,2.34140536,229,0
+Wallis and Futuna,D,0,5,4.00055546,229,0
+Wallis and Futuna,D,3,5,3.27150345,229,0
+Samoa,D,0,0,0.612161901,178,0
+Samoa,D,0,1,34.08933668,178,0
+Samoa,D,0,3,0.000315686,178,0
+Samoa,D,0,4,0.394106342,178,0
+Samoa,D,0,5,104.792728,178,0
+Samoa,D,0,6,0.000305038,178,0
+Samoa,D,0,7,0.040147991,178,0
+Samoa,D,1,0,1.112826993,178,0
+Samoa,D,1,3,0.386483792,178,0
+Samoa,D,1,4,0.487573032,178,0
+Samoa,D,1,5,3.503651701,178,0
+Samoa,D,1,6,0.366668032,178,0
+Samoa,D,1,7,4.674789624,178,0
+Samoa,D,3,0,0.509339504,178,0
+Samoa,D,3,1,1.5026931,178,0
+Samoa,D,3,3,0.00068184,178,0
+Samoa,D,3,4,0.407046889,178,0
+Samoa,D,3,5,27.73277372,178,0
+Samoa,D,3,6,0.000658843,178,0
+Samoa,D,3,7,0.040754495,178,0
+Yemen,D,0,0,84.22085377,231,0
+Yemen,D,0,1,2679.670336,231,0
+Yemen,D,0,3,45.49837469,231,0
+Yemen,D,0,4,58.5124652,231,0
+Yemen,D,0,5,3260.390215,231,0
+Yemen,D,0,6,13.98436458,231,0
+Yemen,D,0,7,114.3496912,231,0
+Yemen,D,1,0,287.9523484,231,0
+Yemen,D,1,3,77.46662917,231,0
+Yemen,D,1,4,39.09073327,231,0
+Yemen,D,1,5,749.2123191,231,0
+Yemen,D,1,6,12.87746695,231,0
+Yemen,D,1,7,308.812405,231,0
+Yemen,D,3,0,21.30056147,231,0
+Yemen,D,3,1,112.34834,231,0
+Yemen,D,3,3,0.068576283,231,0
+Yemen,D,3,4,28.17164559,231,0
+Yemen,D,3,5,1512.711758,231,0
+Yemen,D,3,6,0.026609089,231,0
+Yemen,D,3,7,2.205581839,231,0
+South Africa,D,0,0,507.9510608,190,0
+South Africa,D,0,1,11920.04971,190,0
+South Africa,D,0,3,332.4734721,190,0
+South Africa,D,0,4,1349.306467,190,0
+South Africa,D,0,5,24446.46816,190,0
+South Africa,D,0,6,73.2488302,190,0
+South Africa,D,0,7,48.19889841,190,0
+South Africa,D,1,0,2663.618524,190,0
+South Africa,D,1,3,4400.010905,190,0
+South Africa,D,1,4,1118.607155,190,0
+South Africa,D,1,5,7624.113943,190,0
+South Africa,D,1,6,1631.871422,190,0
+South Africa,D,1,7,2995.533125,190,0
+South Africa,D,3,0,485.2998482,190,0
+South Africa,D,3,1,404.6497,190,0
+South Africa,D,3,3,13.81015026,190,0
+South Africa,D,3,4,129.8051728,190,0
+South Africa,D,3,5,13089.06535,190,0
+South Africa,D,3,6,5.737795432,190,0
+South Africa,D,3,7,52.72603211,190,0
+Zambia,D,0,0,120.4116963,232,0
+Zambia,D,0,1,1220.173184,232,0
+Zambia,D,0,3,0.297093805,232,0
+Zambia,D,0,4,16.13220915,232,0
+Zambia,D,0,5,2758.393492,232,0
+Zambia,D,0,6,0.102016538,232,0
+Zambia,D,0,7,0.707623869,232,0
+Zambia,D,1,0,8.368335895,232,0
+Zambia,D,1,3,30.07242519,232,0
+Zambia,D,1,4,1.254978138,232,0
+Zambia,D,1,5,58.27558962,232,0
+Zambia,D,1,6,15.51793286,232,0
+Zambia,D,1,7,91.37786258,232,0
+Zambia,D,3,0,28.13248061,232,0
+Zambia,D,3,1,64.38493,232,0
+Zambia,D,3,3,0.061014166,232,0
+Zambia,D,3,4,16.14568011,232,0
+Zambia,D,3,5,4749.969094,232,0
+Zambia,D,3,6,0.032594533,232,0
+Zambia,D,3,7,1.690321185,232,0
+Zimbabwe,D,0,0,236.4846243,233,0
+Zimbabwe,D,0,1,1796.925273,233,0
+Zimbabwe,D,0,3,1.291851722,233,0
+Zimbabwe,D,0,4,73.1291739,233,0
+Zimbabwe,D,0,5,6394.059908,233,0
+Zimbabwe,D,0,6,6.503823039,233,0
+Zimbabwe,D,0,7,2.11489862,233,0
+Zimbabwe,D,1,0,79.53116734,233,0
+Zimbabwe,D,1,3,55.29803987,233,0
+Zimbabwe,D,1,4,9.34753447,233,0
+Zimbabwe,D,1,5,1786.28858,233,0
+Zimbabwe,D,1,6,146.962546,233,0
+Zimbabwe,D,1,7,206.9705431,233,0
+Zimbabwe,D,3,0,104.8550236,233,0
+Zimbabwe,D,3,1,73.473635,233,0
+Zimbabwe,D,3,3,0.186438042,233,0
+Zimbabwe,D,3,4,25.85139594,233,0
+Zimbabwe,D,3,5,2825.814021,233,0
+Zimbabwe,D,3,6,0.588430286,233,0
+Zimbabwe,D,3,7,1.661147361,233,0
