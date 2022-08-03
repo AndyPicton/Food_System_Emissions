@@ -1,6 +1,6 @@
 # Food System Emissons
 
-![Background Image](/Team Members/Katelyn/pexels-tom-fisk-1595104.jpg)
+![pexels-tom-fisk-1595104](https://user-images.githubusercontent.com/99369565/182712311-863f6afc-36a7-4bc8-ad13-d51008e855bf.jpg)
 
 ## Table of Contents
 
